@@ -1,0 +1,519 @@
+L 10/15/2014 - 20:35:09: Log file started (file "logs/L1015002.log") (game "/servers/dysfunctional/tf") (version "2445722")
+L 10/15/2014 - 20:35:09: "Console<0><Console><Console>" say ""UGC 6v6 TF2 Standard cfg v.12-30-13 executed, reload map once before start""
+L 10/15/2014 - 20:35:09: "Console<0><Console><Console>" say ""CP Rules - Match Winner is first to reach 5 TOTAL Caps""
+L 10/15/2014 - 20:35:09: "Console<0><Console><Console>" say ""CP Rules - Max 4 caps or 30 mins allowed in round 1""
+L 10/15/2014 - 20:35:09: "Console<0><Console><Console>" say ""Exec ugc_off.cfg at match end to reset server.""
+L 10/15/2014 - 20:35:13: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><>" entered the game
+L 10/15/2014 - 20:35:13: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><>" entered the game
+L 10/15/2014 - 20:35:14: "dysfunctional<4><[U:1:91170287]><>" entered the game
+L 10/15/2014 - 20:35:14: "Leires<15><[U:1:148122993]><>" entered the game
+L 10/15/2014 - 20:35:14: "(???)Danny-O<6><[U:1:39330873]><>" entered the game
+L 10/15/2014 - 20:35:14: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><>" entered the game
+L 10/15/2014 - 20:35:15: "tuz<8><[U:1:19695485]><>" entered the game
+L 10/15/2014 - 20:35:15: "Trox<5><[U:1:84163862]><>" entered the game
+L 10/15/2014 - 20:35:16: "scienide (???)<16><[U:1:64431119]><>" entered the game
+L 10/15/2014 - 20:35:17: "dysfunctional<4><[U:1:91170287]><Unassigned>" joined team "Blue"
+L 10/15/2014 - 20:35:17: "dysfunctional<4><[U:1:91170287]><Blue>" changed role to "scout"
+L 10/15/2014 - 20:35:18: "Chicken McBoners<17><[U:1:79788986]><>" connected, address "0.0.0.0:27005"
+L 10/15/2014 - 20:35:18: "Chicken McBoners<17><[U:1:79788986]><>" STEAM USERID validated
+L 10/15/2014 - 20:35:19: "tuz<8><[U:1:19695485]><Unassigned>" joined team "Blue"
+L 10/15/2014 - 20:35:19: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Unassigned>" joined team "Red"
+L 10/15/2014 - 20:35:19: "(???)Danny-O<6><[U:1:39330873]><Unassigned>" joined team "Blue"
+L 10/15/2014 - 20:35:19: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Unassigned>" joined team "Red"
+L 10/15/2014 - 20:35:20: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" changed role to "pyro"
+L 10/15/2014 - 20:35:20: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><>" entered the game
+L 10/15/2014 - 20:35:20: "(???)Danny-O<6><[U:1:39330873]><Blue>" changed role to "soldier"
+L 10/15/2014 - 20:35:20: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" changed role to "soldier"
+L 10/15/2014 - 20:35:20: "tuz<8><[U:1:19695485]><Blue>" changed role to "soldier"
+L 10/15/2014 - 20:35:24: "Chicken McBoners<17><[U:1:79788986]><>" entered the game
+L 10/15/2014 - 20:35:25: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Unassigned>" joined team "Red"
+L 10/15/2014 - 20:35:26: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" changed role to "soldier"
+L 10/15/2014 - 20:35:26: "kingpie<11><[U:1:78416778]><>" entered the game
+L 10/15/2014 - 20:35:27: "Leires<15><[U:1:148122993]><Unassigned>" joined team "Red"
+L 10/15/2014 - 20:35:29: "Leires<15><[U:1:148122993]><Red>" changed role to "medic"
+L 10/15/2014 - 20:35:29: "scienide (???)<16><[U:1:64431119]><Unassigned>" joined team "Blue"
+L 10/15/2014 - 20:35:31: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" changed role to "scout"
+L 10/15/2014 - 20:35:31: "kingpie<11><[U:1:78416778]><Unassigned>" joined team "Red"
+L 10/15/2014 - 20:35:31: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" committed suicide with "world" (attacker_position "148 621 -63")
+L 10/15/2014 - 20:35:32: "scienide (???)<16><[U:1:64431119]><Blue>" changed role to "medic"
+L 10/15/2014 - 20:35:32: "kingpie<11><[U:1:78416778]><Red>" changed role to "demoman"
+L 10/15/2014 - 20:35:33: "Trox<5><[U:1:84163862]><Unassigned>" joined team "Blue"
+L 10/15/2014 - 20:35:34: "Trox<5><[U:1:84163862]><Blue>" changed role to "scout"
+L 10/15/2014 - 20:35:52: "Chicken McBoners<17><[U:1:79788986]><Unassigned>" joined team "Blue"
+L 10/15/2014 - 20:35:52: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" committed suicide with "world" (attacker_position "-1395 2466 0")
+L 10/15/2014 - 20:35:53: "Chicken McBoners<17><[U:1:79788986]><Blue>" changed role to "demoman"
+L 10/15/2014 - 20:35:57: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Unassigned>" joined team "Red"
+L 10/15/2014 - 20:35:59: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" changed role to "scout"
+L 10/15/2014 - 20:36:01: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "tf_projectile_rocket" (attacker_position "-3712 5718 272") (victim_position "-3480 5581 22")
+L 10/15/2014 - 20:36:02: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "tf_projectile_rocket" (attacker_position "-2767 3955 64") (victim_position "-2617 4012 140")
+L 10/15/2014 - 20:36:04: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" committed suicide with "world" (attacker_position "46 -736 -111")
+L 10/15/2014 - 20:36:06: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "world" (attacker_position "-3199 3504 137") (victim_position "-2711 4024 64")
+L 10/15/2014 - 20:36:33: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "tf_projectile_rocket" (attacker_position "-3779 5763 0") (victim_position "-3664 5921 61")
+L 10/15/2014 - 20:36:37: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_rocket" (attacker_position "-2591 4075 423") (victim_position "-2651 4043 382")
+L 10/15/2014 - 20:36:37: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-2175 3328 49") (attacker_position "-2591 4075 423") (victim_position "-2651 4043 382")
+L 10/15/2014 - 20:36:43: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" committed suicide with "world" (attacker_position "-2424 5023 9")
+L 10/15/2014 - 20:36:45: "tuz<8><[U:1:19695485]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "quake_rl" (attacker_position "-3552 4798 80") (victim_position "-4032 4748 32")
+L 10/15/2014 - 20:36:49: "(???)Danny-O<6><[U:1:39330873]><Blue>" triggered "medic_death" against "Leires<15><[U:1:148122993]><Red>" (healing "0") (ubercharge "0")
+L 10/15/2014 - 20:36:49: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "Leires<15><[U:1:148122993]><Red>" with "tf_projectile_rocket" (attacker_position "-1211 4355 89") (victim_position "-1427 4237 128")
+L 10/15/2014 - 20:36:59: "tuz<8><[U:1:19695485]><Blue>" killed "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" with "quake_rl" (attacker_position "-3231 3695 199") (victim_position "-3214 3532 164")
+L 10/15/2014 - 20:37:00: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "chargedeployed"
+L 10/15/2014 - 20:37:10: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "scattergun" (attacker_position "-1893 4118 160") (victim_position "-1975 4415 68")
+L 10/15/2014 - 20:37:16: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "scattergun" (attacker_position "-2418 4619 249") (victim_position "-2779 4616 117")
+L 10/15/2014 - 20:37:21: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" committed suicide with "world" (attacker_position "-2117 4315 67")
+L 10/15/2014 - 20:37:30: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "scattergun" (attacker_position "-2550 4095 360") (victim_position "-2543 4161 446")
+L 10/15/2014 - 20:37:39: "tuz<8><[U:1:19695485]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "quake_rl" (attacker_position "-5192 6666 -47") (victim_position "-4862 6887 -18")
+L 10/15/2014 - 20:37:57: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "unique_pickaxe_escape" (attacker_position "-3556 3835 128") (victim_position "-3510 3805 147")
+L 10/15/2014 - 20:37:59: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "-3830 3731 181")
+L 10/15/2014 - 20:38:08: "tuz<8><[U:1:19695485]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "quake_rl" (attacker_position "-2735 4031 328") (victim_position "-2482 4103 390")
+L 10/15/2014 - 20:38:11: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" say "Kick someone from your stv"
+L 10/15/2014 - 20:38:14: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "tf_projectile_rocket" (attacker_position "-2428 4071 405") (victim_position "-2709 4176 403")
+L 10/15/2014 - 20:38:37: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "chargedeployed"
+L 10/15/2014 - 20:38:40: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "-4361 5912 -3")
+L 10/15/2014 - 20:38:51: "Trox<5><[U:1:84163862]><Blue>" say "it's not set up"
+L 10/15/2014 - 20:38:53: "Trox<5><[U:1:84163862]><Blue>" say "apologies"
+L 10/15/2014 - 20:38:54: "dysfunctional<4><[U:1:91170287]><Blue>" say "It's not setup"
+L 10/15/2014 - 20:38:56: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "tf_projectile_rocket" (attacker_position "-4913 6695 -18") (victim_position "-4982 6887 208")
+L 10/15/2014 - 20:38:59: "dysfunctional<4><[U:1:91170287]><Blue>" say "no slots"
+L 10/15/2014 - 20:39:01: "Leires<15><[U:1:148122993]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "syringegun_medic" (attacker_position "-943 4065 64") (victim_position "-1007 4284 96")
+L 10/15/2014 - 20:39:01: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" triggered "kill assist" against "tuz<8><[U:1:19695485]><Blue>" (assister_position "-1362 4460 177") (attacker_position "-943 4065 64") (victim_position "-1007 4284 96")
+L 10/15/2014 - 20:39:08: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_rocket" (attacker_position "-2058 4385 391") (victim_position "-2054 4520 252")
+L 10/15/2014 - 20:39:09: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "-2368 4401 120")
+L 10/15/2014 - 20:39:11: "dysfunctional<4><[U:1:91170287]><Blue>" say "It's setup but no viewer slots"
+L 10/15/2014 - 20:39:21: "Leires<15><[U:1:148122993]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "syringegun_medic" (attacker_position "-3176 4227 20") (victim_position "-3495 4330 128")
+L 10/15/2014 - 20:39:30: "dysfunctional<4><[U:1:91170287]><Blue>" triggered "medic_death" against "Leires<15><[U:1:148122993]><Red>" (healing "72") (ubercharge "0")
+L 10/15/2014 - 20:39:30: "dysfunctional<4><[U:1:91170287]><Blue>" killed "Leires<15><[U:1:148122993]><Red>" with "scattergun" (attacker_position "-4190 4207 64") (victim_position "-3956 3966 65")
+L 10/15/2014 - 20:39:36: "tuz<8><[U:1:19695485]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "quake_rl" (attacker_position "-4277 5837 -68") (victim_position "-3976 5486 -84")
+L 10/15/2014 - 20:39:41: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "-2085 4414 336")
+L 10/15/2014 - 20:39:44: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" changed role to "pyro"
+L 10/15/2014 - 20:39:47: World triggered "Round_Start"
+L 10/15/2014 - 20:40:16: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "player_extinguished" against "Chicken McBoners<17><[U:1:79788986]><Blue>" with "tf_weapon_medigun" (attacker_position "-3432 4890 64") (victim_position "-3126 4845 0")
+L 10/15/2014 - 20:40:26: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-2709 3872 142") (victim_position "-2562 3495 -23")
+L 10/15/2014 - 20:40:27: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "scattergun" (attacker_position "-2717 4288 326") (victim_position "-2865 4309 -55")
+L 10/15/2014 - 20:40:27: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "tf_projectile_rocket" (attacker_position "-2814 3797 99") (victim_position "-2918 3794 111")
+L 10/15/2014 - 20:40:27: "kingpie<11><[U:1:78416778]><Red>" triggered "kill assist" against "Chicken McBoners<17><[U:1:79788986]><Blue>" (assister_position "-2562 3495 44") (attacker_position "-2814 3797 99") (victim_position "-2918 3794 111")
+L 10/15/2014 - 20:40:29: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_projectile_rocket" (attacker_position "-2735 4400 374") (victim_position "-2957 4704 0")
+L 10/15/2014 - 20:40:30: "dysfunctional<4><[U:1:91170287]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "scattergun" (attacker_position "-2666 4309 -138") (victim_position "-2502 4085 -148")
+L 10/15/2014 - 20:40:33: "Trox<5><[U:1:84163862]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "scattergun" (attacker_position "-3298 4960 0") (victim_position "-3273 4669 0")
+L 10/15/2014 - 20:40:52: Team "Red" triggered "pointcaptured" (cp "2") (cpname "#CP_cap_cp3") (numcappers "1") (player1 "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>") (position1 "-2795 4131 64") 
+L 10/15/2014 - 20:40:56: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 20:40:56: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_rocket" (attacker_position "-4393 4555 64") (victim_position "-4025 4215 64")
+L 10/15/2014 - 20:41:16: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "chargedeployed"
+L 10/15/2014 - 20:41:18: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "tf_projectile_rocket" (attacker_position "-4867 5608 167") (victim_position "-4880 5850 107")
+L 10/15/2014 - 20:41:18: "kingpie<11><[U:1:78416778]><Red>" triggered "kill assist" against "tuz<8><[U:1:19695485]><Blue>" (assister_position "-4833 5000 0") (attacker_position "-4867 5608 167") (victim_position "-4880 5850 107")
+L 10/15/2014 - 20:41:19: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-4930 5820 144") (victim_position "-4553 5746 184")
+L 10/15/2014 - 20:41:19: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "kill assist" against "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" (assister_position "-5270 5856 65") (attacker_position "-4930 5820 144") (victim_position "-4553 5746 184")
+L 10/15/2014 - 20:41:22: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "scattergun" (attacker_position "-4652 4642 64") (victim_position "-4696 5342 -43")
+L 10/15/2014 - 20:41:22: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-4195 4472 64") (attacker_position "-4652 4642 64") (victim_position "-4696 5342 -43")
+L 10/15/2014 - 20:41:24: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-3950 4957 318") (victim_position "-3987 4813 0")
+L 10/15/2014 - 20:41:24: "Trox<5><[U:1:84163862]><Blue>" triggered "kill assist" against "kingpie<11><[U:1:78416778]><Red>" (assister_position "-4024 5163 4") (attacker_position "-3950 4957 318") (victim_position "-3987 4813 0")
+L 10/15/2014 - 20:41:26: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "1685") (ubercharge "0")
+L 10/15/2014 - 20:41:26: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "scattergun" (attacker_position "-5003 5478 96") (victim_position "-4996 5765 96")
+L 10/15/2014 - 20:41:29: "Trox<5><[U:1:84163862]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "scattergun" (attacker_position "-4333 5425 97") (victim_position "-4451 5598 128")
+L 10/15/2014 - 20:41:29: "dysfunctional<4><[U:1:91170287]><Blue>" triggered "kill assist" against "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" (assister_position "-4965 5839 96") (attacker_position "-4333 5425 97") (victim_position "-4451 5598 128")
+L 10/15/2014 - 20:41:38: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "flaregun" (attacker_position "-3909 3896 89") (victim_position "-3387 4583 10")
+L 10/15/2014 - 20:41:47: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "tf_projectile_rocket" (attacker_position "-3953 5023 5") (victim_position "-4082 5795 -84")
+L 10/15/2014 - 20:42:02: "tuz<8><[U:1:19695485]><Blue>" killed "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" with "quake_rl" (attacker_position "-4457 5605 128") (victim_position "-3943 5245 -18")
+L 10/15/2014 - 20:42:02: "(???)Danny-O<6><[U:1:39330873]><Blue>" triggered "kill assist" against "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" (assister_position "-4195 6034 -34") (attacker_position "-4457 5605 128") (victim_position "-3943 5245 -18")
+L 10/15/2014 - 20:42:13: "dysfunctional<4><[U:1:91170287]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "scattergun" (attacker_position "-4195 6023 -99") (victim_position "-3981 5885 7")
+L 10/15/2014 - 20:42:18: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "player_extinguished" against "tuz<8><[U:1:19695485]><Blue>" with "tf_weapon_medigun" (attacker_position "-4734 5744 131") (victim_position "-4880 5513 112")
+L 10/15/2014 - 20:42:22: "Trox<5><[U:1:84163862]><Blue>" killed "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" with "scattergun" (attacker_position "-3890 4818 0") (victim_position "-3791 4902 20")
+L 10/15/2014 - 20:42:22: "dysfunctional<4><[U:1:91170287]><Blue>" triggered "kill assist" against "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" (assister_position "-4210 5202 -1") (attacker_position "-3890 4818 0") (victim_position "-3791 4902 20")
+L 10/15/2014 - 20:42:31: "dysfunctional<4><[U:1:91170287]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "scattergun" (attacker_position "-3605 3831 128") (victim_position "-3400 3894 128")
+L 10/15/2014 - 20:42:37: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 20:42:38: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_projectile_rocket" (attacker_position "-3096 4363 96") (victim_position "-3372 4520 18")
+L 10/15/2014 - 20:42:38: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-3206 4371 22") (attacker_position "-3096 4363 96") (victim_position "-3372 4520 18")
+L 10/15/2014 - 20:42:41: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "shotgun_soldier" (attacker_position "-3031 4575 0") (victim_position "-2902 4400 158")
+L 10/15/2014 - 20:42:41: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-2886 4817 0") (attacker_position "-3031 4575 0") (victim_position "-2902 4400 158")
+L 10/15/2014 - 20:42:52: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "chargedeployed"
+L 10/15/2014 - 20:42:53: "tuz<8><[U:1:19695485]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "quake_rl" (attacker_position "-3854 3988 116") (victim_position "-3752 3826 198")
+L 10/15/2014 - 20:42:53: "Chicken McBoners<17><[U:1:79788986]><Blue>" triggered "kill assist" against "kingpie<11><[U:1:78416778]><Red>" (assister_position "-3796 3778 128") (attacker_position "-3854 3988 116") (victim_position "-3752 3826 198")
+L 10/15/2014 - 20:42:57: "Chicken McBoners<17><[U:1:79788986]><Blue>" triggered "medic_death" against "Leires<15><[U:1:148122993]><Red>" (healing "3735") (ubercharge "0")
+L 10/15/2014 - 20:42:57: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "Leires<15><[U:1:148122993]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-2946 3955 113") (victim_position "-2620 4035 71")
+L 10/15/2014 - 20:42:57: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "kill assist" against "Leires<15><[U:1:148122993]><Red>" (assister_position "-3218 3839 66") (attacker_position "-2946 3955 113") (victim_position "-2620 4035 71")
+L 10/15/2014 - 20:43:04: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "world" (attacker_position "-3304 3785 83") (victim_position "-3457 3886 128")
+L 10/15/2014 - 20:43:09: "scienide (???)<16><[U:1:64431119]><Blue>" killed "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" with "crusaders_crossbow" (attacker_position "-3093 4717 37") (victim_position "-3618 3895 198")
+L 10/15/2014 - 20:43:10: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "1571") (ubercharge "0")
+L 10/15/2014 - 20:43:10: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "tf_projectile_rocket" (attacker_position "-3102 4558 57") (victim_position "-3295 4940 0")
+L 10/15/2014 - 20:43:18: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "tf_projectile_rocket" (attacker_position "-4138 4169 105") (victim_position "-4112 3939 107")
+L 10/15/2014 - 20:43:20: "dysfunctional<4><[U:1:91170287]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "scattergun" (attacker_position "-4067 3722 64") (victim_position "-4142 3843 141")
+L 10/15/2014 - 20:43:20: "Trox<5><[U:1:84163862]><Blue>" triggered "kill assist" against "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" (assister_position "-4132 4302 64") (attacker_position "-4067 3722 64") (victim_position "-4142 3843 141")
+L 10/15/2014 - 20:43:39: "dysfunctional<4><[U:1:91170287]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "pistol_scout" (attacker_position "-1987 4700 67") (victim_position "-2066 4786 109")
+L 10/15/2014 - 20:43:39: "dysfunctional<4><[U:1:91170287]><Blue>" triggered "domination" against "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>"
+L 10/15/2014 - 20:43:58: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_rocket" (attacker_position "-3638 4822 119") (victim_position "-3957 4903 4")
+L 10/15/2014 - 20:44:02: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_projectile_rocket" (attacker_position "-3056 4293 1") (victim_position "-2480 4273 -112")
+L 10/15/2014 - 20:44:02: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-3173 4380 72") (attacker_position "-3056 4293 1") (victim_position "-2480 4273 -112")
+L 10/15/2014 - 20:44:06: "kingpie<11><[U:1:78416778]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-2666 4922 60") (victim_position "-3032 4909 0")
+L 10/15/2014 - 20:44:06: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "kill assist" against "Trox<5><[U:1:84163862]><Blue>" (assister_position "-2998 4735 0") (attacker_position "-2666 4922 60") (victim_position "-3032 4909 0")
+L 10/15/2014 - 20:44:28: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "world" (attacker_position "-5060 5493 96") (victim_position "-5126 6269 -58")
+L 10/15/2014 - 20:44:45: Team "Red" triggered "pointcaptured" (cp "1") (cpname "the BLU Forward Point") (numcappers "5") (player1 "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>") (position1 "-4516 5789 163") (player2 "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>") (position2 "-4653 5842 128") (player3 "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>") (position3 "-4637 5611 135") (player4 "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>") (position4 "-4565 5709 187") (player5 "Leires<15><[U:1:148122993]><Red>") (position5 "-4689 5574 135") 
+L 10/15/2014 - 20:45:11: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 20:45:12: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "chargedeployed"
+L 10/15/2014 - 20:45:13: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "tf_projectile_rocket" (attacker_position "-3951 7276 59") (victim_position "-3917 7630 14")
+L 10/15/2014 - 20:45:13: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "Chicken McBoners<17><[U:1:79788986]><Blue>" (assister_position "-3863 6991 25") (attacker_position "-3951 7276 59") (victim_position "-3917 7630 14")
+L 10/15/2014 - 20:45:20: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_projectile_rocket" (attacker_position "-4192 7525 -72") (victim_position "-4090 7589 -175")
+L 10/15/2014 - 20:45:20: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-4175 7380 -175") (attacker_position "-4192 7525 -72") (victim_position "-4090 7589 -175")
+L 10/15/2014 - 20:45:23: "dysfunctional<4><[U:1:91170287]><Blue>" killed "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" with "scattergun" (attacker_position "-3808 7102 -191") (victim_position "-3873 7037 -191")
+L 10/15/2014 - 20:45:23: "Trox<5><[U:1:84163862]><Blue>" triggered "kill assist" against "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" (assister_position "-4286 7798 -111") (attacker_position "-3808 7102 -191") (victim_position "-3873 7037 -191")
+L 10/15/2014 - 20:45:25: "tuz<8><[U:1:19695485]><Blue>" triggered "medic_death" against "Leires<15><[U:1:148122993]><Red>" (healing "2208") (ubercharge "0")
+L 10/15/2014 - 20:45:25: "tuz<8><[U:1:19695485]><Blue>" killed "Leires<15><[U:1:148122993]><Red>" with "quake_rl" (attacker_position "-4040 7536 -175") (victim_position "-4268 7142 -180")
+L 10/15/2014 - 20:45:25: "dysfunctional<4><[U:1:91170287]><Blue>" triggered "kill assist" against "Leires<15><[U:1:148122993]><Red>" (assister_position "-4068 7053 -191") (attacker_position "-4040 7536 -175") (victim_position "-4268 7142 -180")
+L 10/15/2014 - 20:45:28: "scienide (???)<16><[U:1:64431119]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "crusaders_crossbow" (attacker_position "-5202 8211 -63") (victim_position "-4783 7998 -100")
+L 10/15/2014 - 20:45:28: "Trox<5><[U:1:84163862]><Blue>" triggered "kill assist" against "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" (assister_position "-4501 7799 -104") (attacker_position "-5202 8211 -63") (victim_position "-4783 7998 -100")
+L 10/15/2014 - 20:45:35: "dysfunctional<4><[U:1:91170287]><Blue>" killed "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" with "scattergun" (attacker_position "-5096 6553 -63") (victim_position "-5286 6887 -63")
+L 10/15/2014 - 20:45:35: "Trox<5><[U:1:84163862]><Blue>" triggered "kill assist" against "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" (assister_position "-4894 7085 -208") (attacker_position "-5096 6553 -63") (victim_position "-5286 6887 -63")
+L 10/15/2014 - 20:45:38: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_rocket" (attacker_position "-4991 6887 -63") (victim_position "-5016 6612 -63")
+L 10/15/2014 - 20:45:38: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-4984 6887 -63") (attacker_position "-4991 6887 -63") (victim_position "-5016 6612 -63")
+L 10/15/2014 - 20:45:44: "tuz<8><[U:1:19695485]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "quake_rl" (attacker_position "-5374 7465 -63") (victim_position "-5227 7195 34")
+L 10/15/2014 - 20:45:44: "Chicken McBoners<17><[U:1:79788986]><Blue>" triggered "kill assist" against "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" (assister_position "-5384 7155 -20") (attacker_position "-5374 7465 -63") (victim_position "-5227 7195 34")
+L 10/15/2014 - 20:45:52: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-5371 6831 -9") (victim_position "-4488 6789 8")
+L 10/15/2014 - 20:45:58: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "tf_projectile_rocket" (attacker_position "-4406 5834 128") (victim_position "-4723 5987 -63")
+L 10/15/2014 - 20:46:03: "Chicken McBoners<17><[U:1:79788986]><Blue>" triggered "medic_death" against "Leires<15><[U:1:148122993]><Red>" (healing "252") (ubercharge "0")
+L 10/15/2014 - 20:46:03: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "Leires<15><[U:1:148122993]><Red>" with "tf_projectile_pipe" (attacker_position "-5261 6530 -63") (victim_position "-4849 5750 128")
+L 10/15/2014 - 20:46:13: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "tf_projectile_rocket" (attacker_position "-4570 6386 108") (victim_position "-4813 6305 34")
+L 10/15/2014 - 20:46:14: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "player_extinguished" against "Chicken McBoners<17><[U:1:79788986]><Blue>" with "tf_weapon_medigun" (attacker_position "-5369 7712 -63") (victim_position "-5395 7423 -63")
+L 10/15/2014 - 20:46:16: "dysfunctional<4><[U:1:91170287]><Blue>" killed "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" with "scattergun" (attacker_position "-4757 6147 -63") (victim_position "-4557 5944 -54")
+L 10/15/2014 - 20:46:20: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "chargedeployed"
+L 10/15/2014 - 20:46:23: "kingpie<11><[U:1:78416778]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_pipe" (attacker_position "-4493 4581 131") (victim_position "-4679 4689 64")
+L 10/15/2014 - 20:46:35: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "captureblocked" (cp "1") (cpname "the BLU Forward Point") (position "-4847 5788 173")
+L 10/15/2014 - 20:46:37: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "shotgun_soldier" (attacker_position "-4607 5701 135") (victim_position "-4623 5565 134")
+L 10/15/2014 - 20:46:37: "kingpie<11><[U:1:78416778]><Red>" triggered "kill assist" against "Chicken McBoners<17><[U:1:79788986]><Blue>" (assister_position "-4217 5154 4") (attacker_position "-4607 5701 135") (victim_position "-4623 5565 134")
+L 10/15/2014 - 20:46:38: "kingpie<11><[U:1:78416778]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "2799") (ubercharge "0")
+L 10/15/2014 - 20:46:38: "kingpie<11><[U:1:78416778]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-4324 5154 -62") (victim_position "-4621 5236 -22")
+L 10/15/2014 - 20:46:38: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "kill assist" against "scienide (???)<16><[U:1:64431119]><Blue>" (assister_position "-4794 5567 128") (attacker_position "-4324 5154 -62") (victim_position "-4621 5236 -22")
+L 10/15/2014 - 20:46:42: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "shotgun_soldier" (attacker_position "-4644 5173 -18") (victim_position "-4943 5001 111")
+L 10/15/2014 - 20:46:42: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "domination" against "(???)Danny-O<6><[U:1:39330873]><Blue>"
+L 10/15/2014 - 20:46:42: "Trox<5><[U:1:84163862]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "scattergun" (attacker_position "-5116 5700 96") (victim_position "-4952 5625 118")
+L 10/15/2014 - 20:46:42: "(???)Danny-O<6><[U:1:39330873]><Blue>" triggered "kill assist" against "kingpie<11><[U:1:78416778]><Red>" (assister_position "-5031 5016 99") (attacker_position "-5116 5700 96") (victim_position "-4952 5625 118")
+L 10/15/2014 - 20:46:42: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" triggered "captureblocked" (cp "1") (cpname "the BLU Forward Point") (position "-4582 5775 134")
+L 10/15/2014 - 20:46:47: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "degreaser" (attacker_position "-4981 5721 96") (victim_position "-4972 5796 96")
+L 10/15/2014 - 20:46:47: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "kill assist" against "Trox<5><[U:1:84163862]><Blue>" (assister_position "-5017 5622 96") (attacker_position "-4981 5721 96") (victim_position "-4972 5796 96")
+L 10/15/2014 - 20:46:59: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "tf_projectile_rocket" (attacker_position "-4568 7627 -132") (victim_position "-4473 7759 -85")
+L 10/15/2014 - 20:47:01: "dysfunctional<4><[U:1:91170287]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "scattergun" (attacker_position "-4504 7357 -175") (victim_position "-4395 7797 -71")
+L 10/15/2014 - 20:47:01: "tuz<8><[U:1:19695485]><Blue>" triggered "kill assist" against "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" (assister_position "-4473 7759 -71") (attacker_position "-4504 7357 -175") (victim_position "-4395 7797 -71")
+L 10/15/2014 - 20:47:02: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-4888 7955 -23") (victim_position "-4424 7830 -104")
+L 10/15/2014 - 20:47:02: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "kill assist" against "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" (assister_position "-4980 8030 -63") (attacker_position "-4888 7955 -23") (victim_position "-4424 7830 -104")
+L 10/15/2014 - 20:47:03: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "103") (ubercharge "0")
+L 10/15/2014 - 20:47:03: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "tf_projectile_rocket" (attacker_position "-4922 7863 -63") (victim_position "-4986 8032 120")
+L 10/15/2014 - 20:47:05: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "world" (attacker_position "-4527 7750 -109") (victim_position "-4025 7454 -160")
+L 10/15/2014 - 20:47:05: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "Chicken McBoners<17><[U:1:79788986]><Blue>" (assister_position "-4963 7605 -120") (attacker_position "-4527 7750 -109") (victim_position "-4025 7454 -160")
+L 10/15/2014 - 20:47:05: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "domination" against "Chicken McBoners<17><[U:1:79788986]><Blue>"
+L 10/15/2014 - 20:47:07: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#CP_cap_blue_cp1") (numcappers "1") (player1 "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>") (position1 "-4467 7595 -111") 
+L 10/15/2014 - 20:47:07: World triggered "Round_Win" (winner "Red")
+L 10/15/2014 - 20:47:07: World triggered "Round_Length" (seconds "439.65")
+L 10/15/2014 - 20:47:07: Team "Red" current score "1" with "6" players
+L 10/15/2014 - 20:47:07: Team "Blue" current score "0" with "6" players
+L 10/15/2014 - 20:47:07: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "degreaser" (attacker_position "-4555 7217 -191") (victim_position "-4581 7092 -191")
+L 10/15/2014 - 20:47:11: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "shotgun_soldier" (attacker_position "-4741 8076 -111") (victim_position "-4839 8226 -111")
+L 10/15/2014 - 20:47:11: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-4727 7995 -111") (attacker_position "-4741 8076 -111") (victim_position "-4839 8226 -111")
+L 10/15/2014 - 20:47:12: World triggered "Round_Start"
+L 10/15/2014 - 20:47:40: "dysfunctional<4><[U:1:91170287]><Blue>" killed "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" with "scattergun" (attacker_position "-2798 4152 352") (victim_position "-2445 4094 399")
+L 10/15/2014 - 20:47:42: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "world" (attacker_position "-2450 4100 428") (victim_position "-2773 4040 66")
+L 10/15/2014 - 20:47:46: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "tf_projectile_pipe" (attacker_position "-3149 4215 18") (victim_position "-1895 3500 0")
+L 10/15/2014 - 20:47:46: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "kill assist" against "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" (assister_position "-3314 4311 76") (attacker_position "-3149 4215 18") (victim_position "-1895 3500 0")
+L 10/15/2014 - 20:47:58: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-3160 4295 18") (victim_position "-3195 4667 2")
+L 10/15/2014 - 20:48:01: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "player_extinguished" against "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_weapon_medigun" (attacker_position "-3143 3965 51") (victim_position "-3157 3862 61")
+L 10/15/2014 - 20:48:05: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "#CP_cap_cp3") (numcappers "4") (player1 "Trox<5><[U:1:84163862]><Blue>") (position1 "-2599 4140 71") (player2 "tuz<8><[U:1:19695485]><Blue>") (position2 "-2353 4074 102") (player3 "Chicken McBoners<17><[U:1:79788986]><Blue>") (position3 "-2369 4107 64") (player4 "scienide (???)<16><[U:1:64431119]><Blue>") (position4 "-2231 4065 64") 
+L 10/15/2014 - 20:48:11: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "chargedeployed"
+L 10/15/2014 - 20:48:15: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-634 2909 -25") (victim_position "-620 2978 -23")
+L 10/15/2014 - 20:48:15: "Trox<5><[U:1:84163862]><Blue>" triggered "kill assist" against "kingpie<11><[U:1:78416778]><Red>" (assister_position "-191 3107 10") (attacker_position "-634 2909 -25") (victim_position "-620 2978 -23")
+L 10/15/2014 - 20:48:18: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "tf_projectile_rocket" (attacker_position "222 2269 -37") (victim_position "279 2216 86")
+L 10/15/2014 - 20:48:18: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "Trox<5><[U:1:84163862]><Blue>" (assister_position "196 2042 -64") (attacker_position "222 2269 -37") (victim_position "279 2216 86")
+L 10/15/2014 - 20:48:20: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 20:48:22: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "1562") (ubercharge "0")
+L 10/15/2014 - 20:48:22: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" triggered "captureblocked" (cp "3") (cpname "the RED Forward Point") (position "-59 2599 158")
+L 10/15/2014 - 20:48:22: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "tf_projectile_rocket" (attacker_position "-59 2599 158") (victim_position "-617 2598 128")
+L 10/15/2014 - 20:48:22: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "kill assist" against "scienide (???)<16><[U:1:64431119]><Blue>" (assister_position "-195 2602 211") (attacker_position "-59 2599 158") (victim_position "-617 2598 128")
+L 10/15/2014 - 20:48:34: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "tf_projectile_rocket" (attacker_position "-1767 2575 -24") (victim_position "-1758 3086 -127")
+L 10/15/2014 - 20:48:41: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_projectile_rocket" (attacker_position "-1178 2937 -20") (victim_position "-413 2884 8")
+L 10/15/2014 - 20:48:41: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-492 3090 -8") (attacker_position "-1178 2937 -20") (victim_position "-413 2884 8")
+L 10/15/2014 - 20:48:57: "Trox<5><[U:1:84163862]><Blue>" killed "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" with "scattergun" (attacker_position "-1691 4108 128") (victim_position "-1679 4078 128")
+L 10/15/2014 - 20:49:10: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "player_extinguished" against "Chicken McBoners<17><[U:1:79788986]><Blue>" with "tf_weapon_medigun" (attacker_position "-1993 4244 49") (victim_position "-1841 4451 85")
+L 10/15/2014 - 20:49:19: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 20:49:20: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "scattergun" (attacker_position "-976 2950 -9") (victim_position "-1063 2696 -10")
+L 10/15/2014 - 20:49:20: "kingpie<11><[U:1:78416778]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-1013 3106 8") (attacker_position "-976 2950 -9") (victim_position "-1063 2696 -10")
+L 10/15/2014 - 20:49:20: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" triggered "revenge" against "dysfunctional<4><[U:1:91170287]><Blue>"
+L 10/15/2014 - 20:49:27: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "923") (ubercharge "0")
+L 10/15/2014 - 20:49:27: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "tf_projectile_rocket" (attacker_position "-2186 4309 142") (victim_position "-2248 4245 64")
+L 10/15/2014 - 20:49:27: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "world" (attacker_position "-1934 4314 75") (victim_position "-2186 4309 142")
+L 10/15/2014 - 20:49:27: "tuz<8><[U:1:19695485]><Blue>" triggered "kill assist" against "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" (assister_position "-1983 4315 98") (attacker_position "-1934 4314 75") (victim_position "-2186 4309 142")
+L 10/15/2014 - 20:49:28: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "tf_projectile_rocket" (attacker_position "-1742 2636 44") (victim_position "-1448 2494 45")
+L 10/15/2014 - 20:49:28: "Trox<5><[U:1:84163862]><Blue>" triggered "kill assist" against "kingpie<11><[U:1:78416778]><Red>" (assister_position "-1746 2602 -75") (attacker_position "-1742 2636 44") (victim_position "-1448 2494 45")
+L 10/15/2014 - 20:49:30: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "scattergun" (attacker_position "-1352 2386 47") (victim_position "-1498 2481 -9")
+L 10/15/2014 - 20:49:51: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "tf_projectile_rocket" (attacker_position "-1075 4109 64") (victim_position "-990 4151 64")
+L 10/15/2014 - 20:49:51: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "Trox<5><[U:1:84163862]><Blue>" (assister_position "-1104 3850 64") (attacker_position "-1075 4109 64") (victim_position "-990 4151 64")
+L 10/15/2014 - 20:49:55: "tuz<8><[U:1:19695485]><Blue>" killed "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" with "shotgun_soldier" (attacker_position "-3371 3555 82") (victim_position "-2971 3224 118")
+L 10/15/2014 - 20:50:00: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "player_extinguished" against "tuz<8><[U:1:19695485]><Blue>" with "tf_weapon_medigun" (attacker_position "-3540 3937 128") (victim_position "-3401 3641 121")
+L 10/15/2014 - 20:50:11: "tuz<8><[U:1:19695485]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "quake_rl" (attacker_position "-2055 4038 48") (victim_position "-2087 4231 64")
+L 10/15/2014 - 20:50:11: "Chicken McBoners<17><[U:1:79788986]><Blue>" triggered "kill assist" against "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" (assister_position "-2673 4138 64") (attacker_position "-2055 4038 48") (victim_position "-2087 4231 64")
+L 10/15/2014 - 20:50:11: "Chicken McBoners<17><[U:1:79788986]><Blue>" triggered "domination" against "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" (assist "1")
+L 10/15/2014 - 20:50:21: "kingpie<11><[U:1:78416778]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-1313 2435 0") (victim_position "-1887 2852 -139")
+L 10/15/2014 - 20:50:24: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_projectile_rocket" (attacker_position "-906 3718 64") (victim_position "-958 4022 64")
+L 10/15/2014 - 20:50:24: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-591 3656 64") (attacker_position "-906 3718 64") (victim_position "-958 4022 64")
+L 10/15/2014 - 20:50:24: "Leires<15><[U:1:148122993]><Red>" triggered "domination" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assist "1")
+L 10/15/2014 - 20:50:37: "kingpie<11><[U:1:78416778]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-1476 4141 128") (victim_position "-1875 4486 85")
+L 10/15/2014 - 20:50:37: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "kill assist" against "tuz<8><[U:1:19695485]><Blue>" (assister_position "-1595 4371 128") (attacker_position "-1476 4141 128") (victim_position "-1875 4486 85")
+L 10/15/2014 - 20:50:41: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 20:50:52: "Trox<5><[U:1:84163862]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "scattergun" (attacker_position "-2546 4001 71") (victim_position "-2391 4143 64")
+L 10/15/2014 - 20:50:54: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "flaregun" (attacker_position "-2741 4848 -5") (victim_position "-2572 4446 301")
+L 10/15/2014 - 20:50:54: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-2995 4408 -18") (attacker_position "-2741 4848 -5") (victim_position "-2572 4446 301")
+L 10/15/2014 - 20:50:56: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" with "tf_projectile_rocket" (attacker_position "-3481 4325 128") (victim_position "-3375 4565 59")
+L 10/15/2014 - 20:50:56: "(???)Danny-O<6><[U:1:39330873]><Blue>" triggered "revenge" against "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>"
+L 10/15/2014 - 20:51:01: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "chargedeployed"
+L 10/15/2014 - 20:51:09: "Trox<5><[U:1:84163862]><Blue>" triggered "captureblocked" (cp "2") (cpname "#CP_cap_cp3") (position "-2219 4048 64")
+L 10/15/2014 - 20:51:12: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-2927 4665 97") (victim_position "-2854 4329 8")
+L 10/15/2014 - 20:51:12: "Trox<5><[U:1:84163862]><Blue>" triggered "kill assist" against "kingpie<11><[U:1:78416778]><Red>" (assister_position "-2931 4144 64") (attacker_position "-2927 4665 97") (victim_position "-2854 4329 8")
+L 10/15/2014 - 20:51:14: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "tf_projectile_rocket" (attacker_position "-2487 4320 -65") (victim_position "-2626 4183 -155")
+L 10/15/2014 - 20:51:14: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "kill assist" against "Trox<5><[U:1:84163862]><Blue>" (assister_position "-1896 3607 8") (attacker_position "-2487 4320 -65") (victim_position "-2626 4183 -155")
+L 10/15/2014 - 20:51:31: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" with "tf_projectile_pipe" (attacker_position "-1654 3418 80") (victim_position "-952 3127 16")
+L 10/15/2014 - 20:51:31: "tuz<8><[U:1:19695485]><Blue>" triggered "kill assist" against "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" (assister_position "-2086 3785 -7") (attacker_position "-1654 3418 80") (victim_position "-952 3127 16")
+L 10/15/2014 - 20:51:34: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "scattergun" (attacker_position "-1127 3109 7") (victim_position "-1250 3227 61")
+L 10/15/2014 - 20:51:34: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "kill assist" against "Chicken McBoners<17><[U:1:79788986]><Blue>" (assister_position "-1225 3428 54") (attacker_position "-1127 3109 7") (victim_position "-1250 3227 61")
+L 10/15/2014 - 20:51:35: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "player_extinguished" against "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_weapon_medigun" (attacker_position "-1624 3945 128") (victim_position "-1660 3863 128")
+L 10/15/2014 - 20:51:43: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_rocket" (attacker_position "-1329 4455 128") (victim_position "-1719 4261 128")
+L 10/15/2014 - 20:51:43: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-1927 3450 0") (attacker_position "-1329 4455 128") (victim_position "-1719 4261 128")
+L 10/15/2014 - 20:51:47: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "tf_projectile_rocket" (attacker_position "-1294 4253 218") (victim_position "-1728 4428 128")
+L 10/15/2014 - 20:51:47: "kingpie<11><[U:1:78416778]><Red>" triggered "kill assist" against "tuz<8><[U:1:19695485]><Blue>" (assister_position "-1222 4293 95") (attacker_position "-1294 4253 218") (victim_position "-1728 4428 128")
+L 10/15/2014 - 20:51:55: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" with "tf_projectile_rocket" (attacker_position "-1717 4245 585") (victim_position "-1762 4498 377")
+L 10/15/2014 - 20:51:57: "kingpie<11><[U:1:78416778]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-1905 4841 64") (victim_position "-1774 4471 374")
+L 10/15/2014 - 20:51:57: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-1893 4397 77") (attacker_position "-1905 4841 64") (victim_position "-1774 4471 374")
+L 10/15/2014 - 20:51:58: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 20:52:06: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "scattergun" (attacker_position "-999 4455 64") (victim_position "-984 4314 64")
+L 10/15/2014 - 20:52:11: "kingpie<11><[U:1:78416778]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-3154 4647 2") (victim_position "-3231 4573 33")
+L 10/15/2014 - 20:52:11: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-3203 4059 28") (attacker_position "-3154 4647 2") (victim_position "-3231 4573 33")
+L 10/15/2014 - 20:52:17: Team "Red" triggered "pointcaptured" (cp "2") (cpname "#CP_cap_cp3") (numcappers "4") (player1 "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>") (position1 "-2538 3954 64") (player2 "kingpie<11><[U:1:78416778]><Red>") (position2 "-2656 4080 64") (player3 "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>") (position3 "-2559 4131 71") (player4 "Leires<15><[U:1:148122993]><Red>") (position4 "-2486 4075 71") 
+L 10/15/2014 - 20:52:31: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "world" (attacker_position "-3878 4817 0") (victim_position "-4211 4436 95")
+L 10/15/2014 - 20:52:31: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-3406 4967 51") (attacker_position "-3878 4817 0") (victim_position "-4211 4436 95")
+L 10/15/2014 - 20:52:32: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "tf_projectile_rocket" (attacker_position "-4407 6867 -143") (victim_position "-4503 6759 -191")
+L 10/15/2014 - 20:52:41: "dysfunctional<4><[U:1:91170287]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "pistol_scout" (attacker_position "-5028 7665 -175") (victim_position "-5204 7461 0")
+L 10/15/2014 - 20:52:45: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "chargedeployed"
+L 10/15/2014 - 20:52:48: "Trox<5><[U:1:84163862]><Blue>" changed role to "sniper"
+L 10/15/2014 - 20:52:50: "kingpie<11><[U:1:78416778]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_pipe" (attacker_position "-4322 5019 -58") (victim_position "-4210 5645 -74")
+L 10/15/2014 - 20:52:50: "kingpie<11><[U:1:78416778]><Red>" triggered "domination" against "dysfunctional<4><[U:1:91170287]><Blue>"
+L 10/15/2014 - 20:52:57: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "scattergun" (attacker_position "-4059 5074 9") (victim_position "-3903 4722 71")
+L 10/15/2014 - 20:52:57: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "kill assist" against "Chicken McBoners<17><[U:1:79788986]><Blue>" (assister_position "-3825 4793 3") (attacker_position "-4059 5074 9") (victim_position "-3903 4722 71")
+L 10/15/2014 - 20:53:01: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "shotgun_soldier" (attacker_position "-5207 6119 25") (victim_position "-5352 6418 20")
+L 10/15/2014 - 20:53:01: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "domination" against "tuz<8><[U:1:19695485]><Blue>"
+L 10/15/2014 - 20:53:08: Team "Red" triggered "pointcaptured" (cp "1") (cpname "the BLU Forward Point") (numcappers "5") (player1 "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>") (position1 "-4583 5788 129") (player2 "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>") (position2 "-4635 5845 128") (player3 "kingpie<11><[U:1:78416778]><Red>") (position3 "-4853 5751 128") (player4 "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>") (position4 "-4756 5728 128") (player5 "Leires<15><[U:1:148122993]><Red>") (position5 "-4663 5590 135") 
+L 10/15/2014 - 20:53:22: "dysfunctional<4><[U:1:91170287]><Blue>" killed "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" with "scattergun" (attacker_position "-4391 6564 -81") (victim_position "-4620 6718 -76")
+L 10/15/2014 - 20:53:23: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 20:53:25: "kingpie<11><[U:1:78416778]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_pipe" (attacker_position "-4509 6818 -201") (victim_position "-4800 6815 -204")
+L 10/15/2014 - 20:53:25: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-4588 6821 -63") (attacker_position "-4509 6818 -201") (victim_position "-4800 6815 -204")
+L 10/15/2014 - 20:53:39: "tuz<8><[U:1:19695485]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "quake_rl" (attacker_position "-4425 7697 32") (victim_position "-4635 7604 -147")
+L 10/15/2014 - 20:53:39: "Trox<5><[U:1:84163862]><Blue>" triggered "kill assist" against "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" (assister_position "-4985 7940 -63") (attacker_position "-4425 7697 32") (victim_position "-4635 7604 -147")
+L 10/15/2014 - 20:53:50: "kingpie<11><[U:1:78416778]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-5158 5962 -63") (victim_position "-5207 6345 -63")
+L 10/15/2014 - 20:53:55: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-4618 6602 162") (victim_position "-4200 6534 131")
+L 10/15/2014 - 20:53:55: "(???)Danny-O<6><[U:1:39330873]><Blue>" triggered "kill assist" against "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" (assister_position "-4244 6842 64") (attacker_position "-4618 6602 162") (victim_position "-4200 6534 131")
+L 10/15/2014 - 20:53:55: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "flaregun" (attacker_position "-4200 6534 145") (victim_position "-4622 6603 159")
+L 10/15/2014 - 20:54:04: "Trox<5><[U:1:84163862]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "-5395 7573 -63") (victim_position "-5080 6375 -63")
+L 10/15/2014 - 20:54:12: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_projectile_rocket" (attacker_position "-4107 6887 99") (victim_position "-3879 6888 80")
+L 10/15/2014 - 20:54:12: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-4445 6875 6") (attacker_position "-4107 6887 99") (victim_position "-3879 6888 80")
+L 10/15/2014 - 20:54:37: "kingpie<11><[U:1:78416778]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_pipe" (attacker_position "-4377 6563 -191") (victim_position "-4372 6622 -191")
+L 10/15/2014 - 20:54:37: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-4594 6610 -127") (attacker_position "-4377 6563 -191") (victim_position "-4372 6622 -191")
+L 10/15/2014 - 20:54:44: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 20:54:46: "Trox<5><[U:1:84163862]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "-4393 8095 -111") (victim_position "-5419 7587 -63")
+L 10/15/2014 - 20:54:50: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "chargedeployed"
+L 10/15/2014 - 20:54:51: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "world" (attacker_position "-4529 7852 -111") (victim_position "-4454 7449 -111")
+L 10/15/2014 - 20:54:51: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-4693 7857 -137") (attacker_position "-4529 7852 -111") (victim_position "-4454 7449 -111")
+L 10/15/2014 - 20:54:57: "kingpie<11><[U:1:78416778]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "tf_projectile_pipe" (attacker_position "-4996 7549 -124") (victim_position "-5115 7783 -151")
+L 10/15/2014 - 20:54:57: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "shotgun_soldier" (attacker_position "-3910 7980 -15") (victim_position "-3834 8310 -65")
+L 10/15/2014 - 20:54:59: "tuz<8><[U:1:19695485]><Blue>" killed "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" with "quake_rl" (attacker_position "-3881 7861 -175") (victim_position "-3959 7542 -175")
+L 10/15/2014 - 20:55:00: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "degreaser" (attacker_position "-3959 7542 -107") (victim_position "-3959 7840 -175")
+L 10/15/2014 - 20:55:00: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" triggered "kill assist" against "tuz<8><[U:1:19695485]><Blue>" (assister_position "-4066 7677 -171") (attacker_position "-3959 7542 -107") (victim_position "-3959 7840 -175")
+L 10/15/2014 - 20:55:03: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#CP_cap_blue_cp1") (numcappers "3") (player1 "kingpie<11><[U:1:78416778]><Red>") (position1 "-4407 7684 -104") (player2 "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>") (position2 "-4562 7760 -111") (player3 "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>") (position3 "-4485 7769 -104") 
+L 10/15/2014 - 20:55:03: World triggered "Round_Win" (winner "Red")
+L 10/15/2014 - 20:55:03: World triggered "Round_Length" (seconds "470.89")
+L 10/15/2014 - 20:55:03: Team "Red" current score "2" with "6" players
+L 10/15/2014 - 20:55:03: Team "Blue" current score "0" with "6" players
+L 10/15/2014 - 20:55:03: "Trox<5><[U:1:84163862]><Blue>" changed role to "scout"
+L 10/15/2014 - 20:55:04: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "4167") (ubercharge "0")
+L 10/15/2014 - 20:55:04: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "quake_rl" (attacker_position "-4587 7780 -114") (victim_position "-5239 8444 -63")
+L 10/15/2014 - 20:55:04: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "kill assist" against "scienide (???)<16><[U:1:64431119]><Blue>" (assister_position "-4337 7760 -104") (attacker_position "-4587 7780 -114") (victim_position "-5239 8444 -63")
+L 10/15/2014 - 20:55:05: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "quake_rl" (attacker_position "-4780 7948 -50") (victim_position "-4763 7852 -33")
+L 10/15/2014 - 20:55:08: World triggered "Round_Start"
+L 10/15/2014 - 20:55:32: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-3326 4906 98") (victim_position "-1841 3351 0")
+L 10/15/2014 - 20:55:32: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "kill assist" against "kingpie<11><[U:1:78416778]><Red>" (assister_position "-3673 4846 99") (attacker_position "-3326 4906 98") (victim_position "-1841 3351 0")
+L 10/15/2014 - 20:55:34: "tuz<8><[U:1:19695485]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "quake_rl" (attacker_position "-3226 4741 0") (victim_position "-3341 4954 52")
+L 10/15/2014 - 20:55:34: "dysfunctional<4><[U:1:91170287]><Blue>" triggered "kill assist" against "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" (assister_position "-3272 4735 0") (attacker_position "-3226 4741 0") (victim_position "-3341 4954 52")
+L 10/15/2014 - 20:55:37: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "flaregun" (attacker_position "-2111 3423 0") (victim_position "-2218 3796 99")
+L 10/15/2014 - 20:55:37: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "Trox<5><[U:1:84163862]><Blue>" (assister_position "-1796 3234 9") (attacker_position "-2111 3423 0") (victim_position "-2218 3796 99")
+L 10/15/2014 - 20:55:43: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" with "world" (attacker_position "-3148 4510 36") (victim_position "-1918 3801 29")
+L 10/15/2014 - 20:55:43: "Chicken McBoners<17><[U:1:79788986]><Blue>" triggered "revenge" against "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>"
+L 10/15/2014 - 20:55:44: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "flaregun" (attacker_position "-1895 4504 83") (victim_position "-1624 4654 253")
+L 10/15/2014 - 20:55:58: "tuz<8><[U:1:19695485]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "quake_rl" (attacker_position "-3196 4663 45") (victim_position "-3214 4755 0")
+L 10/15/2014 - 20:56:13: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "#CP_cap_cp3") (numcappers "3") (player1 "dysfunctional<4><[U:1:91170287]><Blue>") (position1 "-2354 4140 64") (player2 "tuz<8><[U:1:19695485]><Blue>") (position2 "-2745 4079 64") (player3 "Chicken McBoners<17><[U:1:79788986]><Blue>") (position3 "-2773 4055 64") 
+L 10/15/2014 - 20:56:20: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "flaregun" (attacker_position "-957 3794 64") (victim_position "-783 3895 138")
+L 10/15/2014 - 20:56:20: "kingpie<11><[U:1:78416778]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-830 3580 64") (attacker_position "-957 3794 64") (victim_position "-783 3895 138")
+L 10/15/2014 - 20:56:20: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "domination" against "dysfunctional<4><[U:1:91170287]><Blue>"
+L 10/15/2014 - 20:56:42: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-1808 4459 128") (victim_position "-1353 4232 194")
+L 10/15/2014 - 20:56:42: "Chicken McBoners<17><[U:1:79788986]><Blue>" triggered "domination" against "kingpie<11><[U:1:78416778]><Red>"
+L 10/15/2014 - 20:56:48: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "player_extinguished" against "Trox<5><[U:1:84163862]><Blue>" with "tf_weapon_medigun" (attacker_position "-2039 4327 59") (victim_position "-2024 4204 53")
+L 10/15/2014 - 20:56:48: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 20:56:53: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "chargedeployed"
+L 10/15/2014 - 20:56:55: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "world" (attacker_position "-2098 2951 -62") (victim_position "-2547 3965 -145")
+L 10/15/2014 - 20:56:58: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_projectile_rocket" (attacker_position "-1090 4028 159") (victim_position "-972 3939 110")
+L 10/15/2014 - 20:56:58: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-1026 4291 157") (attacker_position "-1090 4028 159") (victim_position "-972 3939 110")
+L 10/15/2014 - 20:57:11: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "flaregun" (attacker_position "-1133 4352 160") (victim_position "-1719 4173 146")
+L 10/15/2014 - 20:57:13: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "quake_rl" (attacker_position "-2256 3878 82") (victim_position "-2149 4192 79")
+L 10/15/2014 - 20:57:13: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" triggered "kill assist" against "Chicken McBoners<17><[U:1:79788986]><Blue>" (assister_position "-2663 2963 20") (attacker_position "-2256 3878 82") (victim_position "-2149 4192 79")
+L 10/15/2014 - 20:57:13: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" triggered "revenge" against "Chicken McBoners<17><[U:1:79788986]><Blue>"
+L 10/15/2014 - 20:57:16: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "scattergun" (attacker_position "-2661 3663 -54") (victim_position "-2492 4235 -127")
+L 10/15/2014 - 20:57:16: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" triggered "kill assist" against "Trox<5><[U:1:84163862]><Blue>" (assister_position "-2612 4164 -116") (attacker_position "-2661 3663 -54") (victim_position "-2492 4235 -127")
+L 10/15/2014 - 20:57:18: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "2604") (ubercharge "0")
+L 10/15/2014 - 20:57:18: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "tf_projectile_rocket" (attacker_position "-3002 4738 0") (victim_position "-3142 4967 130")
+L 10/15/2014 - 20:57:18: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "domination" against "scienide (???)<16><[U:1:64431119]><Blue>"
+L 10/15/2014 - 20:57:31: Team "Red" triggered "pointcaptured" (cp "2") (cpname "#CP_cap_cp3") (numcappers "2") (player1 "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>") (position1 "-2536 4025 71") (player2 "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>") (position2 "-2792 4107 64") 
+L 10/15/2014 - 20:57:50: Team "Red" triggered "pointcaptured" (cp "1") (cpname "the BLU Forward Point") (numcappers "3") (player1 "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>") (position1 "-4410 5761 128") (player2 "kingpie<11><[U:1:78416778]><Red>") (position2 "-4688 5620 135") (player3 "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>") (position3 "-4703 5655 135") 
+L 10/15/2014 - 20:57:55: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "tf_projectile_rocket" (attacker_position "-4247 6614 64") (victim_position "-4954 6841 -63")
+L 10/15/2014 - 20:57:55: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" triggered "kill assist" against "Trox<5><[U:1:84163862]><Blue>" (assister_position "-3739 6323 0") (attacker_position "-4247 6614 64") (victim_position "-4954 6841 -63")
+L 10/15/2014 - 20:58:07: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 20:58:10: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "tf_projectile_rocket" (attacker_position "-5160 8152 -7") (victim_position "-5344 8097 -63")
+L 10/15/2014 - 20:58:14: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "343") (ubercharge "0")
+L 10/15/2014 - 20:58:14: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "tf_projectile_rocket" (attacker_position "-4826 7953 7") (victim_position "-4410 8105 -111")
+L 10/15/2014 - 20:58:14: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "scienide (???)<16><[U:1:64431119]><Blue>" (assister_position "-4570 7498 -175") (attacker_position "-4826 7953 7") (victim_position "-4410 8105 -111")
+L 10/15/2014 - 20:58:15: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "tf_projectile_rocket" (attacker_position "-4556 7713 36") (victim_position "-4310 7843 -109")
+L 10/15/2014 - 20:58:15: "Chicken McBoners<17><[U:1:79788986]><Blue>" triggered "kill assist" against "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" (assister_position "-3932 8014 -70") (attacker_position "-4556 7713 36") (victim_position "-4310 7843 -109")
+L 10/15/2014 - 20:58:16: "dysfunctional<4><[U:1:91170287]><Blue>" killed "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" with "scattergun" (attacker_position "-5171 7475 -63") (victim_position "-4993 7687 -175")
+L 10/15/2014 - 20:58:16: "Chicken McBoners<17><[U:1:79788986]><Blue>" triggered "kill assist" against "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" (assister_position "-4160 7835 0") (attacker_position "-5171 7475 -63") (victim_position "-4993 7687 -175")
+L 10/15/2014 - 20:58:16: "dysfunctional<4><[U:1:91170287]><Blue>" triggered "revenge" against "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>"
+L 10/15/2014 - 20:58:17: "kingpie<11><[U:1:78416778]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-4634 7714 -135") (victim_position "-4395 7679 -104")
+L 10/15/2014 - 20:58:17: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-5032 7666 -107") (attacker_position "-4634 7714 -135") (victim_position "-4395 7679 -104")
+L 10/15/2014 - 20:58:18: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "unique_pickaxe_escape" (attacker_position "-4202 7729 -111") (victim_position "-4201 7699 -100")
+L 10/15/2014 - 20:58:18: "kingpie<11><[U:1:78416778]><Red>" triggered "kill assist" against "Chicken McBoners<17><[U:1:79788986]><Blue>" (assister_position "-4609 7518 -164") (attacker_position "-4202 7729 -111") (victim_position "-4201 7699 -100")
+L 10/15/2014 - 20:58:18: "kingpie<11><[U:1:78416778]><Red>" triggered "revenge" against "Chicken McBoners<17><[U:1:79788986]><Blue>" (assist "1")
+L 10/15/2014 - 20:58:19: "Trox<5><[U:1:84163862]><Blue>" triggered "captureblocked" (cp "0") (cpname "#CP_cap_blue_cp1") (position "-4128 7761 -88")
+L 10/15/2014 - 20:58:19: "dysfunctional<4><[U:1:91170287]><Blue>" triggered "medic_death" against "Leires<15><[U:1:148122993]><Red>" (healing "3636") (ubercharge "0")
+L 10/15/2014 - 20:58:19: "dysfunctional<4><[U:1:91170287]><Blue>" killed "Leires<15><[U:1:148122993]><Red>" with "scattergun" (attacker_position "-4816 7398 -175") (victim_position "-4578 7482 -175")
+L 10/15/2014 - 20:58:19: "(???)Danny-O<6><[U:1:39330873]><Blue>" triggered "kill assist" against "Leires<15><[U:1:148122993]><Red>" (assister_position "-4395 7679 -90") (attacker_position "-4816 7398 -175") (victim_position "-4578 7482 -175")
+L 10/15/2014 - 20:58:19: "(???)Danny-O<6><[U:1:39330873]><Blue>" triggered "revenge" against "Leires<15><[U:1:148122993]><Red>" (assist "1")
+L 10/15/2014 - 20:58:20: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "tf_projectile_rocket" (attacker_position "-4383 7911 -40") (victim_position "-4173 7783 -111")
+L 10/15/2014 - 20:58:21: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#CP_cap_blue_cp1") (numcappers "3") (player1 "kingpie<11><[U:1:78416778]><Red>") (position1 "-4318 7814 -104") (player2 "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>") (position2 "-4319 7825 -104") (player3 "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>") (position3 "-4320 7911 -92") 
+L 10/15/2014 - 20:58:21: World triggered "Round_Win" (winner "Red")
+L 10/15/2014 - 20:58:21: World triggered "Round_Length" (seconds "193.08")
+L 10/15/2014 - 20:58:21: Team "Red" current score "3" with "6" players
+L 10/15/2014 - 20:58:21: Team "Blue" current score "0" with "6" players
+L 10/15/2014 - 20:58:22: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "unique_pickaxe_escape" (attacker_position "-4419 7701 -104") (victim_position "-4421 7648 -107")
+L 10/15/2014 - 20:58:26: World triggered "Round_Start"
+L 10/15/2014 - 20:58:48: "kingpie<11><[U:1:78416778]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-2223 3381 20") (victim_position "-2906 3975 64")
+L 10/15/2014 - 20:58:51: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "quake_rl" (attacker_position "-2911 3594 14") (victim_position "-2879 4078 64")
+L 10/15/2014 - 20:58:51: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-2684 3492 -10") (attacker_position "-2911 3594 14") (victim_position "-2879 4078 64")
+L 10/15/2014 - 20:58:58: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "player_extinguished" against "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_weapon_medigun" (attacker_position "-3891 5168 32") (victim_position "-4103 5065 9")
+L 10/15/2014 - 20:59:10: Team "Red" triggered "pointcaptured" (cp "2") (cpname "#CP_cap_cp3") (numcappers "2") (player1 "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>") (position1 "-2555 4075 71") (player2 "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>") (position2 "-2792 4128 64") 
+L 10/15/2014 - 20:59:26: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "chargedeployed"
+L 10/15/2014 - 20:59:27: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 20:59:29: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "tf_projectile_rocket" (attacker_position "-3716 6418 -1") (victim_position "-3911 6499 -191")
+L 10/15/2014 - 20:59:38: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "the_winger" (attacker_position "-5289 7526 -63") (victim_position "-5129 7448 -63")
+L 10/15/2014 - 20:59:38: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "shotgun_soldier" (attacker_position "-4821 5400 -64") (victim_position "-4625 5148 -16")
+L 10/15/2014 - 20:59:38: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "kill assist" against "Trox<5><[U:1:84163862]><Blue>" (assister_position "-4598 5724 135") (attacker_position "-4821 5400 -64") (victim_position "-4625 5148 -16")
+L 10/15/2014 - 20:59:38: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "domination" against "Trox<5><[U:1:84163862]><Blue>"
+L 10/15/2014 - 20:59:38: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "domination" against "Trox<5><[U:1:84163862]><Blue>" (assist "1")
+L 10/15/2014 - 20:59:40: "dysfunctional<4><[U:1:91170287]><Blue>" killed "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" with "scattergun" (attacker_position "-4719 5070 0") (victim_position "-4767 5437 -58")
+L 10/15/2014 - 20:59:40: "Trox<5><[U:1:84163862]><Blue>" triggered "kill assist" against "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" (assister_position "-4586 5109 51") (attacker_position "-4719 5070 0") (victim_position "-4767 5437 -58")
+L 10/15/2014 - 20:59:40: "Trox<5><[U:1:84163862]><Blue>" triggered "revenge" against "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" (assist "1")
+L 10/15/2014 - 20:59:41: "(???)Danny-O<6><[U:1:39330873]><Blue>" triggered "medic_death" against "Leires<15><[U:1:148122993]><Red>" (healing "1842") (ubercharge "0")
+L 10/15/2014 - 20:59:41: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "Leires<15><[U:1:148122993]><Red>" with "tf_projectile_rocket" (attacker_position "-5237 5810 161") (victim_position "-5318 6197 -66")
+L 10/15/2014 - 20:59:42: "kingpie<11><[U:1:78416778]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "bottle" (attacker_position "-5346 6084 -63") (victim_position "-5380 6100 5")
+L 10/15/2014 - 20:59:42: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-5275 6040 -4") (attacker_position "-5346 6084 -63") (victim_position "-5380 6100 5")
+L 10/15/2014 - 20:59:44: "dysfunctional<4><[U:1:91170287]><Blue>" killed "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" with "pistol_scout" (attacker_position "-5189 5962 -63") (victim_position "-5273 6335 -63")
+L 10/15/2014 - 20:59:47: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "scattergun" (attacker_position "-5187 6250 -63") (victim_position "-5328 5993 -64")
+L 10/15/2014 - 20:59:52: Team "Red" triggered "pointcaptured" (cp "1") (cpname "the BLU Forward Point") (numcappers "2") (player1 "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>") (position1 "-4596 5838 128") (player2 "kingpie<11><[U:1:78416778]><Red>") (position2 "-4753 5641 129") 
+L 10/15/2014 - 21:00:21: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "tf_projectile_rocket" (attacker_position "-4248 6611 64") (victim_position "-4413 6835 28")
+L 10/15/2014 - 21:00:23: "kingpie<11><[U:1:78416778]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-4567 6231 -59") (victim_position "-5203 6525 33")
+L 10/15/2014 - 21:00:23: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-5068 6326 -63") (attacker_position "-4567 6231 -59") (victim_position "-5203 6525 33")
+L 10/15/2014 - 21:00:31: "dysfunctional<4><[U:1:91170287]><Blue>" say "Pyro is so hard"
+L 10/15/2014 - 21:00:52: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 21:00:55: "dysfunctional<4><[U:1:91170287]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "scattergun" (attacker_position "-5213 7585 -63") (victim_position "-5190 7414 -63")
+L 10/15/2014 - 21:00:55: "Chicken McBoners<17><[U:1:79788986]><Blue>" triggered "kill assist" against "kingpie<11><[U:1:78416778]><Red>" (assister_position "-3872 8140 -64") (attacker_position "-5213 7585 -63") (victim_position "-5190 7414 -63")
+L 10/15/2014 - 21:00:55: "dysfunctional<4><[U:1:91170287]><Blue>" triggered "revenge" against "kingpie<11><[U:1:78416778]><Red>"
+L 10/15/2014 - 21:00:59: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "chargedeployed"
+L 10/15/2014 - 21:01:00: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "world" (attacker_position "-5320 7638 3") (victim_position "-5543 7630 -57")
+L 10/15/2014 - 21:01:00: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-5516 7485 -63") (attacker_position "-5320 7638 3") (victim_position "-5543 7630 -57")
+L 10/15/2014 - 21:01:00: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "domination" against "(???)Danny-O<6><[U:1:39330873]><Blue>"
+L 10/15/2014 - 21:01:04: "dysfunctional<4><[U:1:91170287]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "scattergun" (attacker_position "-3777 7724 -15") (victim_position "-3872 7253 -15")
+L 10/15/2014 - 21:01:04: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "kill assist" against "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" (assister_position "-3826 8120 -101") (attacker_position "-3777 7724 -15") (victim_position "-3872 7253 -15")
+L 10/15/2014 - 21:01:05: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-3933 7551 33") (victim_position "-4457 7124 -191")
+L 10/15/2014 - 21:01:05: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "kill assist" against "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" (assister_position "-3893 7583 -15") (attacker_position "-3933 7551 33") (victim_position "-4457 7124 -191")
+L 10/15/2014 - 21:01:14: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "2756") (ubercharge "0")
+L 10/15/2014 - 21:01:14: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "tf_projectile_rocket" (attacker_position "-4256 6416 64") (victim_position "-4208 6466 97")
+L 10/15/2014 - 21:01:14: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "scienide (???)<16><[U:1:64431119]><Blue>" (assister_position "-4725 6228 -51") (attacker_position "-4256 6416 64") (victim_position "-4208 6466 97")
+L 10/15/2014 - 21:01:16: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_rocket" (attacker_position "-4455 6176 -4") (victim_position "-4353 5908 -63")
+L 10/15/2014 - 21:01:16: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-4957 6127 -64") (attacker_position "-4455 6176 -4") (victim_position "-4353 5908 -63")
+L 10/15/2014 - 21:01:16: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" triggered "domination" against "dysfunctional<4><[U:1:91170287]><Blue>" (assist "1")
+L 10/15/2014 - 21:01:43: "Chicken McBoners<17><[U:1:79788986]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-5195 7754 -98") (victim_position "-5441 7228 -63")
+L 10/15/2014 - 21:01:43: "Trox<5><[U:1:84163862]><Blue>" triggered "captureblocked" (cp "0") (cpname "#CP_cap_blue_cp1") (position "-4484 7594 -111")
+L 10/15/2014 - 21:01:43: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "tf_projectile_rocket" (attacker_position "-4464 7475 -126") (victim_position "-4327 7708 -104")
+L 10/15/2014 - 21:01:43: "Trox<5><[U:1:84163862]><Blue>" triggered "kill assist" against "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" (assister_position "-4484 7594 -111") (attacker_position "-4464 7475 -126") (victim_position "-4327 7708 -104")
+L 10/15/2014 - 21:01:43: "scienide (???)<16><[U:1:64431119]><Blue>" triggered "player_extinguished" against "tuz<8><[U:1:19695485]><Blue>" with "tf_weapon_medigun" (attacker_position "-4718 8107 -111") (victim_position "-4679 8021 -111")
+L 10/15/2014 - 21:01:56: "kingpie<11><[U:1:78416778]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-5431 6864 -63") (victim_position "-5375 7198 -63")
+L 10/15/2014 - 21:01:56: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-5260 6935 -59") (attacker_position "-5431 6864 -63") (victim_position "-5375 7198 -63")
+L 10/15/2014 - 21:02:03: "kingpie<11><[U:1:78416778]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-5422 7028 -63") (victim_position "-5543 7336 -63")
+L 10/15/2014 - 21:02:03: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 21:02:07: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "tf_projectile_rocket" (attacker_position "-4995 7453 -141") (victim_position "-5030 7239 -282")
+L 10/15/2014 - 21:02:12: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "flaregun" (attacker_position "-4332 7838 -104") (victim_position "-4192 7492 94")
+L 10/15/2014 - 21:02:12: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "Trox<5><[U:1:84163862]><Blue>" (assister_position "-4499 7538 -147") (attacker_position "-4332 7838 -104") (victim_position "-4192 7492 94")
+L 10/15/2014 - 21:02:12: "Leires<15><[U:1:148122993]><Red>" triggered "domination" against "Trox<5><[U:1:84163862]><Blue>" (assist "1")
+L 10/15/2014 - 21:02:13: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#CP_cap_blue_cp1") (numcappers "2") (player1 "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>") (position1 "-4226 7813 -111") (player2 "kingpie<11><[U:1:78416778]><Red>") (position2 "-4473 7794 -104") 
+L 10/15/2014 - 21:02:13: World triggered "Round_Win" (winner "Red")
+L 10/15/2014 - 21:02:13: World triggered "Round_Length" (seconds "227.01")
+L 10/15/2014 - 21:02:13: Team "Red" current score "4" with "6" players
+L 10/15/2014 - 21:02:13: Team "Blue" current score "0" with "6" players
+L 10/15/2014 - 21:02:14: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_projectile_rocket" (attacker_position "-4318 7555 210") (victim_position "-4237 7573 -175")
+L 10/15/2014 - 21:02:18: Team "RED" triggered "Intermission_Win_Limit"
+L 10/15/2014 - 21:02:18: World triggered "Game_Over" reason "Reached Win Limit"
+L 10/15/2014 - 21:02:18: Team "Red" final score "4" with "6" players
+L 10/15/2014 - 21:02:18: Team "Blue" final score "0" with "6" players
+L 10/15/2014 - 21:02:22: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "0") (ubercharge "0")
+L 10/15/2014 - 21:02:22: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "quake_rl" (attacker_position "-4898 7510 -125") (victim_position "-4642 7272 -175")
+L 10/15/2014 - 21:02:22: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" triggered "kill assist" against "scienide (???)<16><[U:1:64431119]><Blue>" (assister_position "-4795 7570 -175") (attacker_position "-4898 7510 -125") (victim_position "-4642 7272 -175")
+L 10/15/2014 - 21:02:22: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" with "tf_projectile_rocket" (attacker_position "-5200 8725 -83") (victim_position "-5069 8584 -111")
+L 10/15/2014 - 21:02:22: "(???)Danny-O<6><[U:1:39330873]><Blue>" triggered "revenge" against "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>"
+L 10/15/2014 - 21:02:24: "(???)Danny-O<6><[U:1:39330873]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "world" (attacker_position "-5147 8742 -65") (victim_position "-5105 8423 -51")
+L 10/15/2014 - 21:02:26: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" say ".ss"
+L 10/15/2014 - 21:02:28: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" say "!logs"
+L 10/15/2014 - 21:02:37: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" changed role to "spy"
+L 10/15/2014 - 21:02:37: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" committed suicide with "world" (attacker_position "-4263 8156 -111")
+L 10/15/2014 - 21:02:39: World triggered "Round_Start"
+L 10/15/2014 - 21:03:07: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "degreaser" (attacker_position "-1985 4740 65") (victim_position "-2040 4796 146")
+L 10/15/2014 - 21:03:12: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "tf_projectile_rocket" (attacker_position "-1804 3389 5") (victim_position "-2064 3517 45")
+L 10/15/2014 - 21:03:12: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-1324 3358 18") (attacker_position "-1804 3389 5") (victim_position "-2064 3517 45")
+L 10/15/2014 - 21:03:19: "kingpie<11><[U:1:78416778]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-2465 2812 32") (victim_position "-2647 3160 -5")
+L 10/15/2014 - 21:03:19: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" triggered "kill assist" against "(???)Danny-O<6><[U:1:39330873]><Blue>" (assister_position "-2765 3506 192") (attacker_position "-2465 2812 32") (victim_position "-2647 3160 -5")
+L 10/15/2014 - 21:03:20: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "1053") (ubercharge "0")
+L 10/15/2014 - 21:03:21: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "knife" (customkill "backstab") (attacker_position "-3436 4885 66") (victim_position "-3402 4885 49")
+L 10/15/2014 - 21:03:21: "tuz<8><[U:1:19695485]><Blue>" killed "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" with "quake_rl" (attacker_position "-3323 4776 9") (victim_position "-3215 4947 172")
+L 10/15/2014 - 21:03:37: Team "Red" triggered "pointcaptured" (cp "2") (cpname "#CP_cap_cp3") (numcappers "1") (player1 "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>") (position1 "-2635 4128 70") 
+L 10/15/2014 - 21:03:43: "dysfunctional<4><[U:1:91170287]><Blue>" triggered "captureblocked" (cp "1") (cpname "the BLU Forward Point") (position "-4332 5720 128")
+L 10/15/2014 - 21:03:43: "dysfunctional<4><[U:1:91170287]><Blue>" killed "kingpie<11><[U:1:78416778]><Red>" with "scattergun" (attacker_position "-4332 5720 128") (victim_position "-4515 5767 128")
+L 10/15/2014 - 21:03:56: Team "Red" triggered "pointcaptured" (cp "1") (cpname "the BLU Forward Point") (numcappers "1") (player1 "Leires<15><[U:1:148122993]><Red>") (position1 "-4512 5559 128") 
+L 10/15/2014 - 21:03:57: "Leires<15><[U:1:148122993]><Red>" triggered "chargedeployed"
+L 10/15/2014 - 21:03:58: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "200") (ubercharge "0")
+L 10/15/2014 - 21:03:58: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "tf_projectile_rocket" (attacker_position "-5077 6494 -63") (victim_position "-5325 6723 -20")
+L 10/15/2014 - 21:03:59: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "scattergun" (attacker_position "-5168 6140 -4") (victim_position "-5062 6304 -63")
+L 10/15/2014 - 21:03:59: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-4914 5924 146") (attacker_position "-5168 6140 -4") (victim_position "-5062 6304 -63")
+L 10/15/2014 - 21:04:03: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "shotgun_soldier" (attacker_position "-5221 6963 -63") (victim_position "-5236 6831 -63")
+L 10/15/2014 - 21:04:03: "Leires<15><[U:1:148122993]><Red>" triggered "kill assist" against "Chicken McBoners<17><[U:1:79788986]><Blue>" (assister_position "-5098 6739 -63") (attacker_position "-5221 6963 -63") (victim_position "-5236 6831 -63")
+L 10/15/2014 - 21:04:15: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "Trox<5><[U:1:84163862]><Blue>" with "degreaser" (attacker_position "-5201 7754 -94") (victim_position "-5146 7724 -131")
+L 10/15/2014 - 21:04:22: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "(???)Danny-O<6><[U:1:39330873]><Blue>" with "tf_projectile_rocket" (attacker_position "-4017 7162 -1") (victim_position "-3943 7162 -191")
+L 10/15/2014 - 21:04:26: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" killed "tuz<8><[U:1:19695485]><Blue>" with "tf_projectile_rocket" (attacker_position "-3960 7496 -15") (victim_position "-4319 7750 -70")
+L 10/15/2014 - 21:04:26: "kingpie<11><[U:1:78416778]><Red>" triggered "kill assist" against "tuz<8><[U:1:19695485]><Blue>" (assister_position "-4464 6876 -212") (attacker_position "-3960 7496 -15") (victim_position "-4319 7750 -70")
+L 10/15/2014 - 21:04:26: "tuz<8><[U:1:19695485]><Blue>" killed "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" with "quake_rl" (attacker_position "-4319 7750 -56") (victim_position "-4767 7669 -175")
+L 10/15/2014 - 21:04:26: "dysfunctional<4><[U:1:91170287]><Blue>" triggered "kill assist" against "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" (assister_position "-4628 7357 -175") (attacker_position "-4319 7750 -56") (victim_position "-4767 7669 -175")
+L 10/15/2014 - 21:04:26: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" triggered "medic_death" against "scienide (???)<16><[U:1:64431119]><Blue>" (healing "92") (ubercharge "0")
+L 10/15/2014 - 21:04:26: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "scienide (???)<16><[U:1:64431119]><Blue>" with "degreaser" (attacker_position "-4912 7684 -175") (victim_position "-4660 7694 -175")
+L 10/15/2014 - 21:04:26: "[DSU]Bluetshirtguy !raffle<9><[U:1:52565478]><Red>" triggered "kill assist" against "scienide (???)<16><[U:1:64431119]><Blue>" (assister_position "-4767 7669 -161") (attacker_position "-4912 7684 -175") (victim_position "-4660 7694 -175")
+L 10/15/2014 - 21:04:31: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" killed "dysfunctional<4><[U:1:91170287]><Blue>" with "degreaser" (attacker_position "-4719 7758 -175") (victim_position "-4701 7912 -40")
+L 10/15/2014 - 21:04:31: "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>" triggered "kill assist" against "dysfunctional<4><[U:1:91170287]><Blue>" (assister_position "-4486 7703 -104") (attacker_position "-4719 7758 -175") (victim_position "-4701 7912 -40")
+L 10/15/2014 - 21:04:32: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#CP_cap_blue_cp1") (numcappers "2") (player1 "|NwA| Dreadnought [♣F2]<14><[U:1:58541986]><Red>") (position1 "-4456 7755 -104") (player2 "Leires<15><[U:1:148122993]><Red>") (position2 "-4360 7697 -104") 
+L 10/15/2014 - 21:04:32: World triggered "Round_Win" (winner "Red")
+L 10/15/2014 - 21:04:32: World triggered "Round_Length" (seconds "112.62")
+L 10/15/2014 - 21:04:32: Team "Red" current score "1" with "6" players
+L 10/15/2014 - 21:04:32: Team "Blue" current score "0" with "6" players
+L 10/15/2014 - 21:04:33: "The Seer of Shadows [♣F2]<13><[U:1:12331742]><Red>" killed "Chicken McBoners<17><[U:1:79788986]><Blue>" with "knife" (customkill "backstab") (attacker_position "-4515 8380 -111") (victim_position "-4467 8410 -111")
+L 10/15/2014 - 21:04:37: World triggered "Round_Start"
+L 10/15/2014 - 21:04:38: "Chicken McBoners<17><[U:1:79788986]><Blue>" say "gg"
+L 10/15/2014 - 21:04:40: "scienide (???)<16><[U:1:64431119]><Blue>" say "gl with season"
+L 10/15/2014 - 21:04:40: "tuz<8><[U:1:19695485]><Blue>" say "gg"
+L 10/15/2014 - 21:04:41: "The Pyro Squirrel [♣F2]<7><[U:1:37696982]><Red>" say "gg"
+L 10/15/2014 - 21:04:42: "kingpie<11><[U:1:78416778]><Red>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "-86 -757 -111")
+L 10/15/2014 - 21:04:44: "Leires<15><[U:1:148122993]><Red>" say "gg"
+L 10/15/2014 - 21:04:45: "(???)Danny-O<6><[U:1:39330873]><Blue>" say "Lol pyro"
+L 10/15/

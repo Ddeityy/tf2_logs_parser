@@ -1,0 +1,754 @@
+L 10/14/2014 - 02:41:08: Log file started (file "logs/L1014004.log") (game "/usr/local/games/tf/1083629/0.0.0.0:27015/orangebox/tf") (version "2426090")
+L 10/14/2014 - 02:41:08: "Console<0><Console><Console>" say ""UGC HL TF2 Stopwatch cfg v.05-07-14 executed, reload map once before start""
+L 10/14/2014 - 02:41:08: "Console<0><Console><Console>" say ""Payload & Attack-Defend Map Rules = Winner is best 2/3 Stopwatch Halves""
+L 10/14/2014 - 02:41:08: "Console<0><Console><Console>" say ""Exec ugc_off.cfg at match end to reset server.""
+L 10/14/2014 - 02:41:12: "forivall: scout/medic main<13><[U:1:35537041]><>" entered the game
+L 10/14/2014 - 02:41:12: "Luigi 'CBS<5><[U:1:95995338]><>" entered the game
+L 10/14/2014 - 02:41:13: "TheeFailDoctor 'CBS<9><[U:1:33935456]><>" entered the game
+L 10/14/2014 - 02:41:13: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><>" entered the game
+L 10/14/2014 - 02:41:13: "headsnoogles› fbs!!<10><[U:1:19572214]><>" entered the game
+L 10/14/2014 - 02:41:13: "[RK] Sexy Bitch<15><[U:1:93117860]><>" entered the game
+L 10/14/2014 - 02:41:14: "TheSegment<18><[U:1:178827641]><>" entered the game
+L 10/14/2014 - 02:41:14: "Warfinge 'CBS<17><[U:1:10931439]><>" entered the game
+L 10/14/2014 - 02:41:14: "s εїз 'cbs<4><[U:1:83364746]><>" entered the game
+L 10/14/2014 - 02:41:15: "[RK]❖Doshi❖<12><[U:1:76563813]><>" entered the game
+L 10/14/2014 - 02:41:16: "Batman #Highlander :P<20><[U:1:119213670]><>" entered the game
+L 10/14/2014 - 02:41:16: "jondy<16><[U:1:95512994]><>" entered the game
+L 10/14/2014 - 02:41:16: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><>" entered the game
+L 10/14/2014 - 02:41:16: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><>" entered the game
+L 10/14/2014 - 02:41:18: "[RK] AnalThrasher<19><[U:1:81666540]><>" entered the game
+L 10/14/2014 - 02:41:19: "headsnoogles› fbs!!<10><[U:1:19572214]><Unassigned>" joined team "Blue"
+L 10/14/2014 - 02:41:19: "[RK] Sexy Bitch<15><[U:1:93117860]><Unassigned>" joined team "Red"
+L 10/14/2014 - 02:41:20: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Unassigned>" joined team "Blue"
+L 10/14/2014 - 02:41:21: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" changed role to "demoman"
+L 10/14/2014 - 02:41:21: "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" changed role to "sniper"
+L 10/14/2014 - 02:41:22: "Luigi 'CBS<5><[U:1:95995338]><Unassigned>" joined team "Blue"
+L 10/14/2014 - 02:41:23: "TheSegment<18><[U:1:178827641]><Unassigned>" joined team "Red"
+L 10/14/2014 - 02:41:23: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Unassigned>" joined team "Blue"
+L 10/14/2014 - 02:41:23: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" changed role to "scout"
+L 10/14/2014 - 02:41:23: "Luigi 'CBS<5><[U:1:95995338]><Blue>" changed role to "heavyweapons"
+L 10/14/2014 - 02:41:23: "Corrderio<8><[U:1:64775493]><>" entered the game
+L 10/14/2014 - 02:41:24: "s εїз 'cbs<4><[U:1:83364746]><Unassigned>" joined team "Blue"
+L 10/14/2014 - 02:41:24: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" changed role to "medic"
+L 10/14/2014 - 02:41:24: "TheSegment<18><[U:1:178827641]><Red>" changed role to "heavyweapons"
+L 10/14/2014 - 02:41:24: "[RK]❖Doshi❖<12><[U:1:76563813]><Unassigned>" joined team "Red"
+L 10/14/2014 - 02:41:25: "s εїз 'cbs<4><[U:1:83364746]><Blue>" changed role to "scout"
+L 10/14/2014 - 02:41:25: "Batman #Highlander :P<20><[U:1:119213670]><Unassigned>" joined team "Red"
+L 10/14/2014 - 02:41:25: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Unassigned>" joined team "Red"
+L 10/14/2014 - 02:41:26: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" changed role to "soldier"
+L 10/14/2014 - 02:41:26: "jondy<16><[U:1:95512994]><Unassigned>" joined team "Red"
+L 10/14/2014 - 02:41:26: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" changed role to "sniper"
+L 10/14/2014 - 02:41:26: "[RK] AnalThrasher<19><[U:1:81666540]><Unassigned>" joined team "Red"
+L 10/14/2014 - 02:41:27: "jondy<16><[U:1:95512994]><Red>" changed role to "soldier"
+L 10/14/2014 - 02:41:27: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" changed role to "pyro"
+L 10/14/2014 - 02:41:28: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Unassigned>" joined team "Blue"
+L 10/14/2014 - 02:41:29: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" changed role to "engineer"
+L 10/14/2014 - 02:41:29: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" changed role to "spy"
+L 10/14/2014 - 02:41:29: "Warfinge 'CBS<17><[U:1:10931439]><Unassigned>" joined team "Blue"
+L 10/14/2014 - 02:41:32: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" changed role to "pyro"
+L 10/14/2014 - 02:41:33: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" say "I DONT KNOW WHATS HAPPENIGNG"
+L 10/14/2014 - 02:41:34: "Batman #Highlander :P<20><[U:1:119213670]><Red>" changed role to "demoman"
+L 10/14/2014 - 02:41:41: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" say "is this next half"
+L 10/14/2014 - 02:41:41: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" say "(¬‿¬)"
+L 10/14/2014 - 02:41:41: "forivall: scout/medic main<13><[U:1:35537041]><Unassigned>" joined team "Blue"
+L 10/14/2014 - 02:41:43: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" changed role to "soldier"
+L 10/14/2014 - 02:41:48: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" say "yeah"
+L 10/14/2014 - 02:41:52: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" say "yes, this is the 2nd half now"
+L 10/14/2014 - 02:42:01: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" say "something happened to your medic?"
+L 10/14/2014 - 02:42:09: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" say ";~;"
+L 10/14/2014 - 02:42:10: "jondy<16><[U:1:95512994]><Red>" say "yea"
+L 10/14/2014 - 02:42:11: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" say "(´ ▽｀).。ｏ♡"
+L 10/14/2014 - 02:42:15: "Corrderio<8><[U:1:64775493]><Unassigned>" joined team "Red"
+L 10/14/2014 - 02:42:17: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" say "you guys rock red"
+L 10/14/2014 - 02:42:19: "TheSegment<18><[U:1:178827641]><Red>" killed "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "minigun" (attacker_position "-903 -973 -135") (victim_position "-775 -942 -135")
+L 10/14/2014 - 02:42:19: "Corrderio<8><[U:1:64775493]><Red>" changed role to "engineer"
+L 10/14/2014 - 02:42:23: "Corrderio<8><[U:1:64775493]><Red>" joined team "Blue"
+L 10/14/2014 - 02:42:23: "Corrderio<8><[U:1:64775493]><Blue>" committed suicide with "world" (attacker_position "240 -1816 -143")
+L 10/14/2014 - 02:42:23: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "Batman #Highlander :P<20><[U:1:119213670]><Red>" with "tf_projectile_pipe" (attacker_position "-1754 -1942 -438") (victim_position "-1378 -1871 -421")
+L 10/14/2014 - 02:42:25: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" say "<3"
+L 10/14/2014 - 02:42:26: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" say "wut"
+L 10/14/2014 - 02:42:30: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" with "fryingpan" (attacker_position "-1674 -1561 -393") (victim_position "-1722 -1562 -407")
+L 10/14/2014 - 02:42:34: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" say "I'll give you all hats after this"
+L 10/14/2014 - 02:42:45: "s εїз 'cbs<4><[U:1:83364746]><Blue>" say "he's a compulsive liar"
+L 10/14/2014 - 02:42:46: "Dr. MeeM<22><[U:1:81240647]><>" connected, address "0.0.0.0:27005"
+L 10/14/2014 - 02:42:46: "Dr. MeeM<22><[U:1:81240647]><>" STEAM USERID validated
+L 10/14/2014 - 02:42:49: "Corrderio<8><[U:1:64775493]><Blue>" say "Can I have an unusual?"
+L 10/14/2014 - 02:42:50: "s εїз 'cbs<4><[U:1:83364746]><Blue>" say "ask for his unu executioner"
+L 10/14/2014 - 02:42:52: "s εїз 'cbs<4><[U:1:83364746]><Blue>" say "lolll"
+L 10/14/2014 - 02:42:59: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" say "don't ask for that"
+L 10/14/2014 - 02:42:59: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" killed "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "scattergun" (attacker_position "-799 -1391 -308") (victim_position "-745 -1209 -211")
+L 10/14/2014 - 02:43:15: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" with "fryingpan" (attacker_position "-781 -945 -135") (victim_position "-825 -979 -135")
+L 10/14/2014 - 02:43:18: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" say "Can I have your virginity?"
+L 10/14/2014 - 02:43:20: "Batman #Highlander :P<20><[U:1:119213670]><Red>" killed "Corrderio<8><[U:1:64775493]><Blue>" with "loch_n_load" (attacker_position "1490 -1463 -375") (victim_position "1553 -1605 -430")
+L 10/14/2014 - 02:43:20: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" triggered "kill assist" against "Corrderio<8><[U:1:64775493]><Blue>" (assister_position "1770 -1764 -455") (attacker_position "1490 -1463 -375") (victim_position "1553 -1605 -430")
+L 10/14/2014 - 02:43:24: "Luigi 'CBS<5><[U:1:95995338]><Blue>" say "ofcourse"
+L 10/14/2014 - 02:43:28: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" say "(¬‿¬)"
+L 10/14/2014 - 02:43:30: "Batman #Highlander :P<20><[U:1:119213670]><Red>" killed "s εїз 'cbs<4><[U:1:83364746]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "841 -1972 -559") (victim_position "843 -2339 -581")
+L 10/14/2014 - 02:43:31: "Dr. MeeM<22><[U:1:81240647]><>" entered the game
+L 10/14/2014 - 02:43:33: "Luigi 'CBS<5><[U:1:95995338]><Blue>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" with "bread_bite" (attacker_position "-990 -1497 -255") (victim_position "-1038 -1489 -251")
+L 10/14/2014 - 02:43:33: "TheSegment<18><[U:1:178827641]><Red>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" with "minigun" (attacker_position "1102 -1638 -528") (victim_position "696 -1370 -319")
+L 10/14/2014 - 02:43:35: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" say "You'll have to ask luigi"
+L 10/14/2014 - 02:43:37: "s εїз 'cbs<4><[U:1:83364746]><Blue>" say "batman I thought you were a good guy"
+L 10/14/2014 - 02:43:37: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" say ":c"
+L 10/14/2014 - 02:43:38: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" say "He's my pimp"
+L 10/14/2014 - 02:43:39: "s εїз 'cbs<4><[U:1:83364746]><Blue>" say "ლ(´﹏`ლ)"
+L 10/14/2014 - 02:43:42: "Dr. MeeM<22><[U:1:81240647]><Unassigned>" joined team "Red"
+L 10/14/2014 - 02:43:44: "Batman #Highlander :P<20><[U:1:119213670]><Red>" say "I am a good guy"
+L 10/14/2014 - 02:43:44: "Dr. MeeM<22><[U:1:81240647]><Red>" changed role to "medic"
+L 10/14/2014 - 02:43:45: "jondy<16><[U:1:95512994]><Red>" killed "Warfinge 'CBS<17><[U:1:10931439]><Blue>" with "disciplinary_action" (attacker_position "-611 -1639 -323") (victim_position "-617 -1687 -322")
+L 10/14/2014 - 02:43:46: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" with "scattergun" (attacker_position "-1406 -1468 -338") (victim_position "-1420 -1358 -288")
+L 10/14/2014 - 02:43:46: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" say "He's a psychopath are you kidding"
+L 10/14/2014 - 02:43:47: "Batman #Highlander :P<20><[U:1:119213670]><Red>" say "But not in tf2"
+L 10/14/2014 - 02:43:48: "Batman #Highlander :P<20><[U:1:119213670]><Red>" say "( ͡° ͜ʖ ͡°)"
+L 10/14/2014 - 02:43:49: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" killed "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "scattergun" (attacker_position "-1436 -1794 -407") (victim_position "-1446 -1985 -470")
+L 10/14/2014 - 02:43:50: "s εїз 'cbs<4><[U:1:83364746]><Blue>" say "lol"
+L 10/14/2014 - 02:43:52: "jondy<16><[U:1:95512994]><Red>" killed "Corrderio<8><[U:1:64775493]><Blue>" with "tf_projectile_rocket" (attacker_position "-1496 -1400 -332") (victim_position "-1600 -1661 -405")
+L 10/14/2014 - 02:43:52: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" triggered "kill assist" against "Corrderio<8><[U:1:64775493]><Blue>" (assister_position "-1712 -1844 -451") (attacker_position "-1496 -1400 -332") (victim_position "-1600 -1661 -405")
+L 10/14/2014 - 02:43:55: "TheSegment<18><[U:1:178827641]><Red>" committed suicide with "world" (attacker_position "1197 -1659 -509")
+L 10/14/2014 - 02:44:03: "Batman #Highlander :P<20><[U:1:119213670]><Red>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "1152 -65 -223") (victim_position "930 124 -223")
+L 10/14/2014 - 02:44:07: "Batman #Highlander :P<20><[U:1:119213670]><Red>" say "( ͡° ͜ʖ ͡°)"
+L 10/14/2014 - 02:44:15: "Corrderio<8><[U:1:64775493]><Blue>" say_team "[P-REC] Recording..."
+L 10/14/2014 - 02:44:15: "s εїз 'cbs<4><[U:1:83364746]><Blue>" say_team "[P-REC] Recording..."
+L 10/14/2014 - 02:44:16: World triggered "Round_Start"
+L 10/14/2014 - 02:44:16: World triggered "Round_Setup_Begin"
+L 10/14/2014 - 02:44:17: [SizzlingStats]: sessionid uKCSpVbgtrEK24f64+uu6BVMCndHPOmqHKKmpAQc8xw=
+L 10/14/2014 - 02:44:31: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" committed suicide with "world" (attacker_position "1568 -1353 -399")
+L 10/14/2014 - 02:44:32: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "845 -2936 -590")
+L 10/14/2014 - 02:44:33: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1490 -830 -313")
+L 10/14/2014 - 02:44:59: "s εїз 'cbs<4><[U:1:83364746]><Blue>" say "oh fuck"
+L 10/14/2014 - 02:45:02: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" say "what"
+L 10/14/2014 - 02:45:03: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" say "wut"
+L 10/14/2014 - 02:45:16: World triggered "Round_Setup_End"
+L 10/14/2014 - 02:45:22: "Corrderio<8><[U:1:64775493]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "763 -2601 -590")
+L 10/14/2014 - 02:45:22: "Corrderio<8><[U:1:64775493]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Corrderio<8><[U:1:64775493]><Blue>") (attacker_position "763 -2601 -590")
+L 10/14/2014 - 02:45:23: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "793 -2383 -583")
+L 10/14/2014 - 02:45:27: "TheSegment<18><[U:1:178827641]><Red>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" with "minigun" (attacker_position "-1180 -2390 -532") (victim_position "-1057 -2719 -534")
+L 10/14/2014 - 02:45:27: "Dr. MeeM<22><[U:1:81240647]><Red>" triggered "kill assist" against "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" (assister_position "-1129 -2108 -462") (attacker_position "-1180 -2390 -532") (victim_position "-1057 -2719 -534")
+L 10/14/2014 - 02:45:30: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-82 -2636 -438") (victim_position "-36 -2650 -351")
+L 10/14/2014 - 02:45:30: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "rocketlauncher_directhit") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Red>") (attacker_position "1759 -2027 -295")
+L 10/14/2014 - 02:45:36: "Corrderio<8><[U:1:64775493]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "1512 -1545 -343")
+L 10/14/2014 - 02:45:36: "Corrderio<8><[U:1:64775493]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Corrderio<8><[U:1:64775493]><Blue>") (attacker_position "1512 -1545 -343")
+L 10/14/2014 - 02:45:37: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1579 -1435 -412")
+L 10/14/2014 - 02:45:39: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Corrderio<8><[U:1:64775493]><Blue>") (attacker_position "1569 -1492 -410")
+L 10/14/2014 - 02:45:43: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" with "tf_weapon_flamethrower" (attacker_position "26 -3191 -572") (victim_position "-13 -3187 -572")
+L 10/14/2014 - 02:45:44: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" killed "Corrderio<8><[U:1:64775493]><Blue>" with "bat" (attacker_position "2339 -1022 -307") (victim_position "2358 -1081 -250")
+L 10/14/2014 - 02:45:47: "s εїз 'cbs<4><[U:1:83364746]><Blue>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" with "scattergun" (attacker_position "2116 -1338 -385") (victim_position "2483 -1107 -309")
+L 10/14/2014 - 02:45:50: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "-1416 -2380 -529") (victim_position "-85 -2400 -383")
+L 10/14/2014 - 02:45:51: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1438 -759 -303")
+L 10/14/2014 - 02:45:52: "s εїз 'cbs<4><[U:1:83364746]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Red>") (attacker_position "1767 -746 -316")
+L 10/14/2014 - 02:45:53: "s εїз 'cbs<4><[U:1:83364746]><Blue>" killed "[RK] AnalThrasher<19><[U:1:81666540]><Red>" with "scattergun" (attacker_position "1869 -739 -305") (victim_position "1488 -822 -312")
+L 10/14/2014 - 02:45:53: "jondy<16><[U:1:95512994]><Red>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" with "tf_projectile_rocket" (attacker_position "-492 -2079 -329") (victim_position "-588 -2147 -363")
+L 10/14/2014 - 02:45:54: "Dr. MeeM<22><[U:1:81240647]><Red>" triggered "chargedeployed"
+L 10/14/2014 - 02:45:58: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_weapon_flamethrower" (attacker_position "38 -3256 -561") (victim_position "-19 -3205 -515")
+L 10/14/2014 - 02:46:01: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" killed "forivall: scout/medic main<13><[U:1:35537041]><Blue>" with "deflect_rocket" (attacker_position "-1810 -1810 -436") (victim_position "-1667 -2145 -495")
+L 10/14/2014 - 02:46:04: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-436 -2800 -556")
+L 10/14/2014 - 02:46:06: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "Corrderio<8><[U:1:64775493]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-325 -3262 -575") (victim_position "-352 -3178 -527")
+L 10/14/2014 - 02:46:07: "TheSegment<18><[U:1:178827641]><Red>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" with "minigun" (attacker_position "-1140 -1281 -255") (victim_position "-1397 -1433 -322")
+L 10/14/2014 - 02:46:07: "jondy<16><[U:1:95512994]><Red>" triggered "kill assist" against "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" (assister_position "-1262 -1488 -250") (attacker_position "-1140 -1281 -255") (victim_position "-1397 -1433 -322")
+L 10/14/2014 - 02:46:09: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "sniperrifle") (objectowner "Corrderio<8><[U:1:64775493]><Blue>") (attacker_position "-1768 -2053 -460")
+L 10/14/2014 - 02:46:12: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "-1762 -1929 -445") (victim_position "-192 -3241 -559")
+L 10/14/2014 - 02:46:18: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-432 -2098 -362") (victim_position "-580 -1994 -327")
+L 10/14/2014 - 02:46:19: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "chargedeployed"
+L 10/14/2014 - 02:46:19: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-450 -3035 -559")
+L 10/14/2014 - 02:46:20: "jondy<16><[U:1:95512994]><Red>" killed "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_projectile_rocket" (attacker_position "-650 -1659 -110") (victim_position "-480 -1791 -166")
+L 10/14/2014 - 02:46:21: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" triggered "jarate_attack" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" with "tf_weapon_jar" (attacker_position "-1197 -1648 -348") (victim_position "-533 -1802 -148")
+L 10/14/2014 - 02:46:21: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" triggered "jarate_attack" against "Warfinge 'CBS<17><[U:1:10931439]><Blue>" with "tf_weapon_jar" (attacker_position "-1197 -1648 -348") (victim_position "-458 -1768 -166")
+L 10/14/2014 - 02:46:22: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1814 -1023 -295")
+L 10/14/2014 - 02:46:23: "TheSegment<18><[U:1:178827641]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "Corrderio<8><[U:1:64775493]><Blue>") (attacker_position "-1226 -2227 -505")
+L 10/14/2014 - 02:46:25: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "jondy<16><[U:1:95512994]><Red>" with "tf_projectile_pipe" (attacker_position "-953 -1525 -255") (victim_position "-934 -1199 -284")
+L 10/14/2014 - 02:46:27: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Red>") (attacker_position "938 -1832 -554")
+L 10/14/2014 - 02:46:28: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" with "degreaser" (attacker_position "-1448 -1256 -255") (victim_position "-1675 -1253 -265")
+L 10/14/2014 - 02:46:28: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" triggered "kill assist" against "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" (assister_position "-1178 -1784 -366") (attacker_position "-1448 -1256 -255") (victim_position "-1675 -1253 -265")
+L 10/14/2014 - 02:46:29: "Batman #Highlander :P<20><[U:1:119213670]><Red>" triggered "captureblocked" (cp "0") (cpname "Cap A, The front door dock") (position "-1595 -1744 -416")
+L 10/14/2014 - 02:46:29: "Batman #Highlander :P<20><[U:1:119213670]><Red>" killed "Warfinge 'CBS<17><[U:1:10931439]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-1595 -1744 -416") (victim_position "-1263 -1214 -255")
+L 10/14/2014 - 02:46:30: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" triggered "medic_death" against "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" (healing "3150") (ubercharge "0")
+L 10/14/2014 - 02:46:30: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" killed "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" with "sledgehammer" (attacker_position "-927 -1343 -292") (victim_position "-975 -1305 -242")
+L 10/14/2014 - 02:46:32: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" killed "[RK] AnalThrasher<19><[U:1:81666540]><Red>" with "tf_projectile_rocket" (attacker_position "1526 -838 -320") (victim_position "1366 -809 -335")
+L 10/14/2014 - 02:46:35: "s εїз 'cbs<4><[U:1:83364746]><Blue>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" with "scattergun" (attacker_position "928 -1830 -553") (victim_position "1147 -1774 -482")
+L 10/14/2014 - 02:46:36: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-561 -2923 -569")
+L 10/14/2014 - 02:46:36: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "TheSegment<18><[U:1:178827641]><Red>" with "tf_projectile_pipe" (attacker_position "-737 -1437 -304") (victim_position "-976 -1748 -330")
+L 10/14/2014 - 02:46:41: "Batman #Highlander :P<20><[U:1:119213670]><Red>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-1401 -1605 -361") (victim_position "-900 -1552 -265")
+L 10/14/2014 - 02:46:41: "Dr. MeeM<22><[U:1:81240647]><Red>" triggered "kill assist" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" (assister_position "-1326 -1196 -255") (attacker_position "-1401 -1605 -361") (victim_position "-900 -1552 -265")
+L 10/14/2014 - 02:46:47: "Corrderio<8><[U:1:64775493]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "-571 -2354 -525")
+L 10/14/2014 - 02:46:47: "Corrderio<8><[U:1:64775493]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Corrderio<8><[U:1:64775493]><Blue>") (attacker_position "-571 -2354 -525")
+L 10/14/2014 - 02:46:49: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-615 -2315 -522")
+L 10/14/2014 - 02:46:54: "Batman #Highlander :P<20><[U:1:119213670]><Red>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" with "loch_n_load" (attacker_position "-1340 -1369 -293") (victim_position "-1360 -1520 -349")
+L 10/14/2014 - 02:46:57: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" triggered "jarate_attack" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_weapon_jar" (attacker_position "-458 -1209 -143") (victim_position "-565 -1811 -139")
+L 10/14/2014 - 02:46:58: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" killed "Corrderio<8><[U:1:64775493]><Blue>" with "flaregun" (attacker_position "-1340 -1838 -405") (victim_position "-1227 -2559 -519")
+L 10/14/2014 - 02:47:01: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" say "med you are sooo laggy"
+L 10/14/2014 - 02:47:01: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1524 -719 -324")
+L 10/14/2014 - 02:47:03: "Luigi 'CBS<5><[U:1:95995338]><Blue>" killed "Batman #Highlander :P<20><[U:1:119213670]><Red>" with "minigun" (attacker_position "-1068 -2241 -308") (victim_position "-1274 -1976 -444")
+L 10/14/2014 - 02:47:03: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" triggered "kill assist" against "Batman #Highlander :P<20><[U:1:119213670]><Red>" (assister_position "-796 -2743 -529") (attacker_position "-1068 -2241 -308") (victim_position "-1274 -1976 -444")
+L 10/14/2014 - 02:47:03: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Red>") (attacker_position "1497 -921 -322")
+L 10/14/2014 - 02:47:04: "jondy<16><[U:1:95512994]><Red>" killed "forivall: scout/medic main<13><[U:1:35537041]><Blue>" with "tf_projectile_rocket" (attacker_position "1482 -781 -262") (victim_position "1511 -946 -332")
+L 10/14/2014 - 02:47:10: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-1048 -2485 -538") (victim_position "-1139 -2616 -538")
+L 10/14/2014 - 02:47:11: "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "-1340 -2464 -541") (victim_position "-1488 -1228 -255")
+L 10/14/2014 - 02:47:12: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1524 -769 -318")
+L 10/14/2014 - 02:47:18: "Dr. MeeM<22><[U:1:81240647]><Red>" triggered "chargedeployed"
+L 10/14/2014 - 02:47:22: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-1349 -1556 -270") (victim_position "-1323 -1551 -352")
+L 10/14/2014 - 02:47:23: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-1450 -1621 -301") (victim_position "-1417 -1598 -362")
+L 10/14/2014 - 02:47:24: "TheSegment<18><[U:1:178827641]><Red>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" with "minigun" (attacker_position "-751 -1392 -309") (victim_position "-555 -1521 -289")
+L 10/14/2014 - 02:47:24: "Corrderio<8><[U:1:64775493]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "-521 -2011 -313")
+L 10/14/2014 - 02:47:24: "Corrderio<8><[U:1:64775493]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Corrderio<8><[U:1:64775493]><Blue>") (attacker_position "-521 -2011 -313")
+L 10/14/2014 - 02:47:28: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" triggered "medic_death" against "Dr. MeeM<22><[U:1:81240647]><Red>" (healing "2952") (ubercharge "0")
+L 10/14/2014 - 02:47:28: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "Dr. MeeM<22><[U:1:81240647]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-1272 -2118 -487") (victim_position "-1176 -1788 -365")
+L 10/14/2014 - 02:47:28: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "kill assist" against "Dr. MeeM<22><[U:1:81240647]><Red>" (assister_position "-1437 -1325 -273") (attacker_position "-1272 -2118 -487") (victim_position "-1176 -1788 -365")
+L 10/14/2014 - 02:47:29: "Luigi 'CBS<5><[U:1:95995338]><Blue>" killed "TheSegment<18><[U:1:178827641]><Red>" with "minigun" (attacker_position "-1164 -1578 -249") (victim_position "-759 -1487 -311")
+L 10/14/2014 - 02:47:30: "Batman #Highlander :P<20><[U:1:119213670]><Red>" killed "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-602 -1440 -316") (victim_position "-1087 -1569 -249")
+L 10/14/2014 - 02:47:30: "TheSegment<18><[U:1:178827641]><Red>" triggered "kill assist" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" (assister_position "-761 -1475 -236") (attacker_position "-602 -1440 -316") (victim_position "-1087 -1569 -249")
+L 10/14/2014 - 02:47:33: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "jondy<16><[U:1:95512994]><Red>" with "tf_projectile_pipe" (attacker_position "-964 -1465 -255") (victim_position "-689 -1050 -135")
+L 10/14/2014 - 02:47:33: "Corrderio<8><[U:1:64775493]><Blue>" triggered "kill assist" against "jondy<16><[U:1:95512994]><Red>" (assister_position "-1055 -2553 -542") (attacker_position "-964 -1465 -255") (victim_position "-689 -1050 -135")
+L 10/14/2014 - 02:47:34: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "Batman #Highlander :P<20><[U:1:119213670]><Red>" with "tf_projectile_pipe" (attacker_position "-1138 -1440 -209") (victim_position "-674 -1021 -135")
+L 10/14/2014 - 02:47:34: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "kill assist" against "Batman #Highlander :P<20><[U:1:119213670]><Red>" (assister_position "-1210 -1264 -255") (attacker_position "-1138 -1440 -209") (victim_position "-674 -1021 -135")
+L 10/14/2014 - 02:47:35: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" killed "forivall: scout/medic main<13><[U:1:35537041]><Blue>" with "scattergun" (attacker_position "1926 -1935 -198") (victim_position "1664 -2035 -319")
+L 10/14/2014 - 02:47:37: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Cap A, The front door dock") (numcappers "4") (player1 "s εїз 'cbs<4><[U:1:83364746]><Blue>") (position1 "-1048 -1080 -255") (player2 "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>") (position2 "-1104 -1169 -233") (player3 "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>") (position3 "-1040 -1473 -250") (player4 "Warfinge 'CBS<17><[U:1:10931439]><Blue>") (position4 "-1182 -1512 -248") 
+L 10/14/2014 - 02:47:39: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1278 -1210 -255")
+L 10/14/2014 - 02:47:51: "Corrderio<8><[U:1:64775493]><Blue>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" with "shotgun_primary" (attacker_position "971 -1509 -526") (victim_position "1426 -1738 -484")
+L 10/14/2014 - 02:47:51: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "kill assist" against "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" (assister_position "509 -1512 -575") (attacker_position "971 -1509 -526") (victim_position "1426 -1738 -484")
+L 10/14/2014 - 02:47:53: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" with "degreaser" (attacker_position "806 -1465 -529") (victim_position "758 -1492 -531")
+L 10/14/2014 - 02:47:53: "Luigi 'CBS<5><[U:1:95995338]><Blue>" triggered "kill assist" against "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" (assister_position "906 -1955 -554") (attacker_position "806 -1465 -529") (victim_position "758 -1492 -531")
+L 10/14/2014 - 02:47:55: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "chargedeployed"
+L 10/14/2014 - 02:47:55: "Corrderio<8><[U:1:64775493]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "1301 -1520 -463")
+L 10/14/2014 - 02:47:55: "Corrderio<8><[U:1:64775493]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Corrderio<8><[U:1:64775493]><Blue>") (attacker_position "1301 -1520 -463")
+L 10/14/2014 - 02:47:56: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_weapon_flamethrower" (attacker_position "986 -1543 -533") (victim_position "1175 -1772 -486")
+L 10/14/2014 - 02:47:56: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1388 -1421 -415")
+L 10/14/2014 - 02:48:00: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe_remote") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Red>") (attacker_position "1552 -1235 -385")
+L 10/14/2014 - 02:48:00: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Red>") (assist "1") (assister_position "1713 -1215 -377") (attacker_position "1552 -1235 -385")
+L 10/14/2014 - 02:48:01: "Batman #Highlander :P<20><[U:1:119213670]><Red>" killed "Warfinge 'CBS<17><[U:1:10931439]><Blue>" with "loch_n_load" (attacker_position "1535 -649 -271") (victim_position "1611 -1175 -384")
+L 10/14/2014 - 02:48:01: "Dr. MeeM<22><[U:1:81240647]><Red>" triggered "kill assist" against "Warfinge 'CBS<17><[U:1:10931439]><Blue>" (assister_position "1156 -640 -335") (attacker_position "1535 -649 -271") (victim_position "1611 -1175 -384")
+L 10/14/2014 - 02:48:01: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "Batman #Highlander :P<20><[U:1:119213670]><Red>" with "tf_projectile_pipe_remote" (attacker_position "1570 -1089 -354") (victim_position "1506 -632 -271")
+L 10/14/2014 - 02:48:01: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "kill assist" against "Batman #Highlander :P<20><[U:1:119213670]><Red>" (assister_position "1562 -1311 -394") (attacker_position "1570 -1089 -354") (victim_position "1506 -632 -271")
+L 10/14/2014 - 02:48:03: "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" killed "[RK] AnalThrasher<19><[U:1:81666540]><Red>" with "sniperrifle" (attacker_position "1392 -1927 -467") (victim_position "1784 -544 -223")
+L 10/14/2014 - 02:48:03: "Corrderio<8><[U:1:64775493]><Blue>" triggered "kill assist" against "[RK] AnalThrasher<19><[U:1:81666540]><Red>" (assister_position "1744 -1643 -466") (attacker_position "1392 -1927 -467") (victim_position "1784 -544 -223")
+L 10/14/2014 - 02:48:05: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "TheSegment<18><[U:1:178827641]><Red>" with "tf_projectile_pipe" (attacker_position "1612 -693 -230") (victim_position "1339 -967 -335")
+L 10/14/2014 - 02:48:06: "jondy<16><[U:1:95512994]><Red>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" with "tf_projectile_rocket" (attacker_position "1856 -716 -306") (victim_position "1745 -724 -315")
+L 10/14/2014 - 02:48:06: "TheSegment<18><[U:1:178827641]><Red>" triggered "kill assist" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" (assister_position "1339 -967 -321") (attacker_position "1856 -716 -306") (victim_position "1745 -724 -315")
+L 10/14/2014 - 02:48:06: "Luigi 'CBS<5><[U:1:95995338]><Blue>" killed "jondy<16><[U:1:95512994]><Red>" with "world" (attacker_position "1633 -853 -338") (victim_position "1856 -716 -306")
+L 10/14/2014 - 02:48:06: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "kill assist" against "jondy<16><[U:1:95512994]><Red>" (assister_position "1656 -1271 -385") (attacker_position "1633 -853 -338") (victim_position "1856 -716 -306")
+L 10/14/2014 - 02:48:07: "Corrderio<8><[U:1:64775493]><Blue>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" with "pistol" (attacker_position "2340 -1335 -344") (victim_position "2599 -1090 -296")
+L 10/14/2014 - 02:48:07: "s εїз 'cbs<4><[U:1:83364746]><Blue>" triggered "kill assist" against "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" (assister_position "2422 -1286 -322") (attacker_position "2340 -1335 -344") (victim_position "2599 -1090 -296")
+L 10/14/2014 - 02:48:22: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Cap B, the Red Shed spawn") (numcappers "4") (player1 "s εїз 'cbs<4><[U:1:83364746]><Blue>") (position1 "1772 -862 -295") (player2 "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>") (position2 "2022 -1049 -288") (player3 "Corrderio<8><[U:1:64775493]><Blue>") (position3 "1870 -1123 -295") (player4 "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>") (position4 "2117 -1060 -295") 
+L 10/14/2014 - 02:48:23: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" killed "forivall: scout/medic main<13><[U:1:35537041]><Blue>" with "degreaser" (attacker_position "997 27 -223") (victim_position "1170 134 -223")
+L 10/14/2014 - 02:48:23: "Dr. MeeM<22><[U:1:81240647]><Red>" triggered "kill assist" against "forivall: scout/medic main<13><[U:1:35537041]><Blue>" (assister_position "771 398 -159") (attacker_position "997 27 -223") (victim_position "1170 134 -223")
+L 10/14/2014 - 02:48:27: "Corrderio<8><[U:1:64775493]><Blue>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" with "shotgun_primary" (attacker_position "1124 -527 -335") (victim_position "1107 -127 -223")
+L 10/14/2014 - 02:48:29: "Corrderio<8><[U:1:64775493]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "1112 -326 -289")
+L 10/14/2014 - 02:48:29: "Corrderio<8><[U:1:64775493]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Corrderio<8><[U:1:64775493]><Blue>") (attacker_position "1112 -326 -289")
+L 10/14/2014 - 02:48:30: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "906 64 -223")
+L 10/14/2014 - 02:48:34: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1693 1921 -31")
+L 10/14/2014 - 02:48:42: "jondy<16><[U:1:95512994]><Red>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" with "tf_projectile_rocket" (customkill "feign_death") (attacker_position "1510 1534 -31") (victim_position "1401 1799 -31")
+L 10/14/2014 - 02:48:45: "Corrderio<8><[U:1:64775493]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "590 -3061 -575")
+L 10/14/2014 - 02:48:46: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" with "degreaser" (attacker_position "798 773 -159") (victim_position "762 565 -159")
+L 10/14/2014 - 02:48:46: "Batman #Highlander :P<20><[U:1:119213670]><Red>" triggered "kill assist" against "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" (assister_position "1393 994 -254") (attacker_position "798 773 -159") (victim_position "762 565 -159")
+L 10/14/2014 - 02:48:47: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "412 -3081 -575")
+L 10/14/2014 - 02:48:50: "s εїз 'cbs<4><[U:1:83364746]><Blue>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" with "scattergun" (attacker_position "1041 126 -223") (victim_position "1109 77 -223")
+L 10/14/2014 - 02:48:51: "TheSegment<18><[U:1:178827641]><Red>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" with "minigun" (attacker_position "1588 1928 -31") (victim_position "1299 1992 -31")
+L 10/14/2014 - 02:48:51: "jondy<16><[U:1:95512994]><Red>" triggered "kill assist" against "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" (assister_position "1393 1855 -31") (attacker_position "1588 1928 -31") (victim_position "1299 1992 -31")
+L 10/14/2014 - 02:48:51: "TheSegment<18><[U:1:178827641]><Red>" triggered "domination" against "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>"
+L 10/14/2014 - 02:48:57: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "chargedeployed"
+L 10/14/2014 - 02:49:01: "Luigi 'CBS<5><[U:1:95995338]><Blue>" killed "Batman #Highlander :P<20><[U:1:119213670]><Red>" with "minigun" (attacker_position "1491 954 -159") (victim_position "1195 851 -301")
+L 10/14/2014 - 02:49:01: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "kill assist" against "Batman #Highlander :P<20><[U:1:119213670]><Red>" (assister_position "1278 1005 -276") (attacker_position "1491 954 -159") (victim_position "1195 851 -301")
+L 10/14/2014 - 02:49:03: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" triggered "medic_death" against "Dr. MeeM<22><[U:1:81240647]><Red>" (healing "889") (ubercharge "0")
+L 10/14/2014 - 02:49:03: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "Dr. MeeM<22><[U:1:81240647]><Red>" with "tf_projectile_pipe_remote" (attacker_position "1819 1795 -31") (victim_position "1691 1879 -31")
+L 10/14/2014 - 02:49:03: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "1040 -436 -335")
+L 10/14/2014 - 02:49:04: "TheSegment<18><[U:1:178827641]><Red>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" with "minigun" (attacker_position "1794 1840 -31") (victim_position "1848 1889 -31")
+L 10/14/2014 - 02:49:04: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "kill assist" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" (assister_position "1784 1973 -31") (attacker_position "1794 1840 -31") (victim_position "1848 1889 -31")
+L 10/14/2014 - 02:49:05: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" killed "s εїз 'cbs<4><[U:1:83364746]><Blue>" with "scattergun" (attacker_position "53 107 -216") (victim_position "512 106 -209")
+L 10/14/2014 - 02:49:05: "Luigi 'CBS<5><[U:1:95995338]><Blue>" killed "[RK] AnalThrasher<19><[U:1:81666540]><Red>" with "minigun" (attacker_position "1753 1412 -65") (victim_position "1816 1945 -31")
+L 10/14/2014 - 02:49:05: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "kill assist" against "[RK] AnalThrasher<19><[U:1:81666540]><Red>" (assister_position "1757 1383 -79") (attacker_position "1753 1412 -65") (victim_position "1816 1945 -31")
+L 10/14/2014 - 02:49:06: "Luigi 'CBS<5><[U:1:95995338]><Blue>" killed "TheSegment<18><[U:1:178827641]><Red>" with "minigun" (attacker_position "1725 1487 -31") (victim_position "1812 1949 -31")
+L 10/14/2014 - 02:49:06: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "kill assist" against "TheSegment<18><[U:1:178827641]><Red>" (assister_position "1711 1240 -39") (attacker_position "1725 1487 -31") (victim_position "1812 1949 -31")
+L 10/14/2014 - 02:49:07: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" killed "Corrderio<8><[U:1:64775493]><Blue>" with "scattergun" (attacker_position "761 186 -223") (victim_position "850 110 -223")
+L 10/14/2014 - 02:49:08: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" with "tf_projectile_rocket" (attacker_position "1459 1300 17") (victim_position "1631 1708 -31")
+L 10/14/2014 - 02:49:08: "Luigi 'CBS<5><[U:1:95995338]><Blue>" triggered "kill assist" against "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" (assister_position "1706 1481 -31") (attacker_position "1459 1300 17") (victim_position "1631 1708 -31")
+L 10/14/2014 - 02:49:11: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "scattergun") (objectowner "Corrderio<8><[U:1:64775493]><Blue>") (attacker_position "1049 -371 -319")
+L 10/14/2014 - 02:49:11: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" killed "Warfinge 'CBS<17><[U:1:10931439]><Blue>" with "obj_sentrygun3" (attacker_position "1819 1979 36") (victim_position "1438 1151 -84")
+L 10/14/2014 - 02:49:14: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" killed "forivall: scout/medic main<13><[U:1:35537041]><Blue>" with "obj_sentrygun3" (attacker_position "1819 1979 36") (victim_position "1554 1086 -114")
+L 10/14/2014 - 02:49:14: "jondy<16><[U:1:95512994]><Red>" triggered "kill assist" against "forivall: scout/medic main<13><[U:1:35537041]><Blue>" (assister_position "1725 1966 -31") (attacker_position "1819 1979 36") (victim_position "1554 1086 -114")
+L 10/14/2014 - 02:49:14: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Red>") (attacker_position "1554 1086 -46")
+L 10/14/2014 - 02:49:16: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" with "scattergun" (attacker_position "1640 -1190 -267") (victim_position "1530 -986 -347")
+L 10/14/2014 - 02:49:28: "jondy<16><[U:1:95512994]><Red>" triggered "medic_death" against "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" (healing "3591") (ubercharge "0")
+L 10/14/2014 - 02:49:28: "jondy<16><[U:1:95512994]><Red>" triggered "captureblocked" (cp "2") (cpname "Cap C, The bridge controls") (position "1462 1708 180")
+L 10/14/2014 - 02:49:28: "jondy<16><[U:1:95512994]><Red>" killed "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" with "tf_projectile_rocket" (attacker_position "1462 1708 180") (victim_position "1368 1778 3")
+L 10/14/2014 - 02:49:28: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" triggered "kill assist" against "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" (assister_position "1515 1904 -31") (attacker_position "1462 1708 180") (victim_position "1368 1778 3")
+L 10/14/2014 - 02:49:30: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" killed "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "scattergun" (attacker_position "1316 1960 -31") (victim_position "1454 1917 -31")
+L 10/14/2014 - 02:49:30: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" triggered "kill assist" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" (assister_position "1538 1731 -31") (attacker_position "1316 1960 -31") (victim_position "1454 1917 -31")
+L 10/14/2014 - 02:49:34: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1053 38 -223")
+L 10/14/2014 - 02:49:35: "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "1084 795 -159") (victim_position "1602 1512 -31")
+L 10/14/2014 - 02:49:40: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "1652 1881 -31") (victim_position "1039 769 -159")
+L 10/14/2014 - 02:49:40: "TheSegment<18><[U:1:178827641]><Red>" triggered "kill assist" against "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" (assister_position "1395 1548 -24") (attacker_position "1652 1881 -31") (victim_position "1039 769 -159")
+L 10/14/2014 - 02:49:42: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1605 1901 -31")
+L 10/14/2014 - 02:49:43: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Red>") (attacker_position "1410 184 -78")
+L 10/14/2014 - 02:49:44: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "1027 -433 -335")
+L 10/14/2014 - 02:49:45: "TheSegment<18><[U:1:178827641]><Red>" killed "Warfinge 'CBS<17><[U:1:10931439]><Blue>" with "minigun" (attacker_position "1444 1384 -31") (victim_position "1173 1158 -204")
+L 10/14/2014 - 02:49:45: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" triggered "kill assist" against "Warfinge 'CBS<17><[U:1:10931439]><Blue>" (assister_position "1476 1016 -159") (attacker_position "1444 1384 -31") (victim_position "1173 1158 -204")
+L 10/14/2014 - 02:49:47: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1704 1985 -31")
+L 10/14/2014 - 02:49:52: "jondy<16><[U:1:95512994]><Red>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" with "tf_projectile_rocket" (attacker_position "1283 344 -58") (victim_position "1361 272 -27")
+L 10/14/2014 - 02:49:55: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" triggered "jarate_attack" against "forivall: scout/medic main<13><[U:1:35537041]><Blue>" with "tf_weapon_jar" (attacker_position "1489 1427 -31") (victim_position "1039 1270 -110")
+L 10/14/2014 - 02:49:56: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" killed "forivall: scout/medic main<13><[U:1:35537041]><Blue>" with "degreaser" (attacker_position "1200 1253 -205") (victim_position "984 1321 -131")
+L 10/14/2014 - 02:49:56: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" triggered "kill assist" against "forivall: scout/medic main<13><[U:1:35537041]><Blue>" (assister_position "1497 1487 -31") (attacker_position "1200 1253 -205") (victim_position "984 1321 -131")
+L 10/14/2014 - 02:49:57: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "1099 -133 -223")
+L 10/14/2014 - 02:50:11: "Corrderio<8><[U:1:64775493]><Blue>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" with "world" (attacker_position "1109 -119 -223") (victim_position "254 417 -1622")
+L 10/14/2014 - 02:50:14: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" triggered "player_builtobject" (object "OBJ_ATTACHMENT_SAPPER") (position "1726 1943 -31")
+L 10/14/2014 - 02:50:15: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" killed "[RK] AnalThrasher<19><[U:1:81666540]><Red>" with "ambassador" (attacker_position "1854 1708 -31") (victim_position "1713 1897 -31")
+L 10/14/2014 - 02:50:17: "jondy<16><[U:1:95512994]><Red>" killed "s εїз 'cbs<4><[U:1:83364746]><Blue>" with "tf_projectile_rocket" (attacker_position "0 206 -218") (victim_position "24 78 -216")
+L 10/14/2014 - 02:50:17: "Corrderio<8><[U:1:64775493]><Blue>" killed "jondy<16><[U:1:95512994]><Red>" with "obj_sentrygun2" (attacker_position "1128 -140 -223") (victim_position "0 206 -218")
+L 10/14/2014 - 02:50:17: "s εїз 'cbs<4><[U:1:83364746]><Blue>" triggered "kill assist" against "jondy<16><[U:1:95512994]><Red>" (assister_position "24 78 -216") (attacker_position "1128 -140 -223") (victim_position "0 206 -218")
+L 10/14/2014 - 02:50:18: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" with "fryingpan" (attacker_position "1711 1484 -31") (victim_position "1705 1490 -31")
+L 10/14/2014 - 02:50:18: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "kill assist" against "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" (assister_position "1742 1904 -17") (attacker_position "1711 1484 -31") (victim_position "1705 1490 -31")
+L 10/14/2014 - 02:50:18: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_carryobject" (object "OBJ_DISPENSER") (position "1084 -225 -223")
+L 10/14/2014 - 02:50:19: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_dropobject" (object "OBJ_DISPENSER") (position "1048 -183 -223")
+L 10/14/2014 - 02:50:19: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "1048 -183 -223")
+L 10/14/2014 - 02:50:21: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "obj_attachment_sapper") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Red>") (attacker_position "1747 1427 -44")
+L 10/14/2014 - 02:50:43: "Luigi 'CBS<5><[U:1:95995338]><Blue>" killed "Batman #Highlander :P<20><[U:1:119213670]><Red>" with "minigun" (attacker_position "1276 1248 -194") (victim_position "1144 856 -309")
+L 10/14/2014 - 02:50:43: "TheSegment<18><[U:1:178827641]><Red>" killed "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "minigun" (attacker_position "1523 1400 -31") (victim_position "1290 1232 -191")
+L 10/14/2014 - 02:50:43: "Dr. MeeM<22><[U:1:81240647]><Red>" triggered "kill assist" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" (assister_position "1569 1636 -31") (attacker_position "1523 1400 -31") (victim_position "1290 1232 -191")
+L 10/14/2014 - 02:50:44: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "chargedeployed"
+L 10/14/2014 - 02:50:51: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" with "degreaser" (attacker_position "1050 1626 -209") (victim_position "920 1729 -137")
+L 10/14/2014 - 02:50:51: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" triggered "kill assist" against "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" (assister_position "1122 1344 -213") (attacker_position "1050 1626 -209") (victim_position "920 1729 -137")
+L 10/14/2014 - 02:50:52: "Batman #Highlander :P<20><[U:1:119213670]><Red>" say_team "GUYS I CAN'T HEAR A THING YOU SAY"
+L 10/14/2014 - 02:50:52: "TheSegment<18><[U:1:178827641]><Red>" killed "Warfinge 'CBS<17><[U:1:10931439]><Blue>" with "minigun" (attacker_position "1534 1210 -159") (victim_position "1019 1655 -205")
+L 10/14/2014 - 02:50:54: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1654 1902 -31")
+L 10/14/2014 - 02:50:54: "Dr. MeeM<22><[U:1:81240647]><Red>" triggered "chargedeployed"
+L 10/14/2014 - 02:50:55: "Batman #Highlander :P<20><[U:1:119213670]><Red>" say_team "I GOT A ERROR"
+L 10/14/2014 - 02:50:55: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" triggered "medic_death" against "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" (healing "964") (ubercharge "0")
+L 10/14/2014 - 02:50:55: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" killed "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" with "scattergun" (attacker_position "1240 1023 -270") (victim_position "1111 1111 -213")
+L 10/14/2014 - 02:50:55: "TheSegment<18><[U:1:178827641]><Red>" triggered "kill assist" against "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" (assister_position "1526 995 -159") (attacker_position "1240 1023 -270") (victim_position "1111 1111 -213")
+L 10/14/2014 - 02:50:56: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" killed "s εїз 'cbs<4><[U:1:83364746]><Blue>" with "scattergun" (attacker_position "1048 1129 -221") (victim_position "999 1371 -208")
+L 10/14/2014 - 02:50:56: "TheSegment<18><[U:1:178827641]><Red>" triggered "kill assist" against "s εїз 'cbs<4><[U:1:83364746]><Blue>" (assister_position "1485 1048 -159") (attacker_position "1048 1129 -221") (victim_position "999 1371 -208")
+L 10/14/2014 - 02:50:56: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" with "tf_projectile_rocket" (attacker_position "769 1749 -31") (victim_position "1008 1965 5")
+L 10/14/2014 - 02:50:57: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Red>") (attacker_position "1452 1581 -24")
+L 10/14/2014 - 02:50:57: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" say "Toasty Buns"
+L 10/14/2014 - 02:50:59: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "[RK] AnalThrasher<19><[U:1:81666540]><Red>" with "tf_projectile_pipe_remote" (attacker_position "1227 1919 -31") (victim_position "1644 1875 -31")
+L 10/14/2014 - 02:51:02: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" with "tf_projectile_rocket" (attacker_position "793 1781 -31") (victim_position "1102 1971 -31")
+L 10/14/2014 - 02:51:07: "Luigi 'CBS<5><[U:1:95995338]><Blue>" killed "TheSegment<18><[U:1:178827641]><Red>" with "minigun" (attacker_position "1110 1201 -210") (victim_position "1228 1603 -133")
+L 10/14/2014 - 02:51:07: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" triggered "kill assist" against "TheSegment<18><[U:1:178827641]><Red>" (assister_position "801 1588 -31") (attacker_position "1110 1201 -210") (victim_position "1228 1603 -133")
+L 10/14/2014 - 02:51:07: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" triggered "medic_death" against "Dr. MeeM<22><[U:1:81240647]><Red>" (healing "1748") (ubercharge "0")
+L 10/14/2014 - 02:51:07: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" killed "Dr. MeeM<22><[U:1:81240647]><Red>" with "knife" (customkill "backstab") (attacker_position "1450 1663 -24") (victim_position "1392 1733 -24")
+L 10/14/2014 - 02:51:10: "jondy<16><[U:1:95512994]><Red>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" with "tf_projectile_rocket" (attacker_position "763 1567 -31") (victim_position "761 1199 -31")
+L 10/14/2014 - 02:51:14: "Luigi 'CBS<5><[U:1:95995338]><Blue>" killed "jondy<16><[U:1:95512994]><Red>" with "minigun" (attacker_position "1506 1596 -24") (victim_position "1411 1451 272")
+L 10/14/2014 - 02:51:14: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" triggered "kill assist" against "jondy<16><[U:1:95512994]><Red>" (assister_position "984 1561 -217") (attacker_position "1506 1596 -24") (victim_position "1411 1451 272")
+L 10/14/2014 - 02:51:17: "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" killed "Batman #Highlander :P<20><[U:1:119213670]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "1577 1685 -31") (victim_position "933 1215 -31")
+L 10/14/2014 - 02:51:28: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Cap C, The bridge controls") (numcappers "3") (player1 "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>") (position1 "1482 1558 -24") (player2 "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>") (position2 "1621 1465 -31") (player3 "Warfinge 'CBS<17><[U:1:10931439]><Blue>") (position3 "1539 1761 -31") 
+L 10/14/2014 - 02:51:33: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-546 1028 -31")
+L 10/14/2014 - 02:51:37: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_weapon_flamethrower" (attacker_position "571 1592 -31") (victim_position "420 1400 -31")
+L 10/14/2014 - 02:51:37: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "forivall: scout/medic main<13><[U:1:35537041]><Blue>" with "tf_weapon_flamethrower" (attacker_position "571 1592 -31") (victim_position "418 1415 -31")
+L 10/14/2014 - 02:51:43: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "s εїз 'cbs<4><[U:1:83364746]><Blue>" with "tf_weapon_flamethrower" (attacker_position "72 1412 -31") (victim_position "-60 1478 -31")
+L 10/14/2014 - 02:51:44: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-44 1404 -31") (victim_position "-200 1468 -31")
+L 10/14/2014 - 02:51:44: "jondy<16><[U:1:95512994]><Red>" killed "s εїз 'cbs<4><[U:1:83364746]><Blue>" with "tf_projectile_rocket" (attacker_position "-431 1555 -31") (victim_position "-396 1413 -31")
+L 10/14/2014 - 02:51:44: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" triggered "kill assist" against "s εїз 'cbs<4><[U:1:83364746]><Blue>" (assister_position "-454 1212 -31") (attacker_position "-431 1555 -31") (victim_position "-396 1413 -31")
+L 10/14/2014 - 02:51:45: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-2 1401 -31") (victim_position "-158 1395 -31")
+L 10/14/2014 - 02:51:46: "Luigi 'CBS<5><[U:1:95995338]><Blue>" killed "TheSegment<18><[U:1:178827641]><Red>" with "minigun" (attacker_position "-58 1423 -31") (victim_position "-496 1415 -31")
+L 10/14/2014 - 02:51:46: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "kill assist" against "TheSegment<18><[U:1:178827641]><Red>" (assister_position "75 1365 -31") (attacker_position "-58 1423 -31") (victim_position "-496 1415 -31")
+L 10/14/2014 - 02:51:57: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "scattergun") (objectowner "Corrderio<8><[U:1:64775493]><Blue>") (attacker_position "957 -248 -335")
+L 10/14/2014 - 02:51:57: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" triggered "jarate_attack" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" with "tf_weapon_jar" (attacker_position "-1205 393 -219") (victim_position "-730 85 -223")
+L 10/14/2014 - 02:51:58: "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "4 68 -216") (victim_position "-29 703 -223")
+L 10/14/2014 - 02:51:59: "jondy<16><[U:1:95512994]><Red>" killed "forivall: scout/medic main<13><[U:1:35537041]><Blue>" with "tf_projectile_rocket" (attacker_position "-546 1232 -31") (victim_position "-336 1460 -31")
+L 10/14/2014 - 02:51:59: "Dr. MeeM<22><[U:1:81240647]><Red>" triggered "kill assist" against "forivall: scout/medic main<13><[U:1:35537041]><Blue>" (assister_position "-734 1109 -12") (attacker_position "-546 1232 -31") (victim_position "-336 1460 -31")
+L 10/14/2014 - 02:51:59: "s εїз 'cbs<4><[U:1:83364746]><Blue>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" with "scattergun" (attacker_position "1561 -884 -331") (victim_position "1097 -574 -335")
+L 10/14/2014 - 02:51:59: "Corrderio<8><[U:1:64775493]><Blue>" triggered "kill assist" against "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" (assister_position "1039 -27 -223") (attacker_position "1561 -884 -331") (victim_position "1097 -574 -335")
+L 10/14/2014 - 02:52:05: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "1036 -409 -335")
+L 10/14/2014 - 02:52:10: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-662 1057 -31")
+L 10/14/2014 - 02:52:10: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "-386 718 -223") (victim_position "27 701 -223")
+L 10/14/2014 - 02:52:12: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-157 772 -223") (victim_position "-659 668 -223")
+L 10/14/2014 - 02:52:12: "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" triggered "kill assist" against "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" (assister_position "27 712 -209") (attacker_position "-157 772 -223") (victim_position "-659 668 -223")
+L 10/14/2014 - 02:52:16: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "building_carried_destroyed") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Red>") (attacker_position "-1157 1110 -184")
+L 10/14/2014 - 02:52:16: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "[RK] AnalThrasher<19><[U:1:81666540]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-1157 1110 -184") (victim_position "-1200 1618 -31")
+L 10/14/2014 - 02:52:18: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "chargedeployed"
+L 10/14/2014 - 02:52:18: "Luigi 'CBS<5><[U:1:95995338]><Blue>" triggered "medic_death" against "Dr. MeeM<22><[U:1:81240647]><Red>" (healing "780") (ubercharge "0")
+L 10/14/2014 - 02:52:18: "Luigi 'CBS<5><[U:1:95995338]><Blue>" killed "Dr. MeeM<22><[U:1:81240647]><Red>" with "minigun" (attacker_position "-691 1092 -31") (victim_position "-1216 1485 -44")
+L 10/14/2014 - 02:52:18: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "kill assist" against "Dr. MeeM<22><[U:1:81240647]><Red>" (assister_position "-667 1024 3") (attacker_position "-691 1092 -31") (victim_position "-1216 1485 -44")
+L 10/14/2014 - 02:52:19: "Batman #Highlander :P<20><[U:1:119213670]><Red>" killed "s εїз 'cbs<4><[U:1:83364746]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-10 -444 -223") (victim_position "137 110 -177")
+L 10/14/2014 - 02:52:23: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_carryobject" (object "OBJ_TELEPORTER") (position "1010 -410 -335")
+L 10/14/2014 - 02:52:25: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_dropobject" (object "OBJ_TELEPORTER") (position "952 -412 -335")
+L 10/14/2014 - 02:52:25: "Corrderio<8><[U:1:64775493]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "952 -412 -335")
+L 10/14/2014 - 02:52:27: "Batman #Highlander :P<20><[U:1:119213670]><Red>" killed "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-1197 557 -223") (victim_position "-1034 1064 -184")
+L 10/14/2014 - 02:52:27: "TheSegment<18><[U:1:178827641]><Red>" triggered "kill assist" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" (assister_position "-509 1075 -31") (attacker_position "-1197 557 -223") (victim_position "-1034 1064 -184")
+L 10/14/2014 - 02:52:30: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-428 693 -223") (victim_position "129 1372 -223")
+L 10/14/2014 - 02:52:32: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" killed "jondy<16><[U:1:95512994]><Red>" with "knife" (customkill "backstab") (attacker_position "-965 1159 -191") (victim_position "-898 1095 -191")
+L 10/14/2014 - 02:52:32: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "kill assist" against "jondy<16><[U:1:95512994]><Red>" (assister_position "-955 721 -223") (attacker_position "-965 1159 -191") (victim_position "-898 1095 -191")
+L 10/14/2014 - 02:52:34: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" killed "Batman #Highlander :P<20><[U:1:119213670]><Red>" with "reserve_shooter" (attacker_position "-1280 469 -223") (victim_position "-1348 447 -113")
+L 10/14/2014 - 02:52:34: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" triggered "captureblocked" (cp "3") (cpname "Cap D, Red spawn door to E") (position "-1084 1056 -184")
+L 10/14/2014 - 02:52:35: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" with "flaregun" (attacker_position "-1084 1056 -184") (victim_position "-1271 1073 -120")
+L 10/14/2014 - 02:52:37: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" killed "Warfinge 'CBS<17><[U:1:10931439]><Blue>" with "degreaser" (attacker_position "-1178 813 -223") (victim_position "-1130 858 -207")
+L 10/14/2014 - 02:52:42: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "player_extinguished" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" with "tf_weapon_medigun" (attacker_position "-958 1434 -155") (victim_position "-1030 1073 -184")
+L 10/14/2014 - 02:52:46: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1077 1680 -31")
+L 10/14/2014 - 02:52:47: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe_remote") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Red>") (attacker_position "-1224 1476 -49")
+L 10/14/2014 - 02:52:47: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Red>") (assist "1") (assister_position "-1253 1012 -191") (attacker_position "-1224 1476 -49")
+L 10/14/2014 - 02:52:49: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" killed "[RK] AnalThrasher<19><[U:1:81666540]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-1193 1509 -31") (victim_position "-602 1627 -31")
+L 10/14/2014 - 02:52:49: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" triggered "kill assist" against "[RK] AnalThrasher<19><[U:1:81666540]><Red>" (assister_position "-1241 1220 -191") (attacker_position "-1193 1509 -31") (victim_position "-602 1627 -31")
+L 10/14/2014 - 02:52:56: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" triggered "captureblocked" (cp "4") (cpname "Cap E, The main point") (position "-56 277 -221")
+L 10/14/2014 - 02:52:57: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" with "sniperrifle" (attacker_position "-214 814 -223") (victim_position "-33 -193 -223")
+L 10/14/2014 - 02:52:57: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" triggered "kill assist" against "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" (assister_position "-128 292 -412") (attacker_position "-214 814 -223") (victim_position "-33 -193 -223")
+L 10/14/2014 - 02:52:58: "TheSegment<18><[U:1:178827641]><Red>" killed "Corrderio<8><[U:1:64775493]><Blue>" with "minigun" (attacker_position "-95 729 -223") (victim_position "23 29 -216")
+L 10/14/2014 - 02:52:58: "Dr. MeeM<22><[U:1:81240647]><Red>" triggered "kill assist" against "Corrderio<8><[U:1:64775493]><Blue>" (assister_position "-286 1113 -223") (attacker_position "-95 729 -223") (victim_position "23 29 -216")
+L 10/14/2014 - 02:52:58: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" killed "TheSegment<18><[U:1:178827641]><Red>" with "knife" (customkill "backstab") (attacker_position "-121 784 -223") (victim_position "-109 732 -223")
+L 10/14/2014 - 02:52:58: "Luigi 'CBS<5><[U:1:95995338]><Blue>" triggered "kill assist" against "TheSegment<18><[U:1:178827641]><Red>" (assister_position "-2 -171 -234") (attacker_position "-121 784 -223") (victim_position "-109 732 -223")
+L 10/14/2014 - 02:52:58: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" triggered "revenge" against "TheSegment<18><[U:1:178827641]><Red>"
+L 10/14/2014 - 02:52:59: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" with "knife" (customkill "backstab") (attacker_position "-192 859 -223") (victim_position "-240 813 -223")
+L 10/14/2014 - 02:52:59: "Luigi 'CBS<5><[U:1:95995338]><Blue>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" with "world" (attacker_position "-3 3 -216") (victim_position "85 160 -1264")
+L 10/14/2014 - 02:53:00: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "Cap D, Red spawn door to E") (numcappers "2") (player1 "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>") (position1 "-1174 1001 -184") (player2 "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>") (position2 "-1154 982 -184") 
+L 10/14/2014 - 02:53:01: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" triggered "player_extinguished" against "Luigi 'CBS<5><[U:1:95995338]><Blue>" with "tf_weapon_flamethrower" (attacker_position "24 125 -216") (victim_position "-35 108 -216")
+L 10/14/2014 - 02:53:02: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "Cap E, The main point") (numcappers "3") (player1 "s εїз 'cbs<4><[U:1:83364746]><Blue>") (position1 "19 69 -216") (player2 "Luigi 'CBS<5><[U:1:95995338]><Blue>") (position2 "41 168 -216") (player3 "Warfinge 'CBS<17><[U:1:10931439]><Blue>") (position3 "81 128 -216") 
+L 10/14/2014 - 02:53:02: World triggered "Round_Win" (winner "Blue")
+L 10/14/2014 - 02:53:02: World triggered "Round_Length" (seconds "525.60")
+L 10/14/2014 - 02:53:02: Team "Red" current score "0" with "8" players
+L 10/14/2014 - 02:53:02: Team "Blue" current score "5" with "9" players
+L 10/14/2014 - 02:53:03: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" say "gg :/"
+L 10/14/2014 - 02:53:05: "Luigi 'CBS<5><[U:1:95995338]><Blue>" say "gg"
+L 10/14/2014 - 02:53:07: World triggered "Round_Start"
+L 10/14/2014 - 02:53:07: World triggered "Round_Setup_Begin"
+L 10/14/2014 - 02:53:07: "Batman #Highlander :P<20><[U:1:119213670]><Red>" joined team "Blue"
+L 10/14/2014 - 02:53:07: "s εїз 'cbs<4><[U:1:83364746]><Blue>" joined team "Red"
+L 10/14/2014 - 02:53:07: "Luigi 'CBS<5><[U:1:95995338]><Blue>" joined team "Red"
+L 10/14/2014 - 02:53:07: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Blue>" joined team "Red"
+L 10/14/2014 - 02:53:07: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Blue>" joined team "Red"
+L 10/14/2014 - 02:53:07: "Corrderio<8><[U:1:64775493]><Blue>" joined team "Red"
+L 10/14/2014 - 02:53:07: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Blue>" joined team "Red"
+L 10/14/2014 - 02:53:07: "headsnoogles› fbs!!<10><[U:1:19572214]><Blue>" joined team "Red"
+L 10/14/2014 - 02:53:07: "[RK] AnalThrasher<19><[U:1:81666540]><Red>" joined team "Blue"
+L 10/14/2014 - 02:53:07: "[RK]❖Doshi❖<12><[U:1:76563813]><Red>" joined team "Blue"
+L 10/14/2014 - 02:53:07: "forivall: scout/medic main<13><[U:1:35537041]><Blue>" joined team "Red"
+L 10/14/2014 - 02:53:07: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Red>" joined team "Blue"
+L 10/14/2014 - 02:53:07: "[RK] Sexy Bitch<15><[U:1:93117860]><Red>" joined team "Blue"
+L 10/14/2014 - 02:53:07: "jondy<16><[U:1:95512994]><Red>" joined team "Blue"
+L 10/14/2014 - 02:53:07: "Warfinge 'CBS<17><[U:1:10931439]><Blue>" joined team "Red"
+L 10/14/2014 - 02:53:07: "TheSegment<18><[U:1:178827641]><Red>" joined team "Blue"
+L 10/14/2014 - 02:53:07: "Dr. MeeM<22><[U:1:81240647]><Red>" joined team "Blue"
+L 10/14/2014 - 02:53:07: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" say "gg"
+L 10/14/2014 - 02:53:08: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" say "gr"
+L 10/14/2014 - 02:53:10: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" say "gr"
+L 10/14/2014 - 02:53:16: "Luigi 'CBS<5><[U:1:95995338]><Red>" say "oh gr"
+L 10/14/2014 - 02:53:17: "forivall: scout/medic main<13><[U:1:35537041]><Red>" say "gr"
+L 10/14/2014 - 02:53:21: "Corrderio<8><[U:1:64775493]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1525 -868 -322")
+L 10/14/2014 - 02:53:24: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "655 -3064 -575")
+L 10/14/2014 - 02:53:26: "s εїз 'cbs<4><[U:1:83364746]><Red>" committed suicide with "world" (attacker_position "1726 -767 -318")
+L 10/14/2014 - 02:53:31: "s εїз 'cbs<4><[U:1:83364746]><Red>" say_team "solly come b"
+L 10/14/2014 - 02:53:34: "s εїз 'cbs<4><[U:1:83364746]><Red>" say "<3"
+L 10/14/2014 - 02:53:36: "Corrderio<8><[U:1:64775493]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "1158 677 -159")
+L 10/14/2014 - 02:53:55: "Corrderio<8><[U:1:64775493]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "1339 -617 -335")
+L 10/14/2014 - 02:54:02: "Corrderio<8><[U:1:64775493]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "1360 -871 -335")
+L 10/14/2014 - 02:54:07: World triggered "Round_Setup_End"
+L 10/14/2014 - 02:54:11: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "-339 -3288 -575") (victim_position "-1682 -1620 -411")
+L 10/14/2014 - 02:54:17: "forivall: scout/medic main<13><[U:1:35537041]><Red>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" with "tf_projectile_rocket" (attacker_position "-836 -2920 -290") (victim_position "-383 -3049 -559")
+L 10/14/2014 - 02:54:25: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "Batman #Highlander :P<20><[U:1:119213670]><Blue>" with "tf_projectile_pipe" (attacker_position "-724 -953 -135") (victim_position "-532 -1796 -146")
+L 10/14/2014 - 02:54:25: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "kill assist" against "Batman #Highlander :P<20><[U:1:119213670]><Blue>" (assister_position "-534 -1148 -143") (attacker_position "-724 -953 -135") (victim_position "-532 -1796 -146")
+L 10/14/2014 - 02:54:25: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "domination" against "Batman #Highlander :P<20><[U:1:119213670]><Blue>"
+L 10/14/2014 - 02:54:31: "Luigi 'CBS<5><[U:1:95995338]><Red>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" with "minigun" (attacker_position "-575 -1306 -143") (victim_position "-592 -1598 -319")
+L 10/14/2014 - 02:54:31: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "kill assist" against "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" (assister_position "-376 -1122 -143") (attacker_position "-575 -1306 -143") (victim_position "-592 -1598 -319")
+L 10/14/2014 - 02:54:34: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" triggered "captureblocked" (cp "0") (cpname "Cap A, The front door dock") (position "-1062 -1533 -248")
+L 10/14/2014 - 02:54:34: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" killed "TheSegment<18><[U:1:178827641]><Blue>" with "knife" (customkill "backstab") (attacker_position "-1062 -1533 -248") (victim_position "-1012 -1550 -255")
+L 10/14/2014 - 02:54:34: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "kill assist" against "TheSegment<18><[U:1:178827641]><Blue>" (assister_position "-780 -997 -116") (attacker_position "-1062 -1533 -248") (victim_position "-1012 -1550 -255")
+L 10/14/2014 - 02:54:35: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1869 -1958 -295")
+L 10/14/2014 - 02:54:35: "Corrderio<8><[U:1:64775493]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "obj_sentrygun3") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "1565 -835 -326")
+L 10/14/2014 - 02:54:36: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "player_extinguished" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" with "tf_weapon_medigun" (attacker_position "-123 -1221 -143") (victim_position "-323 -1159 -98")
+L 10/14/2014 - 02:54:50: "jondy<16><[U:1:95512994]><Blue>" killed "s εїз 'cbs<4><[U:1:83364746]><Red>" with "tf_projectile_rocket" (attacker_position "1111 -2021 -503") (victim_position "1767 -1975 -287")
+L 10/14/2014 - 02:54:55: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1145 -1401 -276")
+L 10/14/2014 - 02:55:02: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "1050 -2421 -575")
+L 10/14/2014 - 02:55:11: "forivall: scout/medic main<13><[U:1:35537041]><Red>" killed "Batman #Highlander :P<20><[U:1:119213670]><Blue>" with "tf_projectile_rocket" (attacker_position "-569 -1754 -76") (victim_position "-503 -1809 -164")
+L 10/14/2014 - 02:55:13: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" triggered "medic_death" against "Dr. MeeM<22><[U:1:81240647]><Blue>" (healing "2067") (ubercharge "1")
+L 10/14/2014 - 02:55:13: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" killed "Dr. MeeM<22><[U:1:81240647]><Blue>" with "knife" (customkill "backstab") (attacker_position "-1261 -2286 -516") (victim_position "-1297 -2246 -511")
+L 10/14/2014 - 02:55:15: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" with "degreaser" (attacker_position "-461 -1178 -143") (victim_position "-586 -1076 -143")
+L 10/14/2014 - 02:55:18: "TheSegment<18><[U:1:178827641]><Blue>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" with "minigun" (attacker_position "-1576 -1495 -356") (victim_position "-1720 -1885 -450")
+L 10/14/2014 - 02:55:18: "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" triggered "kill assist" against "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" (assister_position "-1437 -1379 -297") (attacker_position "-1576 -1495 -356") (victim_position "-1720 -1885 -450")
+L 10/14/2014 - 02:55:19: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" with "deflect_promode" (attacker_position "-537 -1204 -143") (victim_position "-310 -1193 -138")
+L 10/14/2014 - 02:55:19: "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" say "Did you drop something? ( ͡° ͜ʖ ͡°)"
+L 10/14/2014 - 02:55:24: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" triggered "jarate_attack" against "Luigi 'CBS<5><[U:1:95995338]><Red>" with "tf_weapon_jar" (attacker_position "-1139 -1415 -248") (victim_position "-628 -982 -135")
+L 10/14/2014 - 02:55:26: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" say ";)"
+L 10/14/2014 - 02:55:29: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Cap A, The front door dock") (numcappers "3") (player1 "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>") (position1 "-1104 -1188 -255") (player2 "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>") (position2 "-1032 -1168 -247") (player3 "TheSegment<18><[U:1:178827641]><Blue>") (position3 "-1088 -1088 -255") 
+L 10/14/2014 - 02:55:33: "forivall: scout/medic main<13><[U:1:35537041]><Red>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" with "tf_projectile_rocket" (attacker_position "-882 -2737 -504") (victim_position "-909 -2450 -526")
+L 10/14/2014 - 02:55:35: "forivall: scout/medic main<13><[U:1:35537041]><Red>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" with "tf_projectile_rocket" (attacker_position "-853 -2700 -523") (victim_position "-642 -2649 -465")
+L 10/14/2014 - 02:55:35: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" killed "forivall: scout/medic main<13><[U:1:35537041]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "-1186 -2219 -503") (victim_position "-861 -2762 -519")
+L 10/14/2014 - 02:55:35: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" triggered "kill assist" against "forivall: scout/medic main<13><[U:1:35537041]><Red>" (assister_position "-909 -2450 -458") (attacker_position "-1186 -2219 -503") (victim_position "-861 -2762 -519")
+L 10/14/2014 - 02:55:35: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "1108 -1420 -286")
+L 10/14/2014 - 02:55:36: "Batman #Highlander :P<20><[U:1:119213670]><Blue>" killed "Warfinge 'CBS<17><[U:1:10931439]><Red>" with "loch_n_load" (attacker_position "1343 -1669 -474") (victim_position "1432 -791 -303")
+L 10/14/2014 - 02:55:36: "jondy<16><[U:1:95512994]><Blue>" triggered "kill assist" against "Warfinge 'CBS<17><[U:1:10931439]><Red>" (assister_position "1105 -2155 -517") (attacker_position "1343 -1669 -474") (victim_position "1432 -791 -303")
+L 10/14/2014 - 02:55:36: "Batman #Highlander :P<20><[U:1:119213670]><Blue>" killed "Corrderio<8><[U:1:64775493]><Red>" with "loch_n_load" (attacker_position "1343 -1669 -474") (victim_position "1645 -863 -341")
+L 10/14/2014 - 02:55:37: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "1431 -1428 -375")
+L 10/14/2014 - 02:55:37: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1431 -1428 -375")
+L 10/14/2014 - 02:55:38: "Corrderio<8><[U:1:64775493]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "obj_sentrygun3") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "1645 -863 -327")
+L 10/14/2014 - 02:55:41: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1388 -1390 -411")
+L 10/14/2014 - 02:55:42: "Corrderio<8><[U:1:64775493]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "obj_sentrygun3") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "1645 -863 -327")
+L 10/14/2014 - 02:55:45: "jondy<16><[U:1:95512994]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Corrderio<8><[U:1:64775493]><Red>") (attacker_position "1385 -1927 -470")
+L 10/14/2014 - 02:55:52: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "Batman #Highlander :P<20><[U:1:119213670]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "1580 -1099 -378") (victim_position "1522 -1728 -432")
+L 10/14/2014 - 02:55:52: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "kill assist" against "Batman #Highlander :P<20><[U:1:119213670]><Blue>" (assister_position "1511 -596 -248") (attacker_position "1580 -1099 -378") (victim_position "1522 -1728 -432")
+L 10/14/2014 - 02:55:57: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "captureblocked" (cp "1") (cpname "Cap B, the Red Shed spawn") (position "1400 -831 -303")
+L 10/14/2014 - 02:55:57: "Luigi 'CBS<5><[U:1:95995338]><Red>" killed "jondy<16><[U:1:95512994]><Blue>" with "minigun" (attacker_position "1400 -831 -303") (victim_position "1865 -1145 -295")
+L 10/14/2014 - 02:55:57: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "kill assist" against "jondy<16><[U:1:95512994]><Blue>" (assister_position "1099 -729 -335") (attacker_position "1400 -831 -303") (victim_position "1865 -1145 -295")
+L 10/14/2014 - 02:55:58: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "s εїз 'cbs<4><[U:1:83364746]><Red>" with "powerjack" (attacker_position "2495 -1020 -293") (victim_position "2551 -1019 -221")
+L 10/14/2014 - 02:56:02: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "captureblocked" (cp "1") (cpname "Cap B, the Red Shed spawn") (position "1827 -656 -230")
+L 10/14/2014 - 02:56:02: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" with "tf_projectile_pipe" (attacker_position "1827 -656 -230") (victim_position "2166 -876 -295")
+L 10/14/2014 - 02:56:03: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "2208 -1215 -323")
+L 10/14/2014 - 02:56:05: "s εїз 'cbs<4><[U:1:83364746]><Red>" say "rekt me"
+L 10/14/2014 - 02:56:05: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" killed "TheSegment<18><[U:1:178827641]><Blue>" with "knife" (customkill "backstab") (attacker_position "1609 -1843 -468") (victim_position "1662 -1792 -464")
+L 10/14/2014 - 02:56:05: "Dr. MeeM<22><[U:1:81240647]><Blue>" triggered "kill assist" against "TheSegment<18><[U:1:178827641]><Blue>" (assister_position "1226 -1745 -509") (attacker_position "1609 -1843 -468") (victim_position "1662 -1792 -464")
+L 10/14/2014 - 02:56:06: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "1856 -709 -305")
+L 10/14/2014 - 02:56:09: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" say ":3"
+L 10/14/2014 - 02:56:09: "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "scattergun") (objectowner "Corrderio<8><[U:1:64775493]><Red>") (attacker_position "1192 655 -147")
+L 10/14/2014 - 02:56:09: "forivall: scout/medic main<13><[U:1:35537041]><Red>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" with "tf_projectile_rocket" (attacker_position "1825 -1963 -295") (victim_position "2019 -1927 -283")
+L 10/14/2014 - 02:56:12: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1614 -1726 -470")
+L 10/14/2014 - 02:56:13: "Corrderio<8><[U:1:64775493]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1126 -716 -335")
+L 10/14/2014 - 02:56:13: "forivall: scout/medic main<13><[U:1:35537041]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "1796 -1932 -287")
+L 10/14/2014 - 02:56:13: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "Batman #Highlander :P<20><[U:1:119213670]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "1141 -1557 -513") (victim_position "924 -1935 -552")
+L 10/14/2014 - 02:56:13: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "medic_death" against "Dr. MeeM<22><[U:1:81240647]><Blue>" (healing "738") (ubercharge "0")
+L 10/14/2014 - 02:56:13: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "Dr. MeeM<22><[U:1:81240647]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "1141 -1557 -513") (victim_position "986 -1876 -550")
+L 10/14/2014 - 02:56:19: "forivall: scout/medic main<13><[U:1:35537041]><Red>" killed "jondy<16><[U:1:95512994]><Blue>" with "tf_projectile_rocket" (attacker_position "1092 -2012 -401") (victim_position "1099 -2281 -575")
+L 10/14/2014 - 02:56:19: "jondy<16><[U:1:95512994]><Blue>" killed "forivall: scout/medic main<13><[U:1:35537041]><Red>" with "tf_projectile_rocket" (attacker_position "1099 -2281 -507") (victim_position "1099 -2018 -450")
+L 10/14/2014 - 02:56:19: "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Corrderio<8><[U:1:64775493]><Red>") (attacker_position "1106 -452 -335")
+L 10/14/2014 - 02:56:21: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "900 -1719 -554") (victim_position "802 -2220 -576")
+L 10/14/2014 - 02:56:21: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "domination" against "[RK] AnalThrasher<19><[U:1:81666540]><Blue>"
+L 10/14/2014 - 02:56:23: "Warfinge 'CBS<17><[U:1:10931439]><Red>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" with "degreaser" (attacker_position "729 50 -223") (victim_position "443 120 -91")
+L 10/14/2014 - 02:56:23: "jondy<16><[U:1:95512994]><Blue>" say "wow"
+L 10/14/2014 - 02:56:24: "Corrderio<8><[U:1:64775493]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1237 -685 -335")
+L 10/14/2014 - 02:56:25: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" with "powerjack" (attacker_position "983 -1376 -506") (victim_position "983 -1376 -410")
+L 10/14/2014 - 02:56:29: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "player_extinguished" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" with "tf_weapon_medigun" (attacker_position "1437 -717 -303") (victim_position "1493 -860 -263")
+L 10/14/2014 - 02:56:30: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" with "powerjack" (attacker_position "2092 -1625 -437") (victim_position "2111 -1568 -351")
+L 10/14/2014 - 02:56:36: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" with "degreaser" (attacker_position "1508 -1206 -381") (victim_position "1464 -982 -326")
+L 10/14/2014 - 02:56:44: "Warfinge 'CBS<17><[U:1:10931439]><Red>" triggered "player_extinguished" against "Luigi 'CBS<5><[U:1:95995338]><Red>" with "tf_weapon_flamethrower" (attacker_position "1266 -688 -335") (victim_position "1399 -761 -303")
+L 10/14/2014 - 02:56:45: "s εїз 'cbs<4><[U:1:83364746]><Red>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" with "scattergun" (attacker_position "1572 -544 -223") (victim_position "1460 -1390 -384")
+L 10/14/2014 - 02:56:45: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "kill assist" against "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" (assister_position "1362 -758 -335") (attacker_position "1572 -544 -223") (victim_position "1460 -1390 -384")
+L 10/14/2014 - 02:56:48: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "2136 -1027 -295")
+L 10/14/2014 - 02:56:54: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "sniperrifle") (objectowner "Corrderio<8><[U:1:64775493]><Red>") (attacker_position "1958 -2033 -295")
+L 10/14/2014 - 02:56:56: "jondy<16><[U:1:95512994]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Corrderio<8><[U:1:64775493]><Red>") (attacker_position "1482 -886 -266")
+L 10/14/2014 - 02:56:57: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "chargedeployed"
+L 10/14/2014 - 02:56:57: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" say "Shoulda gone shotgun the whole match"
+L 10/14/2014 - 02:56:58: "jondy<16><[U:1:95512994]><Blue>" killed "forivall: scout/medic main<13><[U:1:35537041]><Red>" with "tf_projectile_rocket" (attacker_position "1657 -1521 -359") (victim_position "1518 -861 -320")
+L 10/14/2014 - 02:56:58: "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" triggered "kill assist" against "forivall: scout/medic main<13><[U:1:35537041]><Red>" (assister_position "1464 -1300 -227") (attacker_position "1657 -1521 -359") (victim_position "1518 -861 -320")
+L 10/14/2014 - 02:57:01: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" with "knife" (customkill "backstab") (attacker_position "1884 -2087 -295") (victim_position "1890 -2037 -295")
+L 10/14/2014 - 02:57:01: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "captureblocked" (cp "1") (cpname "Cap B, the Red Shed spawn") (position "1872 -776 -160")
+L 10/14/2014 - 02:57:02: "Warfinge 'CBS<17><[U:1:10931439]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "degreaser") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "1956 -839 -295")
+L 10/14/2014 - 02:57:03: "Dr. MeeM<22><[U:1:81240647]><Blue>" triggered "player_extinguished" against "Batman #Highlander :P<20><[U:1:119213670]><Blue>" with "tf_weapon_medigun" (attacker_position "2387 -1211 -330") (victim_position "2333 -1177 -253")
+L 10/14/2014 - 02:57:03: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "captureblocked" (cp "1") (cpname "Cap B, the Red Shed spawn") (position "1952 -822 -295")
+L 10/14/2014 - 02:57:03: "Luigi 'CBS<5><[U:1:95995338]><Red>" killed "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" with "minigun" (attacker_position "1952 -822 -295") (victim_position "1988 -976 -288")
+L 10/14/2014 - 02:57:03: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "kill assist" against "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" (assister_position "2093 -900 -295") (attacker_position "1952 -822 -295") (victim_position "1988 -976 -288")
+L 10/14/2014 - 02:57:05: "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" killed "Batman #Highlander :P<20><[U:1:119213670]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "1695 -573 -223") (victim_position "1917 -1501 -390")
+L 10/14/2014 - 02:57:05: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "kill assist" against "Batman #Highlander :P<20><[U:1:119213670]><Blue>" (assister_position "1615 -656 -319") (attacker_position "1695 -573 -223") (victim_position "1917 -1501 -390")
+L 10/14/2014 - 02:57:05: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "domination" against "Batman #Highlander :P<20><[U:1:119213670]><Blue>" (assist "1")
+L 10/14/2014 - 02:57:06: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "medic_death" against "Dr. MeeM<22><[U:1:81240647]><Blue>" (healing "509") (ubercharge "0")
+L 10/14/2014 - 02:57:06: "Luigi 'CBS<5><[U:1:95995338]><Red>" killed "Dr. MeeM<22><[U:1:81240647]><Blue>" with "minigun" (attacker_position "1988 -1130 -295") (victim_position "2094 -1439 -337")
+L 10/14/2014 - 02:57:06: "Warfinge 'CBS<17><[U:1:10931439]><Red>" triggered "kill assist" against "Dr. MeeM<22><[U:1:81240647]><Blue>" (assister_position "2475 -1170 -303") (attacker_position "1988 -1130 -295") (victim_position "2094 -1439 -337")
+L 10/14/2014 - 02:57:07: "TheSegment<18><[U:1:178827641]><Blue>" killed "Warfinge 'CBS<17><[U:1:10931439]><Red>" with "minigun" (attacker_position "2683 -1501 -327") (victim_position "2469 -1033 -298")
+L 10/14/2014 - 02:57:07: "Luigi 'CBS<5><[U:1:95995338]><Red>" killed "TheSegment<18><[U:1:178827641]><Blue>" with "minigun" (attacker_position "2065 -1189 -295") (victim_position "2655 -1496 -327")
+L 10/14/2014 - 02:57:07: "s εїз 'cbs<4><[U:1:83364746]><Red>" triggered "kill assist" against "TheSegment<18><[U:1:178827641]><Blue>" (assister_position "2480 -1138 -303") (attacker_position "2065 -1189 -295") (victim_position "2655 -1496 -327")
+L 10/14/2014 - 02:57:10: "Luigi 'CBS<5><[U:1:95995338]><Red>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" with "minigun" (attacker_position "1967 -1317 -392") (victim_position "1589 -1708 -470")
+L 10/14/2014 - 02:57:10: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "kill assist" against "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" (assister_position "2195 -1096 -295") (attacker_position "1967 -1317 -392") (victim_position "1589 -1708 -470")
+L 10/14/2014 - 02:57:10: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "domination" against "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>"
+L 10/14/2014 - 02:57:11: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "1790 -604 -223") (victim_position "2101 -896 -295")
+L 10/14/2014 - 02:57:12: "Corrderio<8><[U:1:64775493]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "1235 1933 -31")
+L 10/14/2014 - 02:57:21: "Corrderio<8><[U:1:64775493]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "948 1191 -31")
+L 10/14/2014 - 02:57:29: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1703 -1568 -454")
+L 10/14/2014 - 02:57:30: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe_remote") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "1533 -1180 -381")
+L 10/14/2014 - 02:57:33: "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "2595 -1335 -320") (victim_position "1258 -1880 -514")
+L 10/14/2014 - 02:57:33: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "kill assist" against "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" (assister_position "1741 -669 -287") (attacker_position "2595 -1335 -320") (victim_position "1258 -1880 -514")
+L 10/14/2014 - 02:57:35: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1640 -1432 -435")
+L 10/14/2014 - 02:57:38: "jondy<16><[U:1:95512994]><Blue>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" with "tf_projectile_rocket" (attacker_position "2551 -1285 -274") (victim_position "2342 -972 -280")
+L 10/14/2014 - 02:57:38: "TheSegment<18><[U:1:178827641]><Blue>" triggered "kill assist" against "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" (assister_position "2291 -1490 -357") (attacker_position "2551 -1285 -274") (victim_position "2342 -972 -280")
+L 10/14/2014 - 02:57:40: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "player_extinguished" against "Warfinge 'CBS<17><[U:1:10931439]><Red>" with "tf_weapon_medigun" (attacker_position "1078 -767 -335") (victim_position "1247 -791 -335")
+L 10/14/2014 - 02:57:40: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "player_extinguished" against "Warfinge 'CBS<17><[U:1:10931439]><Red>" with "tf_weapon_medigun" (attacker_position "1048 -692 -335") (victim_position "1247 -699 -335")
+L 10/14/2014 - 02:57:41: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "player_extinguished" against "Warfinge 'CBS<17><[U:1:10931439]><Red>" with "tf_weapon_medigun" (attacker_position "1063 -618 -335") (victim_position "1255 -657 -335")
+L 10/14/2014 - 02:57:42: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "1688 -1415 -433")
+L 10/14/2014 - 02:57:43: "Warfinge 'CBS<17><[U:1:10931439]><Red>" triggered "player_extinguished" against "Luigi 'CBS<5><[U:1:95995338]><Red>" with "tf_weapon_flamethrower" (attacker_position "1057 -719 -275") (victim_position "1048 -487 -275")
+L 10/14/2014 - 02:57:45: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" killed "TheSegment<18><[U:1:178827641]><Blue>" with "knife" (customkill "backstab") (attacker_position "2106 -1007 -295") (victim_position "2063 -971 -288")
+L 10/14/2014 - 02:57:45: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "1523 -929 -331")
+L 10/14/2014 - 02:57:45: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1523 -929 -331")
+L 10/14/2014 - 02:57:46: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" triggered "captureblocked" (cp "1") (cpname "Cap B, the Red Shed spawn") (position "2085 -834 -295")
+L 10/14/2014 - 02:57:46: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" killed "jondy<16><[U:1:95512994]><Blue>" with "knife" (customkill "backstab") (attacker_position "2085 -834 -295") (victim_position "2035 -884 -294")
+L 10/14/2014 - 02:57:46: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "kill assist" against "jondy<16><[U:1:95512994]><Blue>" (assister_position "1133 -520 -335") (attacker_position "2085 -834 -295") (victim_position "2035 -884 -294")
+L 10/14/2014 - 02:57:46: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "domination" against "jondy<16><[U:1:95512994]><Blue>" (assist "1")
+L 10/14/2014 - 02:57:46: "Warfinge 'CBS<17><[U:1:10931439]><Red>" triggered "player_extinguished" against "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" with "tf_weapon_flamethrower" (attacker_position "1030 -326 -289") (victim_position "1054 -248 -237")
+L 10/14/2014 - 02:57:47: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" with "ambassador" (attacker_position "2388 -1137 -303") (victim_position "2219 -941 -298")
+L 10/14/2014 - 02:57:47: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "kill assist" against "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" (assister_position "1128 -495 -335") (attacker_position "2388 -1137 -303") (victim_position "2219 -941 -298")
+L 10/14/2014 - 02:57:47: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "1130 -495 -335")
+L 10/14/2014 - 02:57:48: "Batman #Highlander :P<20><[U:1:119213670]><Blue>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" with "ullapool_caber_explosion" (attacker_position "1429 -617 -303") (victim_position "1395 -559 -325")
+L 10/14/2014 - 02:57:48: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "kill assist" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" (assister_position "1989 -1402 -403") (attacker_position "1429 -617 -303") (victim_position "1395 -559 -325")
+L 10/14/2014 - 02:57:48: "Batman #Highlander :P<20><[U:1:119213670]><Blue>" triggered "revenge" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>"
+L 10/14/2014 - 02:57:48: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "revenge" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" (assist "1")
+L 10/14/2014 - 02:57:50: "Corrderio<8><[U:1:64775493]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "1863 1767 -31")
+L 10/14/2014 - 02:57:51: "Luigi 'CBS<5><[U:1:95995338]><Red>" killed "Batman #Highlander :P<20><[U:1:119213670]><Blue>" with "minigun" (attacker_position "1217 -643 -335") (victim_position "1554 -556 -223")
+L 10/14/2014 - 02:57:51: "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" with "scattergun" (attacker_position "2054 -1079 -293") (victim_position "2554 -1416 -329")
+L 10/14/2014 - 02:57:51: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" triggered "kill assist" against "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" (assister_position "2222 -961 -230") (attacker_position "2054 -1079 -293") (victim_position "2554 -1416 -329")
+L 10/14/2014 - 02:57:55: "forivall: scout/medic main<13><[U:1:35537041]><Red>" triggered "captureblocked" (cp "1") (cpname "Cap B, the Red Shed spawn") (position "1720 -810 -201")
+L 10/14/2014 - 02:57:56: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "2125 -1202 -332")
+L 10/14/2014 - 02:57:56: "forivall: scout/medic main<13><[U:1:35537041]><Red>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" with "tf_projectile_rocket" (attacker_position "1861 -900 -295") (victim_position "1893 -961 -181")
+L 10/14/2014 - 02:57:58: "forivall: scout/medic main<13><[U:1:35537041]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "1892 -755 -302")
+L 10/14/2014 - 02:58:03: "Warfinge 'CBS<17><[U:1:10931439]><Red>" killed "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" with "reserve_shooter" (attacker_position "2007 -976 -288") (victim_position "1844 -1524 -442")
+L 10/14/2014 - 02:58:03: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "kill assist" against "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" (assister_position "1678 -635 -223") (attacker_position "2007 -976 -288") (victim_position "1844 -1524 -442")
+L 10/14/2014 - 02:58:05: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" killed "Warfinge 'CBS<17><[U:1:10931439]><Red>" with "sniperrifle" (attacker_position "1876 -2035 -295") (victim_position "1883 -733 -303")
+L 10/14/2014 - 02:58:08: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "forivall: scout/medic main<13><[U:1:35537041]><Red>" with "deflect_rocket" (attacker_position "880 -1911 -553") (victim_position "1034 -1852 -542")
+L 10/14/2014 - 02:58:16: "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" killed "jondy<16><[U:1:95512994]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "1662 -545 -223") (victim_position "1806 -1972 -295")
+L 10/14/2014 - 02:58:16: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "s εїз 'cbs<4><[U:1:83364746]><Red>" with "shotgun_pyro" (attacker_position "2311 -1371 -353") (victim_position "2415 -1252 -247")
+L 10/14/2014 - 02:58:16: "TheSegment<18><[U:1:178827641]><Blue>" triggered "kill assist" against "s εїз 'cbs<4><[U:1:83364746]><Red>" (assister_position "802 -1928 -552") (attacker_position "2311 -1371 -353") (victim_position "2415 -1252 -247")
+L 10/14/2014 - 02:58:19: "Luigi 'CBS<5><[U:1:95995338]><Red>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" with "minigun" (attacker_position "1979 -886 -288") (victim_position "2119 -1283 -380")
+L 10/14/2014 - 02:58:19: "s εїз 'cbs<4><[U:1:83364746]><Red>" triggered "kill assist" against "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" (assister_position "2512 -1202 -247") (attacker_position "1979 -886 -288") (victim_position "2119 -1283 -380")
+L 10/14/2014 - 02:58:22: "s εїз 'cbs<4><[U:1:83364746]><Red>" say "omg shotgun proooo"
+L 10/14/2014 - 02:58:23: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" with "sniperrifle" (attacker_position "1817 -2064 -295") (victim_position "1603 -560 -223")
+L 10/14/2014 - 02:58:23: "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" triggered "kill assist" against "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" (assister_position "1571 -1305 -393") (attacker_position "1817 -2064 -295") (victim_position "1603 -560 -223")
+L 10/14/2014 - 02:58:24: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "Batman #Highlander :P<20><[U:1:119213670]><Blue>" with "tf_projectile_pipe" (attacker_position "1114 -924 -335") (victim_position "1140 -876 -335")
+L 10/14/2014 - 02:58:24: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "kill assist" against "Batman #Highlander :P<20><[U:1:119213670]><Blue>" (assister_position "853 -1124 -218") (attacker_position "1114 -924 -335") (victim_position "1140 -876 -335")
+L 10/14/2014 - 02:58:26: "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" killed "Luigi 'CBS<5><[U:1:95995338]><Red>" with "scattergun" (attacker_position "1245 -696 -257") (victim_position "1115 -836 -335")
+L 10/14/2014 - 02:58:26: "Batman #Highlander :P<20><[U:1:119213670]><Blue>" triggered "kill assist" against "Luigi 'CBS<5><[U:1:95995338]><Red>" (assister_position "1140 -876 -267") (attacker_position "1245 -696 -257") (victim_position "1115 -836 -335")
+L 10/14/2014 - 02:58:27: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "708 -2342 -575")
+L 10/14/2014 - 02:58:31: "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "scattergun") (objectowner "Corrderio<8><[U:1:64775493]><Red>") (attacker_position "1366 -1045 -335")
+L 10/14/2014 - 02:58:34: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" say "Can't tell if you're makin fun"
+L 10/14/2014 - 02:58:36: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "chargedeployed"
+L 10/14/2014 - 02:58:38: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" triggered "captureblocked" (cp "1") (cpname "Cap B, the Red Shed spawn") (position "1826 -1144 -295")
+L 10/14/2014 - 02:58:42: "TheSegment<18><[U:1:178827641]><Blue>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" with "minigun" (attacker_position "1926 -1464 -427") (victim_position "1638 -1730 -469")
+L 10/14/2014 - 02:58:42: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" triggered "kill assist" against "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" (assister_position "1868 -1543 -441") (attacker_position "1926 -1464 -427") (victim_position "1638 -1730 -469")
+L 10/14/2014 - 02:58:43: "s εїз 'cbs<4><[U:1:83364746]><Red>" say "I'm pretty bad"
+L 10/14/2014 - 02:58:44: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "TheSegment<18><[U:1:178827641]><Blue>" with "tf_projectile_pipe" (attacker_position "2039 -1179 -251") (victim_position "1862 -1587 -448")
+L 10/14/2014 - 02:58:44: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "kill assist" against "TheSegment<18><[U:1:178827641]><Blue>" (assister_position "1883 -994 -288") (attacker_position "2039 -1179 -251") (victim_position "1862 -1587 -448")
+L 10/14/2014 - 02:58:49: "jondy<16><[U:1:95512994]><Blue>" triggered "medic_death" against "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" (healing "6725") (ubercharge "0")
+L 10/14/2014 - 02:58:49: "jondy<16><[U:1:95512994]><Blue>" killed "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" with "tf_projectile_rocket" (attacker_position "2027 -856 -295") (victim_position "1821 -720 -266")
+L 10/14/2014 - 02:58:49: "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" triggered "kill assist" against "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" (assister_position "1936 -767 -135") (attacker_position "2027 -856 -295") (victim_position "1821 -720 -266")
+L 10/14/2014 - 02:58:49: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "captureblocked" (cp "1") (cpname "Cap B, the Red Shed spawn") (position "2283 -1122 -305")
+L 10/14/2014 - 02:58:49: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "jondy<16><[U:1:95512994]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "2283 -1122 -305") (victim_position "1938 -911 -288")
+L 10/14/2014 - 02:58:49: "forivall: scout/medic main<13><[U:1:35537041]><Red>" triggered "kill assist" against "jondy<16><[U:1:95512994]><Blue>" (assister_position "1899 -1179 -295") (attacker_position "2283 -1122 -305") (victim_position "1938 -911 -288")
+L 10/14/2014 - 02:58:52: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" triggered "jarate_attack" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" with "tf_weapon_jar" (attacker_position "1569 -1715 -474") (victim_position "1961 -962 -288")
+L 10/14/2014 - 02:58:53: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "2315 -1041 -260")
+L 10/14/2014 - 02:58:53: "Warfinge 'CBS<17><[U:1:10931439]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "degreaser") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "2241 -1059 -302")
+L 10/14/2014 - 02:58:53: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "forivall: scout/medic main<13><[U:1:35537041]><Red>" with "degreaser" (attacker_position "2511 -1202 -312") (victim_position "2258 -858 -214")
+L 10/14/2014 - 02:58:53: "Batman #Highlander :P<20><[U:1:119213670]><Blue>" triggered "kill assist" against "forivall: scout/medic main<13><[U:1:35537041]><Red>" (assister_position "1619 -1692 -468") (attacker_position "2511 -1202 -312") (victim_position "2258 -858 -214")
+L 10/14/2014 - 02:58:54: "Warfinge 'CBS<17><[U:1:10931439]><Red>" triggered "captureblocked" (cp "1") (cpname "Cap B, the Red Shed spawn") (position "2185 -916 -295")
+L 10/14/2014 - 02:58:54: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "Warfinge 'CBS<17><[U:1:10931439]><Red>" with "degreaser" (attacker_position "2379 -1126 -309") (victim_position "2175 -907 -295")
+L 10/14/2014 - 02:58:55: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" with "sniperrifle" (customkill "headshot") (attacker_position "1857 -1630 -457") (victim_position "1464 -862 -307")
+L 10/14/2014 - 02:58:55: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" triggered "kill assist" against "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" (assister_position "2281 -955 -301") (attacker_position "1857 -1630 -457") (victim_position "1464 -862 -307")
+L 10/14/2014 - 02:58:56: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" triggered "player_extinguished" against "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" with "tf_weapon_flamethrower" (attacker_position "1964 -978 -288") (victim_position "1822 -1061 -295")
+L 10/14/2014 - 02:58:57: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Cap B, the Red Shed spawn") (numcappers "2") (player1 "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (position1 "2113 -936 -295") (player2 "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>") (position2 "1772 -851 -295") 
+L 10/14/2014 - 02:59:03: "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" with "bat" (attacker_position "1007 231 -223") (victim_position "959 231 -223")
+L 10/14/2014 - 02:59:04: "s εїз 'cbs<4><[U:1:83364746]><Red>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" with "scattergun" (attacker_position "1146 56 -223") (victim_position "987 230 -223")
+L 10/14/2014 - 02:59:04: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "s εїз 'cbs<4><[U:1:83364746]><Red>" with "shotgun_pyro" (attacker_position "1121 -291 -266") (victim_position "1079 91 -223")
+L 10/14/2014 - 02:59:04: "Batman #Highlander :P<20><[U:1:119213670]><Blue>" triggered "kill assist" against "s εїз 'cbs<4><[U:1:83364746]><Red>" (assister_position "1060 -204 -223") (attacker_position "1121 -291 -266") (victim_position "1079 91 -223")
+L 10/14/2014 - 02:59:12: "Dr. MeeM<22><[U:1:81240647]><Blue>" triggered "chargedeployed"
+L 10/14/2014 - 02:59:13: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "627 109 -219")
+L 10/14/2014 - 02:59:13: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "Luigi 'CBS<5><[U:1:95995338]><Red>" with "degreaser" (attacker_position "1315 853 -233") (victim_position "1011 838 -159")
+L 10/14/2014 - 02:59:13: "Batman #Highlander :P<20><[U:1:119213670]><Blue>" triggered "kill assist" against "Luigi 'CBS<5><[U:1:95995338]><Red>" (assister_position "749 796 -159") (attacker_position "1315 853 -233") (victim_position "1011 838 -159")
+L 10/14/2014 - 02:59:13: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" triggered "revenge" against "Luigi 'CBS<5><[U:1:95995338]><Red>"
+L 10/14/2014 - 02:59:17: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "object_detonated" (object "OBJ_TELEPORTER") (position "1122 -416 -335")
+L 10/14/2014 - 02:59:17: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "pda_engineer") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "1122 -416 -335")
+L 10/14/2014 - 02:59:18: "Corrderio<8><[U:1:64775493]><Red>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" with "obj_sentrygun3" (attacker_position "-226 760 -223") (victim_position "1330 1190 -178")
+L 10/14/2014 - 02:59:19: "Batman #Highlander :P<20><[U:1:119213670]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe_remote") (objectowner "Corrderio<8><[U:1:64775493]><Red>") (attacker_position "1387 1324 -171")
+L 10/14/2014 - 02:59:19: "Dr. MeeM<22><[U:1:81240647]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (objectowner "Corrderio<8><[U:1:64775493]><Red>") (assist "1") (assister_position "1055 1568 -209") (attacker_position "1387 1324 -171")
+L 10/14/2014 - 02:59:25: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe_remote") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "-25 758 -223")
+L 10/14/2014 - 02:59:25: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (assist "1") (assister_position "70 856 -223") (attacker_position "-25 758 -223")
+L 10/14/2014 - 02:59:25: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "1033 -128 -223")
+L 10/14/2014 - 02:59:26: "forivall: scout/medic main<13><[U:1:35537041]><Red>" triggered "medic_death" against "Dr. MeeM<22><[U:1:81240647]><Blue>" (healing "1622") (ubercharge "0")
+L 10/14/2014 - 02:59:26: "forivall: scout/medic main<13><[U:1:35537041]><Red>" killed "Dr. MeeM<22><[U:1:81240647]><Blue>" with "tf_projectile_rocket" (attacker_position "1276 848 -281") (victim_position "1096 912 -289")
+L 10/14/2014 - 02:59:27: "Batman #Highlander :P<20><[U:1:119213670]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_pipe_remote") (objectowner "Corrderio<8><[U:1:64775493]><Red>") (attacker_position "1565 1685 -31")
+L 10/14/2014 - 02:59:29: "jondy<16><[U:1:95512994]><Blue>" killed "Warfinge 'CBS<17><[U:1:10931439]><Red>" with "tf_projectile_rocket" (attacker_position "1623 1456 -31") (victim_position "1469 1512 -31")
+L 10/14/2014 - 02:59:29: "TheSegment<18><[U:1:178827641]><Blue>" triggered "kill assist" against "Warfinge 'CBS<17><[U:1:10931439]><Red>" (assister_position "1767 643 8") (attacker_position "1623 1456 -31") (victim_position "1469 1512 -31")
+L 10/14/2014 - 02:59:29: "TheSegment<18><[U:1:178827641]><Blue>" triggered "domination" against "Warfinge 'CBS<17><[U:1:10931439]><Red>" (assist "1")
+L 10/14/2014 - 02:59:30: "Corrderio<8><[U:1:64775493]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "451 676 -95")
+L 10/14/2014 - 02:59:31: "jondy<16><[U:1:95512994]><Blue>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" with "tf_projectile_rocket" (attacker_position "1513 1936 -31") (victim_position "1879 2012 -31")
+L 10/14/2014 - 02:59:33: "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" with "sniperrifle" (attacker_position "-57 808 -223") (victim_position "288 63 -139")
+L 10/14/2014 - 02:59:33: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "kill assist" against "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" (assister_position "317 697 -415") (attacker_position "-57 808 -223") (victim_position "288 63 -139")
+L 10/14/2014 - 02:59:37: "forivall: scout/medic main<13><[U:1:35537041]><Red>" killed "TheSegment<18><[U:1:178827641]><Blue>" with "tf_projectile_rocket" (attacker_position "1783 1410 -66") (victim_position "1753 1717 -31")
+L 10/14/2014 - 02:59:39: "s εїз 'cbs<4><[U:1:83364746]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "scattergun") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "968 -7 -223")
+L 10/14/2014 - 02:59:40: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "jondy<16><[U:1:95512994]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "1048 1529 -211") (victim_position "1460 1714 18")
+L 10/14/2014 - 02:59:41: "Corrderio<8><[U:1:64775493]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "580 404 -95")
+L 10/14/2014 - 02:59:43: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "captureblocked" (cp "2") (cpname "Cap C, The bridge controls") (position "994 1229 -31")
+L 10/14/2014 - 02:59:43: "Luigi 'CBS<5><[U:1:95995338]><Red>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" with "minigun" (attacker_position "994 1229 -31") (victim_position "1596 1701 -31")
+L 10/14/2014 - 02:59:43: "forivall: scout/medic main<13><[U:1:35537041]><Red>" triggered "kill assist" against "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" (assister_position "991 822 -327") (attacker_position "994 1229 -31") (victim_position "1596 1701 -31")
+L 10/14/2014 - 02:59:47: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "2347 -944 -302")
+L 10/14/2014 - 02:59:48: "Batman #Highlander :P<20><[U:1:119213670]><Blue>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" with "tf_projectile_pipe_remote" (attacker_position "597 1669 -31") (victim_position "923 1229 -31")
+L 10/14/2014 - 02:59:48: "Luigi 'CBS<5><[U:1:95995338]><Red>" killed "Batman #Highlander :P<20><[U:1:119213670]><Blue>" with "minigun" (attacker_position "776 1483 -31") (victim_position "630 1671 -31")
+L 10/14/2014 - 02:59:57: "Luigi 'CBS<5><[U:1:95995338]><Red>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" with "minigun" (attacker_position "1441 1421 -31") (victim_position "1133 1215 -207")
+L 10/14/2014 - 02:59:57: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "kill assist" against "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" (assister_position "1819 1786 -31") (attacker_position "1441 1421 -31") (victim_position "1133 1215 -207")
+L 10/14/2014 - 02:59:57: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "domination" against "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" (assist "1")
+L 10/14/2014 - 03:00:01: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "player_extinguished" against "forivall: scout/medic main<13><[U:1:35537041]><Red>" with "tf_weapon_medigun" (attacker_position "1776 1765 -31") (victim_position "1428 1612 -24")
+L 10/14/2014 - 03:00:08: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1078 -43 -223")
+L 10/14/2014 - 03:00:17: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "1030 15 -223")
+L 10/14/2014 - 03:00:18: "Corrderio<8><[U:1:64775493]><Red>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" with "world" (attacker_position "562 398 -95") (victim_position "-112 -135 -1626")
+L 10/14/2014 - 03:00:19: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "645 87 -219")
+L 10/14/2014 - 03:00:19: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "645 87 -219")
+L 10/14/2014 - 03:00:23: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" triggered "player_builtobject" (object "OBJ_ATTACHMENT_SAPPER") (position "709 130 -219")
+L 10/14/2014 - 03:00:26: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "obj_attachment_sapper") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "537 -361 -223")
+L 10/14/2014 - 03:00:27: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" with "degreaser" (attacker_position "544 -82 -223") (victim_position "536 -362 -223")
+L 10/14/2014 - 03:00:31: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "637 111 -219")
+L 10/14/2014 - 03:00:31: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "Batman #Highlander :P<20><[U:1:119213670]><Blue>" with "tf_projectile_pipe" (attacker_position "889 725 -327") (victim_position "687 931 -359")
+L 10/14/2014 - 03:00:31: "forivall: scout/medic main<13><[U:1:35537041]><Red>" triggered "kill assist" against "Batman #Highlander :P<20><[U:1:119213670]><Blue>" (assister_position "1215 1014 -266") (attacker_position "889 725 -327") (victim_position "687 931 -359")
+L 10/14/2014 - 03:00:34: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" with "shotgun_pyro" (attacker_position "807 739 -327") (victim_position "785 999 -292")
+L 10/14/2014 - 03:00:40: "forivall: scout/medic main<13><[U:1:35537041]><Red>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" with "tf_projectile_rocket" (attacker_position "838 258 -210") (victim_position "791 205 -223")
+L 10/14/2014 - 03:00:40: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "kill assist" against "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" (assister_position "-21 760 -223") (attacker_position "838 258 -210") (victim_position "791 205 -223")
+L 10/14/2014 - 03:00:40: "TheSegment<18><[U:1:178827641]><Blue>" killed "forivall: scout/medic main<13><[U:1:35537041]><Red>" with "world" (attacker_position "814 185 -223") (victim_position "838 258 -210")
+L 10/14/2014 - 03:00:40: "Dr. MeeM<22><[U:1:81240647]><Blue>" triggered "kill assist" against "forivall: scout/medic main<13><[U:1:35537041]><Red>" (assister_position "785 60 -223") (attacker_position "814 185 -223") (victim_position "838 258 -210")
+L 10/14/2014 - 03:00:42: "Luigi 'CBS<5><[U:1:95995338]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "197 680 -156")
+L 10/14/2014 - 03:00:43: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" with "powerjack" (attacker_position "1600 1494 -31") (victim_position "1622 1527 59")
+L 10/14/2014 - 03:00:43: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" triggered "domination" against "headsnoogles› fbs!!<10><[U:1:19572214]><Red>"
+L 10/14/2014 - 03:00:48: "jondy<16><[U:1:95512994]><Blue>" killed "Warfinge 'CBS<17><[U:1:10931439]><Red>" with "tf_projectile_rocket" (attacker_position "-1019 1168 -168") (victim_position "-879 878 -191")
+L 10/14/2014 - 03:00:50: "Luigi 'CBS<5><[U:1:95995338]><Red>" killed "jondy<16><[U:1:95512994]><Blue>" with "minigun" (attacker_position "-863 934 -191") (victim_position "-838 1484 -191")
+L 10/14/2014 - 03:00:50: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "kill assist" against "jondy<16><[U:1:95512994]><Blue>" (assister_position "-627 699 -223") (attacker_position "-863 934 -191") (victim_position "-838 1484 -191")
+L 10/14/2014 - 03:00:53: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_carryobject" (object "OBJ_DISPENSER") (position "1087 -2388 -575")
+L 10/14/2014 - 03:00:54: "s εїз 'cbs<4><[U:1:83364746]><Red>" committed suicide with "world" (attacker_position "-181 28 -1640")
+L 10/14/2014 - 03:00:59: "Corrderio<8><[U:1:64775493]><Red>" killed "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" with "obj_sentrygun3" (attacker_position "483 939 -31") (victim_position "-183 195 -543")
+L 10/14/2014 - 03:00:59: "Corrderio<8><[U:1:64775493]><Red>" triggered "domination" against "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>"
+L 10/14/2014 - 03:01:01: "Dr. MeeM<22><[U:1:81240647]><Blue>" triggered "chargedeployed"
+L 10/14/2014 - 03:01:02: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" triggered "chargedeployed"
+L 10/14/2014 - 03:01:07: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_dropobject" (object "OBJ_DISPENSER") (position "2316 -973 -304")
+L 10/14/2014 - 03:01:07: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "2316 -973 -304")
+L 10/14/2014 - 03:01:07: "s εїз 'cbs<4><[U:1:83364746]><Red>" say "is anyone spychecking pit??"
+L 10/14/2014 - 03:01:09: "TheeFailDoctor 'CBS<0><[U:1:33935456]><Red>" triggered "medic_death" against "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" (healing "1924") (ubercharge "0")
+L 10/14/2014 - 03:01:09: "TheeFailDoctor 'CBS<9><[U:1:33935456]><Red>" committed suicide with "world" (attacker_position "136 -102 -963")
+L 10/14/2014 - 03:01:13: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "Batman #Highlander :P<20><[U:1:119213670]><Blue>" with "tf_projectile_pipe" (attacker_position "-205 737 -223") (victim_position "167 772 -181")
+L 10/14/2014 - 03:01:13: "Corrderio<8><[U:1:64775493]><Red>" triggered "kill assist" against "Batman #Highlander :P<20><[U:1:119213670]><Blue>" (assister_position "379 717 -95") (attacker_position "-205 737 -223") (victim_position "167 772 -181")
+L 10/14/2014 - 03:01:16: "Luigi 'CBS<5><[U:1:95995338]><Red>" committed suicide with "world" (attacker_position "-106 -108 -1640")
+L 10/14/2014 - 03:01:17: "forivall: scout/medic main<13><[U:1:35537041]><Red>" triggered "medic_death" against "Dr. MeeM<22><[U:1:81240647]><Blue>" (healing "1502") (ubercharge "0")
+L 10/14/2014 - 03:01:17: "forivall: scout/medic main<13><[U:1:35537041]><Red>" killed "Dr. MeeM<22><[U:1:81240647]><Blue>" with "tf_projectile_rocket" (attacker_position "943 131 -223") (victim_position "1062 -54 -223")
+L 10/14/2014 - 03:01:18: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" with "world" (attacker_position "-97 766 -223") (victim_position "522 196 -223")
+L 10/14/2014 - 03:01:18: "Corrderio<8><[U:1:64775493]><Red>" triggered "kill assist" against "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" (assister_position "480 856 -31") (attacker_position "-97 766 -223") (victim_position "522 196 -223")
+L 10/14/2014 - 03:01:20: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1085 -185 -223")
+L 10/14/2014 - 03:01:21: "TheSegment<18><[U:1:178827641]><Blue>" killed "forivall: scout/medic main<13><[U:1:35537041]><Red>" with "minigun" (attacker_position "1101 139 -223") (victim_position "1190 116 -223")
+L 10/14/2014 - 03:01:22: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" triggered "jarate_attack" against "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" with "tf_weapon_jar" (attacker_position "838 288 -195") (victim_position "779 230 -223")
+L 10/14/2014 - 03:01:23: "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" killed "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" with "fryingpan" (attacker_position "760 384 -159") (victim_position "789 462 -159")
+L 10/14/2014 - 03:01:29: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "1103 -219 -223")
+L 10/14/2014 - 03:01:31: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "676 104 -219")
+L 10/14/2014 - 03:01:31: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "676 104 -219")
+L 10/14/2014 - 03:01:32: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "135 -523 -223") (victim_position "763 72 -223")
+L 10/14/2014 - 03:01:32: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe_remote") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "135 -523 -223")
+L 10/14/2014 - 03:01:37: "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" killed "TheSegment<18><[U:1:178827641]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "-227 632 -223") (victim_position "717 114 -223")
+L 10/14/2014 - 03:01:38: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "695 108 -219")
+L 10/14/2014 - 03:01:39: "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" killed "Batman #Highlander :P<20><[U:1:119213670]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "-241 651 -223") (victim_position "669 113 -219")
+L 10/14/2014 - 03:01:39: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "kill assist" against "Batman #Highlander :P<20><[U:1:119213670]><Blue>" (assister_position "348 -506 -143") (attacker_position "-241 651 -223") (victim_position "669 113 -219")
+L 10/14/2014 - 03:01:39: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "domination" against "Batman #Highlander :P<20><[U:1:119213670]><Blue>" (assist "1")
+L 10/14/2014 - 03:01:41: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe_remote") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "473 -328 -223")
+L 10/14/2014 - 03:01:42: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" say "gg"
+L 10/14/2014 - 03:01:43: "[RK] Sexy Bitch<15><[U:1:93117860]><Blue>" killed "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" with "scattergun" (attacker_position "-277 668 -223") (victim_position "-229 632 -223")
+L 10/14/2014 - 03:01:44: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" say "gg"
+L 10/14/2014 - 03:01:45: "s εїз 'cbs<4><[U:1:83364746]><Red>" triggered "captureblocked" (cp "2") (cpname "Cap C, The bridge controls") (position "1397 1438 -31")
+L 10/14/2014 - 03:01:48: "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "641 116 -219")
+L 10/14/2014 - 03:01:48: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "[RK] AnalThrasher<19><[U:1:81666540]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "879 26 -223") (victim_position "728 118 -223")
+L 10/14/2014 - 03:01:50: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe_remote") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "811 87 -223")
+L 10/14/2014 - 03:01:51: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" killed "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" with "tf_projectile_pipe" (attacker_position "722 143 -223") (victim_position "824 146 -223")
+L 10/14/2014 - 03:01:51: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" with "world" (attacker_position "824 146 -223") (victim_position "722 143 -223")
+L 10/14/2014 - 03:01:52: World triggered "Round_Win" (winner "Red")
+L 10/14/2014 - 03:01:52: World triggered "Round_Length" (seconds "525.03")
+L 10/14/2014 - 03:01:52: Team "Red" current score "5" with "9" players
+L 10/14/2014 - 03:01:52: Team "Blue" current score "2" with "8" players
+L 10/14/2014 - 03:01:52: "s εїз 'cbs<4><[U:1:83364746]><Red>" killed "jondy<16><[U:1:95512994]><Blue>" with "scattergun" (attacker_position "1608 1757 -31") (victim_position "1714 1752 -31")
+L 10/14/2014 - 03:01:53: "Luigi 'CBS<5><[U:1:95995338]><Red>" committed suicide with "world" (attacker_position "179 237 -1332")
+L 10/14/2014 - 03:01:53: "TheSegment<18><[U:1:178827641]><Blue>" say "aaaaaaagaaaaagaaaaaaaaaaaaaaa"
+L 10/14/2014 - 03:01:54: "headsnoogles› fbs!!<10><[U:1:19572214]><Red>" say "GG"
+L 10/14/2014 - 03:01:55: "TheSegment<18><[U:1:178827641]><Blue>" say "gg"
+L 10/14/2014 - 03:01:56: "Luigi 'CBS<5><[U:1:95995338]><Red>" say "gg"
+L 10/14/2014 - 03:01:56: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" say "gg"
+L 10/14/2014 - 03:01:57: World triggered "Game_Over" reason "Reached Round Limit"
+L 10/14/2014 - 03:01:57: Team "Red" final score "0" with "9" players
+L 10/14/2014 - 03:01:57: Team "Blue" final score "0" with "8" players
+L 10/14/2014 - 03:01:57: "s εїз 'cbs<4><[U:1:83364746]><Red>" say "gg"
+L 10/14/2014 - 03:01:57: "Dr. MeeM<0><[U:1:81240647]><Blue>" triggered "medic_death" against "Dr. MeeM<22><[U:1:81240647]><Blue>" (healing "0") (ubercharge "0")
+L 10/14/2014 - 03:01:57: "Dr. MeeM<22><[U:1:81240647]><Blue>" committed suicide with "world" (attacker_position "80 90 -1280")
+L 10/14/2014 - 03:01:57: "Corrderio<8><[U:1:64775493]><Red>" say_team "[P-REC] Stop record."
+L 10/14/2014 - 03:02:00: "s εїз 'cbs<4><[U:1:83364746]><Red>" say ".ss"
+L 10/14/2014 - 03:02:00: "✪ Boshiya {<3 TI} CBS w/ Thin<6><[U:1:80660513]><Red>" say ".ss"
+L 10/14/2014 - 03:02:04: "forivall: scout/medic main<13><[U:1:35537041]><Red>" say "gg"
+L 10/14/2014 - 03:02:05: "forivall: scout/medic main<13><[U:1:35537041]><Red>" say ".ss"
+L 10/14/2014 - 03:02:05: "Corrderio<8><[U:1:64775493]><Red>" triggered "object_detonated" (object "OBJ_DISPENSER") (position "491 744 -95")
+L 10/14/2014 - 03:02:05: "Corrderio<8><[U:1:64775493]><Red>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "491 744 -95")
+L 10/14/2014 - 03:02:05: "Corrderio<8><[U:1:64775493]><Red>" triggered "object_detonated" (object "OBJ_TELEPORTER") (position "491 744 -95")
+L 10/14/2014 - 03:02:06: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" killed "[RK] Meepin'Bloodeh<14><[U:1:101986181]><Blue>" with "knife" (customkill "backstab") (attacker_position "1955 -1047 -288") (victim_position "1993 -995 -288")
+L 10/14/2014 - 03:02:07: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" triggered "player_builtobject" (object "OBJ_ATTACHMENT_SAPPER") (position "2232 -970 -298")
+L 10/14/2014 - 03:02:07: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" triggered "player_builtobject" (object "OBJ_ATTACHMENT_SAPPER") (position "2232 -970 -298")
+L 10/14/2014 - 03:02:08: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" triggered "player_builtobject" (object "OBJ_ATTACHMENT_SAPPER") (position "2300 -1004 -304")
+L 10/14/2014 - 03:02:12: "Batman #Highlander :P<20><[U:1:119213670]><Blue>" say "( ͡° ͜ʖ ͡°)"
+L 10/14/2014 - 03:02:13: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "obj_attachment_sapper") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "1137 -505 -335")
+L 10/14/2014 - 03:02:14: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "obj_attachment_sapper") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "1130 -474 -335")
+L 10/14/2014 - 03:02:16: "JESUS TAKE THE WHEEL!!!<7><[U:1:99542858]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "obj_attachment_sapper") (objectowner "[RK] AnalThrasher<19><[U:1:81666540]><Blue>") (attacker_position "712 81 -219")
+L 10/14/2014 - 03:02:20: "[RK]❖Doshi❖<12><[U:1:76563813]><Blue>" killed "JESUS T
